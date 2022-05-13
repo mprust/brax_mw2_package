@@ -334,13 +334,15 @@ onNormalDeath( victim, attacker, lifeId )
 
     team = victim.team;
 
-    if ( game["state"] == "postgame" && (victim.team == game["defenders"]) )
-        attacker.finalKill = true;
-
-    if(level.bombplanted && self.pers["team"] == game["attackers"] )
+    if (level.bombplanted && victim.team == game["attackers"])
     {
         attacker.finalKill = true;
-        level thread bombDefused();
+        thread bombDefused();
+    }
+  
+    if (game["state"] == "postgame" && (victim.team != attacker.pers["team"]))
+    {
+        attacker.finalKill = true;
     }
 
     if ( victim.isPlanting )
