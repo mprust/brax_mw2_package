@@ -1,0 +1,3446 @@
+[       424] '+set fs_game mods/brax_pkg'
+[       424] Build IW4x v0.6.1 XInput (built Dec  9 2020 12:24:23). Logfile opened on Sat Apr 30 16:04:01 2022
+
+[       424] Current language: english
+[       424] Current search path:
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/mods/brax_pkg
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/userraw
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_02.iwd (10 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_01.iwd (102 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_00.iwd (578 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/iw4x
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc8_00.iwd (2070 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc7_00.iwd (829 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc6_00.iwd (711 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_01.iwd (196 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_00.iwd (1986 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_01.iwd (274 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_00.iwd (1186 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc3_00.iwd (1350 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_23.iwd (425 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_22.iwd (430 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_21.iwd (46 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_20.iwd (86 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_19.iwd (57 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_18.iwd (61 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_17.iwd (125 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_16.iwd (171 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_15.iwd (198 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_14.iwd (406 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_13.iwd (63 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_12.iwd (31 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_11.iwd (297 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_10.iwd (556 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_09.iwd (716 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_08.iwd (886 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_07.iwd (782 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_06.iwd (481 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_05.iwd (952 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_04.iwd (1005 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_03.iwd (1437 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_02.iwd (1391 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_01.iwd (1272 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_00.iwd (1428 files)
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main_shared
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/players
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw_shared
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw_shared
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw07.iwd (860 files)
+[       424]     localized assets iwd file for english
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw06.iwd (1474 files)
+[       424]     localized assets iwd file for english
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw05.iwd (1635 files)
+[       424]     localized assets iwd file for english
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw04.iwd (2164 files)
+[       424]     localized assets iwd file for english
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw03.iwd (2741 files)
+[       424]     localized assets iwd file for english
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw02.iwd (2732 files)
+[       424]     localized assets iwd file for english
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw01.iwd (2524 files)
+[       424]     localized assets iwd file for english
+[       424] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw00.iwd (3013 files)
+[       424]     localized assets iwd file for english
+[       424] 
+File Handles:
+[       424] handle 1: logs/console_mp.log
+[       424] ----------------------
+[       424] 39737 files in iwd files
+[       432] Adding channel: error
+[       432] Adding channel: gamenotify
+[       432] Adding channel: boldgame
+[       432] Adding channel: subtitle
+[       432] Adding channel: obituary
+[       432] Adding channel: logfile_only
+[       432] Adding channel: console_only
+[       432] Adding channel: gfx
+[       432] Adding channel: sound
+[       432] Adding channel: files
+[       432] Adding channel: devgui
+[       432] Adding channel: profile
+[       432] Adding channel: ui
+[       432] Adding channel: client
+[       432] Adding channel: server
+[       432] Adding channel: system
+[       432] Adding channel: playerweap
+[       432] Adding channel: ai
+[       432] Adding channel: anim
+[       432] Adding channel: physics
+[       432] Adding channel: fx
+[       432] Adding channel: leaderboards
+[       432] Adding channel: parserscript
+[       432] Adding channel: script
+[       432] Adding channel: network
+[       432] No channels added or hidden
+[       432] Adding channel: error
+[       432] Adding channel: error
+[       432] No channels added or hidden
+[       432] Adding channel: gamenotify
+[       432] Adding channel: obituary
+[       432] No channels added or hidden
+[       432] Adding channel: boldgame
+[       432] No channels added or hidden
+[       432] Adding channel: subtitle
+[       432] No channels added or hidden
+[       433] Loading fastfile code_pre_gfx_mp
+[       433] Loading fastfile localized_code_pre_gfx_mp
+[       433] Loading fastfile patch_code_pre_gfx_mp
+[       442] execing default_mp.cfg from disk
+[       442] execing default_mp_controls.cfg from disk
+[       442] No channels added or hidden
+[       442] execing default_mp_gamesettings.cfg from disk
+[       443] execing default_filter.cfg from disk
+[       443] execing language.cfg from fastfile
+[       443] execing iw4x_config.cfg from disk
+[       444] Hiding channel: error
+[       444] Hiding channel: gamenotify
+[       444] Hiding channel: boldgame
+[       444] Hiding channel: subtitle
+[       444] Hiding channel: obituary
+[       444] Hiding channel: logfile_only
+[       444] Hiding channel: console_only
+[       444] Hiding channel: gfx
+[       444] Hiding channel: sound
+[       444] Hiding channel: files
+[       444] Hiding channel: devgui
+[       444] Hiding channel: profile
+[       444] Hiding channel: ui
+[       444] Hiding channel: client
+[       444] Hiding channel: server
+[       444] Hiding channel: system
+[       444] Hiding channel: playerweap
+[       444] Hiding channel: ai
+[       444] Hiding channel: anim
+[       444] Hiding channel: physics
+[       444] Hiding channel: fx
+[       444] Hiding channel: leaderboards
+[       444] Hiding channel: parserscript
+[       444] Hiding channel: script
+[       444] Hiding channel: network
+[       444] No channels added or hidden
+[       444] Adding channel: error
+[       444] Adding channel: gamenotify
+[       444] Adding channel: boldgame
+[       444] Adding channel: subtitle
+[       444] Adding channel: obituary
+[       444] Adding channel: logfile_only
+[       444] Adding channel: console_only
+[       444] Adding channel: gfx
+[       444] Adding channel: sound
+[       444] Adding channel: files
+[       444] Adding channel: devgui
+[       444] Adding channel: profile
+[       444] Adding channel: ui
+[       444] Adding channel: client
+[       444] Adding channel: server
+[       444] Adding channel: system
+[       444] Adding channel: playerweap
+[       444] Adding channel: ai
+[       444] Adding channel: anim
+[       444] Adding channel: physics
+[       444] Adding channel: fx
+[       444] Adding channel: leaderboards
+[       444] Adding channel: parserscript
+[       444] Adding channel: script
+[       444] Adding channel: network
+[       444] Parsing playlist 'playlists_default.info'...
+[       447] CPU vendor is "GenuineIntel"
+[       447] CPU name is "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz"
+[       447] 4 logical CPUs reported
+[       447] 4 physical CPUs detected
+[       447] Measured CPU speed is 2.90 GHz
+[       447] Total CPU performance is estimated as 31.59 GHz
+[       447] System memory is 2048 MB (capped at 2 GB)
+[       447] Video card is "NVIDIA GeForce RTX 2060 SUPER"
+[       447] Streaming SIMD Extensions (SSE) supported
+[       447] 
+[       454] Winsock Initialized
+[       454] Opening IP socket: localhost:28960
+[       456] Hostname: DESKTOP-O1KALS9
+[       456] IP: 26.63.122.13
+[       456] IP: 192.168.1.12
+[       457] UPNP: Testing device 'urn:schemas-upnp-org:device:InternetGatewayDevice:1' by sending packet to 239.255.255.250:1900
+[       457] UPNP: Testing device 'urn:schemas-upnp-org:service:WANIPConnection:1' by sending packet to 239.255.255.250:1900
+[       457] UPNP: Testing device 'urn:schemas-upnp-org:service:WANPPPConnection:1' by sending packet to 239.255.255.250:1900
+[       457] UPNP: Testing device 'upnp:rootdevice' by sending packet to 239.255.255.250:1900
+[       457] ----- Initializing Renderer ----
+[       470] Cmd_AddCommand: log_add already defined
+[       470] Cmd_AddCommand: log_del already defined
+[       471] Cmd_AddCommand: log_list already defined
+[       471] Cmd_AddCommand: g_log_add already defined
+[       471] Cmd_AddCommand: g_log_del already defined
+[       471] Cmd_AddCommand: g_log_list already defined
+[       474] execing ragdoll.cfg from fastfile
+[       474] ----- Client Initialization -----
+[       476] ----- Client Initialization Complete -----
+[       481] Attempting 44 kHz 16 bit [Windows default] sound
+[       599] ----- R_Init -----
+[       599] Getting Direct3D 9 interface...
+[       615] Pixel shader version is 3.0
+[       615] Vertex shader version is 3.0
+[       615] Shader model 3.0 code path is available.
+[       615] Using Shader model 3.0 code path because it is the best available path on this hardware.
+[       617] Attempting 1280 x 720 window at (54, 167)
+[       620] Com_TouchMemory: 0 msec. Using sum: 0
+[       621] Game window successfully created.
+[       623] Using 4x quality 0 anti-aliasing
+[       623] Creating Direct3D device...
+[       680] Loading fastfile code_post_gfx_mp
+[       680] Loading fastfile localized_code_post_gfx_mp
+[       680] Loading fastfile patch_mp
+[       680] Loading fastfile iw4x_code_post_gfx_mp
+[       680] Loading fastfile gpad_common_mp
+[       804] Loading fastfile localized_ui_mp
+[       804] Loading fastfile ui_mp
+[       804] Loading fastfile common_mp
+[       804] Loading fastfile localized_common_mp
+[       804] Loading fastfile iw4x_patch_mp
+[       804] Loading fastfile iw4x_ui_mp
+[       804] Loading fastfile iw4x_localized_english
+[       804] Initializing render targets...
+[       804] Requested frame buffer to be 24-bit color with 8-bit alpha
+[       804] DirectX returned a frame buffer that is 24-bit color with 8-bit alpha
+[       807] Initializing static model cache...
+[       807] Initializing dynamic buffers...
+[       807] Initializing particle cloud buffer...
+[       911] Creating Direct3D queries...
+[       920] Setting initial state...
+[       953] Video memory for device: 3072 MB.
+[       953] Rounded video memory size: 2048 MB.
+[       953] Available DirectX texture memory: 4026 MB.
+[       953] DirectX reports 2048 MB of video memory and 4026 MB of available texture memory.
+[       953] Using video memory size to cap used texture memory at 2032 MB.
+[       953] Using reported available texture memory: 2032 MB.
+[       953] Picmip is set manually.
+[       953] Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+[       958] UPNP: Got a response from a device!
+[       958] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1810
+DATE: Sat, 30 Apr 2022 23:01:20 GMT
+ST: upnp:rootdevice
+USN: uuid:4d696e69-444c-164e-9d41-100c6b155ad3::upnp:rootdevice
+EXT:
+SERVER: 3.13.0-113-generic DLNADOC/1.50 UPnP/1.0 ReadyDLNA/1.3.0
+LOCATION: http://192.168.1.1:8200/rootDesc.xml
+Content-Length: 0
+
+'
+[       962] 
+------- sound system initialization -------
+[       962] ------- sound system successfully initialized -------
+[       979] GamerProfile - Updating for controller #0 without saving.
+
+[       979] Reading profile for controller 0
+[       981] Pipe successfully created
+[      1017] GamerProfile - Updating for controller #0 without saving.
+
+[      1017] --- Common Initialization Complete ---
+[      1017] =============================== DVAR DUMP ========================================
+[      1017]       actionSlotsHide "0"
+[      1017]       activeAction ""
+[      1017]       ai_corpseCount "16"
+[      1017]       aim_accel_turnrate_debug "0"
+[      1017]       aim_accel_turnrate_enabled "1"
+[      1017]       aim_accel_turnrate_lerp "1200"
+[      1017]       aim_aimAssistRangeScale "1"
+[      1017]       aim_autoaim_debug "0"
+[      1017]       aim_autoaim_enabled "0"
+[      1017]       aim_autoaim_lerp "40"
+[      1017]       aim_autoaim_region_height "120"
+[      1017]       aim_autoaim_region_width "160"
+[      1017]       aim_autoAimRangeScale "1"
+[      1017]       aim_automelee_debug "0"
+[      1017]       aim_automelee_enabled "1"
+[      1017]       aim_automelee_lerp "40"
+[      1017]       aim_automelee_range "128"
+[      1017]       aim_automelee_region_height "240"
+[      1017]       aim_automelee_region_width "320"
+[      1017]       aim_input_graph_debug "0"
+[      1017]       aim_input_graph_enabled "1"
+[      1017]       aim_input_graph_index "3"
+[      1017]       aim_lockon_debug "0"
+[      1017]       aim_lockon_deflection "0.05"
+[      1017]       aim_lockon_enabled "1"
+[      1017]       aim_lockon_region_height "90"
+[      1017]       aim_lockon_region_width "90"
+[      1017]       aim_lockon_strength "0.6"
+[      1017]       aim_scale_view_axis "1"
+[      1017]       aim_slowdown_debug "0"
+[      1017]       aim_slowdown_enabled "1"
+[      1017]       aim_slowdown_pitch_scale "0.4"
+[      1017]       aim_slowdown_pitch_scale_ads "0.5"
+[      1017]       aim_slowdown_region_height "90"
+[      1017]       aim_slowdown_region_width "90"
+[      1017]       aim_slowdown_yaw_scale "0.4"
+[      1017]       aim_slowdown_yaw_scale_ads "0.5"
+[      1017]       aim_turnrate_pitch "90"
+[      1017]       aim_turnrate_pitch_ads "55"
+[      1017]       aim_turnrate_yaw "260"
+[      1017]       aim_turnrate_yaw_ads "90"
+[      1017]       aim_view_sensitivity_override "-1"
+[      1017]       ammoCounterHide "0"
+[      1017]       authPort "20800"
+[      1017]       authServerName "cod4master.activision.com"
+[      1017]       badhost_debug "0"
+[      1017]       badhost_endGameIfISuck "1"
+[      1017]       badhost_maxDoISuckFrames "300"
+[      1017]       badhost_maxHappyPingTime "400"
+[      1017]       badhost_minPercentClientsUnhappyToSuck "0.51"
+[      1017]       badhost_minTotalClientsForHappyTest "3"
+[      1017]       band_12players "384000"
+[      1017]       band_18players "580000"
+[      1017]       band_2players "64000"
+[      1017]       band_4players "128000"
+[      1017]       band_8players "256000"
+[      1017]       bandwidthtest_announceinterval "200"
+[      1017]       bandwidthtest_duration "500"
+[      1017]       bandwidthtest_enable "1"
+[      1017]       bandwidthtest_fudge "1"
+[      1017]       bandwidthtest_ingame_enable "1"
+[      1017]       bandwidthtest_ingame_fudge "1"
+[      1017]       bandwidthtest_maxpacketsize "1000"
+[      1017]       bandwidthtest_quota "0.5"
+[      1017]       bandwidthtest_rounds "10"
+[      1017]       bandwidthtest_scalar "2"
+[      1017]       bandwidthtest_timeout "1500"
+[      1017]       bg_aimSpreadMoveSpeedThreshold "11"
+[      1017]       bg_bulletExplDmgFactor "1"
+[      1017]       bg_bulletExplRadius "250"
+[      1017]       bg_debugProne "0"
+[      1017]       bg_fallDamageMaxHeight "300"
+[      1017]       bg_fallDamageMinHeight "128"
+[      1017]       bg_foliagesnd_fastinterval "500"
+[      1017]       bg_foliagesnd_maxspeed "180"
+[      1017]       bg_foliagesnd_minspeed "40"
+[      1017]       bg_foliagesnd_resetinterval "500"
+[      1017]       bg_foliagesnd_slowinterval "1500"
+[      1017]       bg_forceDualWield "0"
+[      1017]       bg_forceExplosiveBullets "0"
+[      1017]       bg_ladder_yawcap "100"
+[      1017]       bg_legYawTolerance "20"
+[      1017]       bg_lowGravity "800"
+[      1017]       bg_maxGrenadeIndicatorSpeed "100"
+[      1017]       bg_prone_yawcap "85"
+[      1017]       bg_shieldHitEncodeHeightVM "-10 10"
+[      1017]       bg_shieldHitEncodeHeightWorld "-25 20"
+[      1017]       bg_shieldHitEncodeWidthVM "-16 16"
+[      1017]       bg_shieldHitEncodeWidthWorld "-14 14"
+[      1017]       bg_shock_lookControl "1"
+[      1017]       bg_shock_lookControl_fadeTime "2"
+[      1017]       bg_shock_lookControl_maxpitchspeed "90"
+[      1017]       bg_shock_lookControl_maxyawspeed "90"
+[      1017]       bg_shock_lookControl_mousesensitivityscale "0.5"
+[      1017]       bg_shock_movement "1"
+[      1017]       bg_shock_screenBlurBlendFadeTime "1"
+[      1017]       bg_shock_screenBlurBlendTime "0.4"
+[      1017]       bg_shock_screenFlashShotFadeTime "1"
+[      1017]       bg_shock_screenFlashWhiteFadeTime "1"
+[      1017]       bg_shock_screenType "blurred"
+[      1017]       bg_shock_sound "1"
+[      1017]       bg_shock_soundDryLevel "1"
+[      1017]       bg_shock_soundEnd "shellshock_end"
+[      1017]       bg_shock_soundEndAbort "shellshock_end_abort"
+[      1017]       bg_shock_soundFadeInTime "0.25"
+[      1017]       bg_shock_soundFadeOutTime "2.5"
+[      1017]       bg_shock_soundLoop "shellshock_loop"
+[      1017]       bg_shock_soundLoopEndDelay "-3"
+[      1017]       bg_shock_soundLoopFadeTime "1.5"
+[      1017]       bg_shock_soundLoopSilent "shellshock_loop_silent"
+[      1017]       bg_shock_soundModEndDelay "2"
+[      1017]       bg_shock_soundRoomType "generic"
+[      1017]       bg_shock_soundWetLevel "0.5"
+[      1017]       bg_shock_viewKickFadeTime "3"
+[      1017]       bg_shock_viewKickPeriod "0.75"
+[      1017]       bg_shock_viewKickRadius "0.05"
+[      1017]       bg_shock_volume_ambdist1 "0.5"
+[      1017]       bg_shock_volume_ambdist2 "0.5"
+[      1017]       bg_shock_volume_ambient "0.5"
+[      1017]       bg_shock_volume_announcer "0.5"
+[      1017]       bg_shock_volume_auto "0.5"
+[      1017]       bg_shock_volume_auto2 "0.5"
+[      1017]       bg_shock_volume_auto2d "0.5"
+[      1017]       bg_shock_volume_autodog "0.5"
+[      1017]       bg_shock_volume_body "0.5"
+[      1017]       bg_shock_volume_body2d "0.5"
+[      1017]       bg_shock_volume_bulletimpact "0.5"
+[      1017]       bg_shock_volume_bulletwhizby "0.5"
+[      1017]       bg_shock_volume_effects1 "0.5"
+[      1017]       bg_shock_volume_effects2 "0.5"
+[      1017]       bg_shock_volume_element "0.5"
+[      1017]       bg_shock_volume_explosiveimpact "0.5"
+[      1017]       bg_shock_volume_hurt "0.5"
+[      1017]       bg_shock_volume_item "0.5"
+[      1017]       bg_shock_volume_local "0.5"
+[      1017]       bg_shock_volume_local2 "0.5"
+[      1017]       bg_shock_volume_local3 "0.5"
+[      1017]       bg_shock_volume_menu "0.5"
+[      1017]       bg_shock_volume_mission "0.5"
+[      1017]       bg_shock_volume_music "0.5"
+[      1017]       bg_shock_volume_musicnopause "0.5"
+[      1017]       bg_shock_volume_nonshock "0.5"
+[      1017]       bg_shock_volume_physics "0.5"
+[      1017]       bg_shock_volume_player1 "0.5"
+[      1017]       bg_shock_volume_player2 "0.5"
+[      1017]       bg_shock_volume_reload "0.5"
+[      1017]       bg_shock_volume_reload2d "0.5"
+[      1017]       bg_shock_volume_shellshock "0.5"
+[      1017]       bg_shock_volume_vehicle "0.5"
+[      1017]       bg_shock_volume_vehiclelimited "0.5"
+[      1017]       bg_shock_volume_voice "0.5"
+[      1017]       bg_shock_volume_weapon "0.5"
+[      1017]       bg_shock_volume_weapon2d "0.5"
+[      1017]       bg_softLandingMaxDamage "0.1"
+[      1017]       bg_softLandingMaxHeight "300"
+[      1017]       bg_softLandingMinHeight "128"
+[      1017]       bg_swingSpeed "0.2"
+[      1017]       bg_viewBobAmplitudeBase "0.16"
+[      1017]       bg_viewBobAmplitudeDucked "0.0075 0.0075"
+[      1017]       bg_viewBobAmplitudeDuckedAds "0.0075 0.0075"
+[      1017]       bg_viewBobAmplitudeProne "0.02 0.005"
+[      1017]       bg_viewBobAmplitudeRoll "1.5"
+[      1017]       bg_viewBobAmplitudeSprinting "0.02 0.014"
+[      1017]       bg_viewBobAmplitudeStanding "0.007 0.007"
+[      1017]       bg_viewBobAmplitudeStandingAds "0.007 0.007"
+[      1017]       bg_viewBobLag "0.25"
+[      1017]       bg_viewBobMax "8"
+[      1017]       bg_viewKickMax "90"
+[      1017]       bg_viewKickMin "5"
+[      1017]       bg_viewKickRandom "0.4"
+[      1017]       bg_viewKickScale "0.2"
+[      1017]       bg_weaponBobAmplitudeBase "0.16"
+[      1017]       bg_weaponBobAmplitudeDucked "0.045 0.025"
+[      1017]       bg_weaponBobAmplitudeProne "0.02 0.005"
+[      1017]       bg_weaponBobAmplitudeRoll "1.5"
+[      1017]       bg_weaponBobAmplitudeSprinting "0.02 0.014"
+[      1017]       bg_weaponBobAmplitudeStanding "0.055 0.025"
+[      1017]       bg_weaponBobLag "0.25"
+[      1017]       bg_weaponBobMax "8"
+[      1017]       bullet_penetration_enabled "1"
+[      1017]       bullet_penetrationMinFxDist "30"
+[      1017]       bullet_ricochetBaseChance "0.5"
+[      1017]       camera_thirdPerson "0"
+[      1017]       camera_thirdPersonAdsTransScale "2"
+[      1017]       camera_thirdPersonCrosshairOffset "0.35"
+[      1017]       camera_thirdPersonFovScale "0.9"
+[      1017]       camera_thirdPersonOffset "-120 0 14"
+[      1017]       camera_thirdPersonOffsetAds "-60 -20 4"
+[      1017]       camera_thirdPersonOffsetTurretAds "-80 0 14"
+[      1017]       cameraShakeRemoteHelo_Angles "0.221 0.15 2"
+[      1017]       cameraShakeRemoteHelo_Freqs "31 90 0.5"
+[      1017]       cameraShakeRemoteHelo_SpeedRange "2000 5000"
+[      1017]       cameraShakeRemoteMissile_Angles "0.05 0.7 0.07"
+[      1017]       cameraShakeRemoteMissile_Freqs "42 0.7 100"
+[      1017]       cameraShakeRemoteMissile_SpeedRange "1000 4000"
+[      1017]       cg_airstrikeKillCamCloseXYDist "24"
+[      1017]       cg_airstrikeKillCamCloseZDist "24"
+[      1017]       cg_airstrikeKillCamFarBlur "2"
+[      1017]       cg_airstrikeKillCamFarBlurDist "300"
+[      1017]       cg_airstrikeKillCamFarBlurStart "100"
+[      1017]       cg_airstrikeKillCamFov "50"
+[      1017]       cg_airstrikeKillCamNearBlur "4"
+[      1017]       cg_airstrikeKillCamNearBlurEnd "100"
+[      1017]       cg_airstrikeKillCamNearBlurStart "0"
+[      1017]       cg_blood "1"
+[      1017]       cg_brass "1"
+[      1017]       cg_centertime "5"
+[      1017]       cg_chatHeight "8"
+[      1017]       cg_chatTime "12000"
+[      1017]       cg_chatWithOtherTeams "0"
+[      1017]       cg_connectionIconSize "0"
+[      1017]       cg_constantSizeHeadIcons "0"
+[      1017]       cg_crosshairAlpha "1"
+[      1017]       cg_crosshairAlphaMin "0.5"
+[      1017]       cg_crosshairDynamic "0"
+[      1017]       cg_crosshairEnemyColor "1"
+[      1017]       cg_crosshairVerticalOffset "0"
+[      1017]       cg_cullBulletAngle "50"
+[      1017]       cg_cullBullets "1"
+[      1017]       cg_cursorHints "4"
+[      1017]       cg_customFPS "0"
+[      1017]       cg_deadChatWithDead "0"
+[      1017]       cg_deadChatWithTeam "0"
+[      1017]       cg_deadHearAllLiving "0"
+[      1017]       cg_deadHearTeamLiving "0"
+[      1017]       cg_debug_overlay_viewport "0"
+[      1017]       cg_debugevents "-1"
+[      1017]       cg_debugInfoCornerOffset "0 -30"
+[      1017]       cg_debugposition "0"
+[      1017]       cg_descriptiveText "1"
+[      1017]       cg_dobjdump "-1"
+[      1017]       cg_draw2D "1"
+[      1017]       cg_drawBreathHint "1"
+[      1017]       cg_drawCrosshair "1"
+[      1017]       cg_drawCrosshairNames "1"
+[      1017]       cg_drawCrosshairNamesPosX "300"
+[      1017]       cg_drawCrosshairNamesPosY "180"
+[      1017]       cg_drawDamageDirection "1"
+[      1017]       cg_drawDamageFlash "0"
+[      1017]       cg_drawFPS "Off"
+[      1017]       cg_drawFPSLabels "1"
+[      1017]       cg_drawFriendlyNames "1"
+[      1017]       cg_drawGun "1"
+[      1017]       cg_drawHealth "0"
+[      1017]       cg_drawMantleHint "1"
+[      1017]       cg_drawMaterial "Off"
+[      1017]       cg_drawpaused "1"
+[      1017]       cg_drawScriptUsage "0"
+[      1017]       cg_drawShellshock "1"
+[      1017]       cg_drawSnapshot "0"
+[      1017]       cg_drawSplatter "0"
+[      1017]       cg_drawSplatterTest "0"
+[      1017]       cg_drawStatsSource "0"
+[      1017]       cg_drawTalk "ALL"
+[      1017]       cg_drawThroughWalls "0"
+[      1017]       cg_drawTurretCrosshair "1"
+[      1017]       cg_drawViewpos "0"
+[      1017]       cg_dumpAnims "-1"
+[      1017]       cg_enemyNameFadeIn "250"
+[      1017]       cg_enemyNameFadeOut "250"
+[      1017]       cg_errordecay "100"
+[      1017]       cg_everyoneHearsEveryone "0"
+[      1017]       cg_explosiveKillCamBackDist "35"
+[      1017]       cg_explosiveKillCamGroundBackDist "30"
+[      1017]       cg_explosiveKillCamGroundUpDist "15"
+[      1017]       cg_explosiveKillCamStopDecelDist "100"
+[      1017]       cg_explosiveKillCamStopDist "350"
+[      1017]       cg_explosiveKillCamUpDist "5"
+[      1017]       cg_explosiveKillCamWallOutDist "10"
+[      1017]       cg_explosiveKillCamWallSideDist "30"
+[      1017]       cg_flashbangNameFadeIn "1000"
+[      1017]       cg_flashbangNameFadeOut "50"
+[      1017]       cg_footsteps "1"
+[      1017]       cg_fov "65"
+[      1017]       cg_fovMin "1"
+[      1017]       cg_fovScale "1"
+[      1017]       cg_friendlyNameFadeIn "0"
+[      1017]       cg_friendlyNameFadeOut "1500"
+[      1017]       cg_gameBoldMessageWidth "390"
+[      1017]       cg_gameMessageWidth "455"
+[      1017]       cg_gun_x "0"
+[      1017]       cg_gun_y "0"
+[      1017]       cg_gun_z "0"
+[      1017]       cg_headIconMinScreenRadius "0.025"
+[      1017]       cg_heliKillCamFarBlur "2"
+[      1017]       cg_heliKillCamFarBlurDist "300"
+[      1017]       cg_heliKillCamFarBlurStart "100"
+[      1017]       cg_heliKillCamFov "15"
+[      1017]       cg_heliKillCamNearBlur "4"
+[      1017]       cg_heliKillCamNearBlurEnd "100"
+[      1017]       cg_heliKillCamNearBlurStart "0"
+[      1017]       cg_hintFadeTime "100"
+[      1017]       cg_hudChatIntermissionPosition "5 110"
+[      1017]       cg_hudChatPosition "5 200"
+[      1017]       cg_hudDamageIconHeight "64"
+[      1017]       cg_hudDamageIconInScope "0"
+[      1017]       cg_hudDamageIconOffset "128"
+[      1017]       cg_hudDamageIconTime "6000"
+[      1017]       cg_hudDamageIconWidth "128"
+[      1017]       cg_hudGrenadeIconEnabledFlash "0"
+[      1017]       cg_hudGrenadeIconHeight "25"
+[      1017]       cg_hudGrenadeIconInScope "0"
+[      1017]       cg_hudGrenadeIconMaxHeight "104"
+[      1017]       cg_hudGrenadeIconMaxRangeFlash "500"
+[      1017]       cg_hudGrenadeIconMaxRangeFrag "250"
+[      1017]       cg_hudGrenadeIconOffset "50"
+[      1017]       cg_hudGrenadeIconWidth "25"
+[      1017]       cg_hudGrenadePointerHeight "12"
+[      1017]       cg_hudGrenadePointerPivot "12 27"
+[      1017]       cg_hudGrenadePointerPulseFreq "1.7"
+[      1017]       cg_hudGrenadePointerPulseMax "1.85"
+[      1017]       cg_hudGrenadePointerPulseMin "0.3"
+[      1017]       cg_hudGrenadePointerWidth "25"
+[      1017]       cg_hudlegacysplitscreenscale "2"
+[      1017]       cg_hudMapBorderWidth "2"
+[      1017]       cg_hudMapFriendlyHeight "15"
+[      1017]       cg_hudMapFriendlyWidth "15"
+[      1017]       cg_hudMapPlayerHeight "20"
+[      1017]       cg_hudMapPlayerWidth "20"
+[      1017]       cg_hudMapRadarLineThickness "0.15"
+[      1017]       cg_hudObjectiveTextScale "0.3"
+[      1017]       cg_hudProneY "5400"
+[      1017]       cg_hudSayPosition "5 175"
+[      1017]       cg_hudsplitscreencompassscale "1.5"
+[      1017]       cg_hudsplitscreenstancescale "2"
+[      1017]       cg_hudStanceFlash "1 1 1 1"
+[      1017]       cg_hudStanceHintPrints "0"
+[      1017]       cg_hudVotePosition "5 220"
+[      1017]       cg_invalidCmdHintBlinkInterval "600"
+[      1017]       cg_invalidCmdHintDuration "1800"
+[      1017]       cg_javelinKillCamCloseZDist "128"
+[      1018]       cg_javelinKillCamDownDist "150"
+[      1018]       cg_javelinKillCamFov "60"
+[      1018]       cg_javelinKillCamLookLerpDist "3000"
+[      1018]       cg_javelinKillCamPassDist "50"
+[      1018]       cg_javelinKillCamPassTime "5"
+[      1018]       cg_javelinKillCamUpDist "200"
+[      1018]       cg_killCamDefaultLerpTime "300"
+[      1018]       cg_killCamTurretLerpTime "900"
+[      1018]       cg_laserlight "1"
+[      1018]       cg_levelReverbDryLevel "0.9"
+[      1018]       cg_levelReverbEnabled "1"
+[      1018]       cg_levelReverbRoomType "city"
+[      1018]       cg_levelReverbWetLevel "0.15"
+[      1018]       cg_mapLocationSelectionCursorSpeed "0.6"
+[      1018]       cg_marks_ents_player_only "0"
+[      1018]       cg_minCullBulletDist "128"
+[      1018]       cg_newColors "0"
+[      1018]       cg_nopredict "0"
+[      1018]       cg_overheadIconSize "0.7"
+[      1018]       cg_overheadNamesFarDist "1024"
+[      1018]       cg_overheadNamesFarScale "0.75"
+[      1018]       cg_overheadNamesFont "2"
+[      1018]       cg_overheadNamesGlow "0 0 0 1"
+[      1018]       cg_overheadNamesMaxDist "10000"
+[      1018]       cg_overheadNamesNearDist "256"
+[      1018]       cg_overheadNamesSize "0.5"
+[      1018]       cg_overheadRankSize "0.5"
+[      1018]       cg_overheadTitlesFont "2"
+[      1018]       cg_overheadTitleSize "0.5"
+[      1018]       cg_predictItems "1"
+[      1018]       cg_predictItemsDuration "5"
+[      1018]       cg_remoteMissileKillCamBackDist "300"
+[      1018]       cg_remoteMissileKillCamUpDist "60"
+[      1018]       cg_rocketKillCamBackDist "70"
+[      1018]       cg_rocketKillCamUpDist "10"
+[      1018]       cg_scoreboardBannerHeight "35"
+[      1018]       cg_scoreboardFont "0"
+[      1018]       cg_scoreboardHeaderFontScale "0.35"
+[      1018]       cg_scoreboardHeight "435"
+[      1018]       cg_scoreboardItemHeight "18"
+[      1018]       cg_scoreboardMyColor "1 0.8 0.4 1"
+[      1018]       cg_scoreboardPingGraph "1"
+[      1018]       cg_scoreboardPingHeight "0.7"
+[      1018]       cg_scoreboardPingText "1"
+[      1018]       cg_scoreboardPingWidth "0.036"
+[      1018]       cg_scoreboardRankFontScale "0.25"
+[      1018]       cg_scoreboardScrollStep "3"
+[      1018]       cg_scoreboardTextOffset "0.5"
+[      1018]       cg_scoreboardWidth "500"
+[      1018]       cg_ScoresPing_BgColor "0.25098 0.25098 0.25098 0.501961"
+[      1018]       cg_ScoresPing_HighColor "0.8 0 0 1"
+[      1018]       cg_ScoresPing_Interval "100"
+[      1018]       cg_ScoresPing_LowColor "0 0.74902 0 1"
+[      1018]       cg_ScoresPing_MaxBars "4"
+[      1018]       cg_ScoresPing_MedColor "0.8 0.8 0 1"
+[      1018]       cg_scriptIconSize "0"
+[      1018]       cg_showmiss "0"
+[      1018]       cg_splatterHitAlpha "1"
+[      1018]       cg_splatterHitFadeInTime "0.05"
+[      1018]       cg_splatterHitFadeOutTime "0.1"
+[      1018]       cg_splatterHitFullInTime "0"
+[      1018]       cg_splatterHitInnerAngle "15"
+[      1018]       cg_splatterHitInnerRadius "0"
+[      1018]       cg_splatterHitOntoScreen "0"
+[      1018]       cg_splatterHitOuterAngle "30"
+[      1018]       cg_splatterHitOuterRadius "0.6"
+[      1018]       cg_splatterTrackAlpha "1"
+[      1018]       cg_splatterTrackFadeInTime "0"
+[      1018]       cg_splatterTrackFadeOutTime "0.5"
+[      1018]       cg_splatterTrackFullInTime "0.3"
+[      1018]       cg_splatterTrackIndependent "1"
+[      1018]       cg_splatterTrackInnerAngle "5"
+[      1018]       cg_splatterTrackInnerRadius "0.4"
+[      1018]       cg_splatterTrackOntoScreen "0"
+[      1018]       cg_splatterTrackOuterAngle "20"
+[      1018]       cg_splatterTrackOuterRadius "0.6"
+[      1018]       cg_sprintMeterDisabledColor "0.8 0.1 0.1 0.2"
+[      1018]       cg_sprintMeterEmptyColor "0.7 0.5 0.2 0.8"
+[      1018]       cg_sprintMeterFullColor "0.8 0.8 0.8 0.8"
+[      1018]       cg_subtitleMinTime "3"
+[      1018]       cg_subtitleWidthStandard "520"
+[      1018]       cg_subtitleWidthWidescreen "600"
+[      1018]       cg_teamChatsOnly "0"
+[      1018]       cg_thirdPerson "0"
+[      1018]       cg_thirdPersonAngle "0"
+[      1018]       cg_thirdPersonMode "Fixed"
+[      1018]       cg_thirdPersonRange "120"
+[      1018]       cg_turretKillCamBackDist "10"
+[      1018]       cg_turretKillCamFov "50"
+[      1018]       cg_turretKillCamUpDist "10"
+[      1018]       cg_viewVehicleInfluence "1"
+[      1018]       cg_viewZSmoothingMax "16"
+[      1018]       cg_viewZSmoothingMin "1"
+[      1018]       cg_viewZSmoothingTime "0.1"
+[      1018]       cg_voiceIconSize "0"
+[      1018]       cg_watersheeting "1"
+[      1018]       cg_waterSheeting_brightness "0"
+[      1018]       cg_waterSheeting_contrast "1"
+[      1018]       cg_waterSheeting_darkTint "1 1 1"
+[      1018]       cg_waterSheeting_desaturation "0"
+[      1018]       cg_waterSheeting_distortionScaleFactor "0.021961 1 0 0"
+[      1018]       cg_waterSheeting_enable "0"
+[      1018]       cg_waterSheeting_fadeDuration "2"
+[      1018]       cg_waterSheeting_lightTint "0.780261 1 1"
+[      1018]       cg_waterSheeting_magnitude "0.0655388"
+[      1018]       cg_waterSheeting_radius "4.44051"
+[      1018]       cg_weapHitCullAngle "45"
+[      1018]       cg_weapHitCullEnable "1"
+[      1018]       cg_weaponCycleDelay "0"
+[      1018]       cg_weaponHintsCoD1Style "1"
+[      1018]       cg_weaponVisInterval "4"
+[      1018]       cg_youInKillCamSize "6"
+[      1018]       cl_analog_attack_threshold "0.8"
+[      1018]       cl_anglespeedkey "1.5"
+[      1018]       cl_anonymous "0"
+[      1018]       cl_autoRecord "0"
+[      1018]       cl_bypassMouseInput "0"
+[      1018]       cl_connectionAttempts "15"
+[      1018]       cl_connectTimeout "120"
+[      1018]       cl_demoBackJump "20000"
+[      1018]       cl_demoFastTimescaleSpeed "3"
+[      1018]       cl_demoForwardJump "4000"
+[      1018]       cl_demosKeep "200"
+[      1018]       cl_demoSlowTimescaleSpeed "0.4"
+[      1018]       cl_dirSelConvergenceTime "0.1"
+[      1018]       cl_freelook "1"
+[      1018]       cl_freezeDemo "0"
+[      1018]       cl_hudDrawsBehindUI "1"
+[      1018]       cl_ingame "0"
+[      1018]       cl_maxpackets "125"
+[      1018]       cl_maxPing "800"
+[      1018]       cl_migrationTimeout "40"
+[      1018]       cl_modVidRestart "1"
+[      1018]       cl_motdString ""
+[      1018]       cl_mouseAccel "0"
+[      1018]       cl_nodelta "0"
+[      1018]       cl_noprint "0"
+[      1018]       cl_notifyFriendState "1"
+[      1018]       cl_packetdup "1"
+[      1018]       cl_paused "0"
+[      1018]       cl_pitchspeed "140"
+[      1018]       cl_serverStatusResendTime "750"
+[      1018]       cl_showmouserate "0"
+[      1018]       cl_shownet "0"
+[      1018]       cl_shownuments "0"
+[      1018]       cl_showSend "0"
+[      1018]       cl_showServerCommands "0"
+[      1018]       cl_showTimeDelta "0"
+[      1018]       cl_stanceHoldTime "300"
+[      1018]       cl_timeout "20"
+[      1018]       cl_updateavailable "0"
+[      1018]       cl_updateoldversion "2386"
+[      1018]       cl_updateversion "0"
+[      1018]       cl_voice "0"
+[      1018]       cl_yawspeed "140"
+[      1018]       clientSideEffects "1"
+[      1018]       com_animCheck "0"
+[      1018]       com_cinematicEndInWhite "0"
+[      1018]       com_errorResolveCommand ""
+[      1018]       com_filter_output "0"
+[      1018]       com_logFilter "1"
+[      1018]       com_maxfps "57"
+[      1018]       com_maxFrameTime "100"
+[      1018]       com_recommendedSet "1"
+[      1018]       com_statmon "0"
+[      1018]       com_timescale "1"
+[      1018]       compass "1"
+[      1018]       compassClampIcons "1"
+[      1018]       compassCoords "740 3590 400"
+[      1018]       compassECoordCutoff "37"
+[      1018]       compassEnemyFootstepEnabled "0"
+[      1018]       compassEnemyFootstepMaxRange "500"
+[      1018]       compassEnemyFootstepMaxZ "100"
+[      1018]       compassEnemyFootstepMinSpeed "140"
+[      1018]       compassFastRadarUpdateTime "2"
+[      1018]       compassFriendlyHeight "16"
+[      1018]       compassFriendlyWidth "16"
+[      1018]       compassHellfireTargetSpot "0"
+[      1018]       compassHideSansObjectivePointer "0"
+[      1018]       compassHideVehicles "0"
+[      1018]       compassMaxRange "2500"
+[      1018]       compassMinRadius "0.0001"
+[      1018]       compassMinRange "0.0001"
+[      1018]       compassObjectiveArrowHeight "20"
+[      1018]       compassObjectiveArrowOffset "2"
+[      1018]       compassObjectiveArrowRotateDist "5"
+[      1018]       compassObjectiveArrowWidth "20"
+[      1018]       compassObjectiveDetailDist "10"
+[      1018]       compassObjectiveDrawLines "1"
+[      1018]       compassObjectiveHeight "20"
+[      1018]       compassObjectiveIconHeight "16"
+[      1018]       compassObjectiveIconWidth "16"
+[      1018]       compassObjectiveMaxHeight "70"
+[      1018]       compassObjectiveMaxRange "2048"
+[      1018]       compassObjectiveMinAlpha "1"
+[      1018]       compassObjectiveMinDistRange "1"
+[      1018]       compassObjectiveMinHeight "-70"
+[      1018]       compassObjectiveNearbyDist "4"
+[      1018]       compassObjectiveNumRings "10"
+[      1018]       compassObjectiveRingSize "80"
+[      1018]       compassObjectiveRingTime "10000"
+[      1018]       compassObjectiveTextHeight "18"
+[      1018]       compassObjectiveTextScale "0.3"
+[      1018]       compassObjectiveWidth "20"
+[      1018]       compassPlayerHeight "18.75"
+[      1018]       compassPlayerWidth "18.75"
+[      1018]       compassRadarLineThickness "0.4"
+[      1018]       compassRadarPingFadeTime "4"
+[      1018]       compassRadarUpdateTime "4"
+[      1018]       compassRotation "1"
+[      1018]       compassSize "1"
+[      1018]       compassSoundPingFadeTime "2"
+[      1018]       compassTickertapeStretch "0.5"
+[      1018]       con_default_console_filter "*"
+[      1018]       con_errormessagetime "9"
+[      1018]       con_gameMsgWindow0FadeInTime "0.25"
+[      1018]       con_gameMsgWindow0FadeOutTime "0.5"
+[      1018]       con_gameMsgWindow0Filter "gamenotify obituary"
+[      1018]       con_gameMsgWindow0LineCount "4"
+[      1018]       con_gameMsgWindow0MsgTime "5"
+[      1018]       con_gameMsgWindow0ScrollTime "0.25"
+[      1018]       con_gameMsgWindow0SplitscreenScale "1.5"
+[      1018]       con_gameMsgWindow1FadeInTime "0.25"
+[      1018]       con_gameMsgWindow1FadeOutTime "0.5"
+[      1018]       con_gameMsgWindow1Filter "boldgame"
+[      1018]       con_gameMsgWindow1LineCount "1"
+[      1018]       con_gameMsgWindow1MsgTime "3"
+[      1018]       con_gameMsgWindow1ScrollTime "0.25"
+[      1018]       con_gameMsgWindow1SplitscreenScale "1.5"
+[      1018]       con_gameMsgWindow2FadeInTime "0.75"
+[      1018]       con_gameMsgWindow2FadeOutTime "0.5"
+[      1018]       con_gameMsgWindow2Filter "subtitle"
+[      1018]       con_gameMsgWindow2LineCount "7"
+[      1018]       con_gameMsgWindow2MsgTime "5"
+[      1018]       con_gameMsgWindow2ScrollTime "0.25"
+[      1018]       con_gameMsgWindow2SplitscreenScale "1.5"
+[      1018]       con_gameMsgWindow3FadeInTime "0.25"
+[      1018]       con_gameMsgWindow3FadeOutTime "0.5"
+[      1018]       con_gameMsgWindow3Filter ""
+[      1018]       con_gameMsgWindow3LineCount "5"
+[      1018]       con_gameMsgWindow3MsgTime "5"
+[      1018]       con_gameMsgWindow3ScrollTime "0.25"
+[      1018]       con_gameMsgWindow3SplitscreenScale "1.5"
+[      1018]       con_inputBoxColor "0.2 0.2 0.2 1"
+[      1018]       con_inputHintBoxColor "0.3 0.3 0.3 1"
+[      1018]       con_matchPrefixOnly "1"
+[      1018]       con_minicon "0"
+[      1018]       con_miniconlines "5"
+[      1018]       con_minicontime "4"
+[      1018]       con_outputBarColor "0.5 0.5 0.5 0.6"
+[      1018]       con_outputSliderColor "0.7 1 0 1"
+[      1018]       con_outputWindowColor "0.25 0.25 0.25 0.85"
+[      1018]       con_typewriterColorBase "1 1 1"
+[      1018]       con_typewriterColorGlowCheckpoint "0.6 0.5 0.6 1"
+[      1018]       con_typewriterColorGlowCompleted "0 0.3 0.8 1"
+[      1018]       con_typewriterColorGlowFailed "0.8 0 0 1"
+[      1018]       con_typewriterColorGlowUpdated "0 0.6 0.18 1"
+[      1018]       con_typewriterDecayDuration "700"
+[      1018]       con_typewriterDecayStartTime "6000"
+[      1018]       con_typewriterPrintSpeed "50"
+[      1018]       cpu_speed_12players "3"
+[      1018]       cpu_speed_18players "6"
+[      1018]       cpu_speed_8players "2.7"
+[      1018]       customtitle ""
+[      1018]       developer "0"
+[      1018]       developer_script "0"
+[      1018]       drawEntityCount "0"
+[      1018]       drawEntityCountPos "-55 -180"
+[      1018]       drawEntityCountSize "32"
+[      1018]       drawKillcamData "0"
+[      1018]       drawKillcamDataPos "-55 -340"
+[      1018]       drawKillcamDataSize "32"
+[      1018]       drawLagometer "0"
+[      1018]       drawServerBandwidth "0"
+[      1018]       drawServerBandwidthPos "-55 -340"
+[      1018]       dynEnt_active "1"
+[      1018]       dynEnt_bulletForce "1000"
+[      1018]       dynEnt_damageScale "1"
+[      1018]       dynEnt_explodeForce "12500"
+[      1018]       dynEnt_explodeMaxEnts "20"
+[      1018]       dynEnt_explodeMinForce "40"
+[      1018]       dynEnt_explodeSpinScale "3"
+[      1018]       dynEnt_explodeUpbias "0.5"
+[      1018]       dynEnt_explodingBulletForce "3500"
+[      1018]       dynEnt_explodingBulletMaxEnts "5"
+[      1018]       dynEnt_explodingBulletMinForce "5"
+[      1018]       dynEnt_explodingBulletSpinScale "1"
+[      1018]       dynEnt_explodingBulletUpbias "0.5"
+[      1018]       fixedtime "0"
+[      1018]       FoFIconMaxSize "640"
+[      1018]       FoFIconMinSize "30"
+[      1018]       FoFIconScale "1.3"
+[      1018]       FoFIconSpawnTimeDelay "1"
+[      1018]       FoFIconSpawnTimeFade "5"
+[      1018]       friction "5.5"
+[      1018]       fs_basegame "iw4x"
+[      1018]       fs_basepath "C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy"
+[      1018]       fs_cdpath ""
+[      1018]       fs_copyfiles "0"
+[      1018]       fs_debug "0"
+[      1018]       fs_game "mods/brax_pkg"
+[      1018]       fs_homepath "C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy"
+[      1018]       fs_ignoreLocalized "0"
+[      1018]       fx_count "0"
+[      1018]       fx_cull_elem_draw "1"
+[      1018]       fx_cull_elem_spawn "1"
+[      1018]       fx_debugBolt "0"
+[      1018]       fx_draw "1"
+[      1018]       fx_drawClouds "1"
+[      1018]       fx_enable "1"
+[      1018]       fx_freeze "0"
+[      1018]       fx_mark_profile "0"
+[      1018]       fx_marks "0"
+[      1018]       fx_marks_ents "1"
+[      1018]       fx_marks_smodels "1"
+[      1018]       fx_profile "0"
+[      1018]       fx_profileFilter ""
+[      1018]       fx_profileSkip "0"
+[      1018]       fx_profileSort "cost"
+[      1018]       fx_visMinTraceDist "80"
+[      1018]       g_allowvote "1"
+[      1018]       g_banIPs ""
+[      1018]       g_clonePlayerMaxVelocity "80"
+[      1018]       g_deadChat "0"
+[      1018]       g_dropForwardSpeed "10"
+[      1018]       g_dropHorzSpeedRand "100"
+[      1018]       g_dropUpSpeedBase "10"
+[      1018]       g_dropUpSpeedRand "5"
+[      1018]       g_firstLaunch "0"
+[      1018]       g_gametype "war"
+[      1018]       g_gravity "800"
+[      1018]       g_hardcore "0"
+[      1018]       g_log ""
+[      1018]       g_logSync "0"
+[      1018]       g_oldVoting "1"
+[      1018]       g_playerCollision "1"
+[      1018]       g_playerCollisionEjectSpeed "25"
+[      1018]       g_playerEjection "1"
+[      1018]       g_radiusDamageMax "256"
+[      1018]       g_redCrosshairs "1"
+[      1018]       g_synchronousClients "0"
+[      1018]       g_useCustomLog "0"
+[      1018]       g_voiceChatTalkingDuration "500"
+[      1018]       g_voteAbstainWeight "0.5"
+[      1018]       gameMode "mp"
+[      1018]       glass_angular_vel "5 35"
+[      1018]       glass_break "1"
+[      1018]       glass_debug "0"
+[      1018]       glass_edge_angle "5 10"
+[      1018]       glass_fall_delay "0.2 0.9"
+[      1018]       glass_fall_gravity "800"
+[      1018]       glass_fall_ratio "1.5 3"
+[      1018]       glass_fringe_maxcoverage "0.2"
+[      1018]       glass_fringe_maxsize "150"
+[      1018]       glass_fx_chance "0.25"
+[      1018]       glass_hinge_friction "50"
+[      1018]       glass_linear_vel "200 400"
+[      1018]       glass_max_pieces_per_frame "100"
+[      1018]       glass_max_shatter_fx_per_frame "6"
+[      1018]       glass_physics_chance "0.15"
+[      1018]       glass_physics_maxdist "512"
+[      1018]       glass_shard_maxsize "300"
+[      1018]       glass_shattered_scale "48"
+[      1018]       glass_trace_interval "100"
+[      1018]       gpad_button_deadzone "0.13"
+[      1018]       gpad_button_lstick_deflect_max "1"
+[      1018]       gpad_button_rstick_deflect_max "1"
+[      1018]       gpad_buttonsConfig "gamepad_tactical"
+[      1018]       gpad_enabled "1"
+[      1018]       gpad_forceEmulation "0"
+[      1018]       gpad_stick_deadzone_max "0.01"
+[      1018]       gpad_stick_deadzone_min "0.2"
+[      1018]       gpad_stick_pressed "0.4"
+[      1018]       gpad_stick_pressed_hysteresis "0.1"
+[      1018]       gpad_sticksConfig "thumbstick_default"
+[      1018]       gpad_wasd_deadzone "15"
+[      1018]       gpads_present "0"
+[      1018]       heli_barrelMaxVelocity "1250"
+[      1018]       heli_barrelRotation "70"
+[      1018]       heli_barrelSlowdown "360"
+[      1018]       hiDef "1"
+[      1018]       hud_bloodOverlayLerpRate "0.3"
+[      1018]       hud_deathQuoteFadeTime "1000"
+[      1018]       hud_enable "1"
+[      1018]       hud_fade_ammodisplay "30"
+[      1018]       hud_fade_compass "0"
+[      1018]       hud_fade_healthbar "2"
+[      1018]       hud_fade_offhand "0"
+[      1018]       hud_fade_sprint "1.7"
+[      1018]       hud_fade_stance "1.7"
+[      1018]       hud_fadeout_speed "0"
+[      1018]       hud_flash_period_offhand "0.5"
+[      1018]       hud_flash_time_offhand "2"
+[      1018]       hud_health_pulserate_critical "0.5"
+[      1018]       hud_health_pulserate_injured "1"
+[      1018]       hud_health_startpulse_critical "0.33"
+[      1018]       hud_health_startpulse_injured "1"
+[      1018]       hudElemPausedBrightness "0.4"
+[      1018]       in_mouse "1"
+[      1018]       input_invertPitch "0"
+[      1018]       input_viewSensitivity "3.5"
+[      1018]       intro "0"
+[      1018]       isDlcInstalled_1 "1" -- latched "0"
+[      1018]       isDlcInstalled_2 "1" -- latched "0"
+[      1018]       isDlcInstalled_3 "1" -- latched "0"
+[      1018]       isDlcInstalled_4 "1" -- latched "0"
+[      1018]       isDlcInstalled_5 "1" -- latched "0"
+[      1018]       isDlcInstalled_6 "1" -- latched "0"
+[      1018]       isDlcInstalled_7 "1" -- latched "0"
+[      1018]       isDlcInstalled_8 "1" -- latched "0"
+[      1018]       isDlcInstalled_All "1" -- latched "0"
+[      1018]       iw4x_onelog "0"
+[      1018]       iwnet_debug "0"
+[      1018]       iwnet_maxResendTime "120"
+[      1018]       iwnet_minResendTime "4"
+[      1018]       iwnet_searching "1"
+[      1018]       iwnet_sessionFullHeartbeat "20000"
+[      1018]       iwnet_sessionHeartbeat "5000"
+[      1018]       iwnet_sessions "1"
+[      1018]       iwnet_xuid "444"
+[      1018]       jump_height "39"
+[      1018]       jump_ladderPushVel "128"
+[      1018]       jump_slowdownEnable "1"
+[      1018]       jump_spreadAdd "64"
+[      1018]       jump_stepSize "18"
+[      1018]       koth_autodestroytime "60"
+[      1018]       koth_capturetime "20"
+[      1018]       koth_delayPlayer "0"
+[      1018]       koth_destroytime "10"
+[      1018]       koth_extraDelay "0"
+[      1018]       koth_kothmode "0"
+[      1018]       koth_proMode "0"
+[      1018]       koth_spawnDelay "60"
+[      1018]       koth_spawntime "30"
+[      1018]       laserDebug "0"
+[      1018]       laserEndOffset "0.5"
+[      1018]       laserFlarePct "0.2"
+[      1018]       laserFlarePct_alt "0"
+[      1018]       laserForceOn "0"
+[      1018]       laserLight "1"
+[      1018]       laserLightBeginOffset "13"
+[      1018]       laserLightBodyTweak "15"
+[      1018]       laserLightEndOffset "-3"
+[      1018]       laserLightRadius "3"
+[      1018]       laserLightRadius_alt "100"
+[      1018]       laserLightWithoutNightvision "0"
+[      1018]       laserRadius "0.8"
+[      1018]       laserRadius_alt "30"
+[      1018]       laserRange "1500"
+[      1018]       laserRange_alt "5000"
+[      1018]       laserRangePlayer "1500"
+[      1018]       loading_sre_fatal "1"
+[      1018]       lobby_partySearchWaitTime "1000"
+[      1018]       loc_forceEnglish "0"
+[      1018]       loc_language "0"
+[      1018]       loc_translate "1"
+[      1018]       loc_warnings "0"
+[      1018]       loc_warningsAsErrors "0"
+[      1018]       loc_warningsUI "0"
+[      1018]       logfile "1"
+[      1018]       lowAmmoWarningColor1 "0.701961 0.701961 0.701961 0.8"
+[      1018]       lowAmmoWarningColor2 "1 1 1 1"
+[      1018]       lowAmmoWarningNoAmmoColor1 "0.8 0.25098 0.301961 0.8"
+[      1018]       lowAmmoWarningNoAmmoColor2 "1 0.25098 0.301961 1"
+[      1018]       lowAmmoWarningNoReloadColor1 "0.701961 0.701961 0.301961 0.701961"
+[      1018]       lowAmmoWarningNoReloadColor2 "0.701961 0.701961 0.301961 1"
+[      1018]       lowAmmoWarningPulseFreq "2.3"
+[      1018]       lowAmmoWarningPulseMax "1.5"
+[      1018]       lowAmmoWarningPulseMin "0"
+[      1018]       lsp_debug "0"
+[      1018]       m_filter "0"
+[      1018]       m_forward "0.25"
+[      1018]       m_pitch "0.022"
+[      1018]       m_side "0.25"
+[      1018]       m_yaw "0.022"
+[      1018]       mantle_check_angle "60"
+[      1018]       mantle_check_radius "0.1"
+[      1018]       mantle_check_range "20"
+[      1018]       mantle_debug "0"
+[      1018]       mantle_enable "1"
+[      1018]       mantle_max_vertical_end_velocity "0"
+[      1018]       mantle_view_yawcap "60"
+[      1018]       mapcrc "0"
+[      1018]       mapname ""
+[      1018]       masterPort "20810"
+[      1018]       masterServerName "cod4master.activision.com"
+[      1018]       matchmaking_debug "1"
+[      1018]       maxVoicePacketsPerSec "100"
+[      1018]       maxVoicePacketsPerSecForServer "20"
+[      1018]       migration_blocksperframe "0"
+[      1018]       migration_dvarErrors "0"
+[      1018]       migration_limit "5"
+[      1018]       migration_msgtimeout "500"
+[      1018]       migration_timeBetween "30000"
+[      1018]       migration_verboseBroadcastTime "100"
+[      1018]       migrationPingTime "10"
+[      1018]       missileRemoteFOV "15"
+[      1018]       missileRemoteSteerPitchRange "1 87"
+[      1018]       missileRemoteSteerPitchRate "35"
+[      1018]       missileRemoteSteerYawRate "35"
+[      1018]       mod_force_download_server "1"
+[      1018]       monkeytoy "0"
+[      1018]       motd "Welcome to Modern Warfare 2 multiplayer"
+[      1018]       motionTrackerBlurDuration "0.2"
+[      1018]       motionTrackerCenterX "0"
+[      1018]       motionTrackerCenterY "-0.37"
+[      1018]       motionTrackerPingFadeTime "3"
+[      1018]       motionTrackerPingPitchAddPerEnemy "0"
+[      1018]       motionTrackerPingPitchBase "1"
+[      1018]       motionTrackerPingPitchNearby "2"
+[      1018]       motionTrackerPingSize "0.2"
+[      1018]       motionTrackerRange "1600"
+[      1018]       motionTrackerSweepAngle "90"
+[      1018]       motionTrackerSweepInterval "3"
+[      1018]       motionTrackerSweepSpeed "2000"
+[      1018]       mp_paused "0"
+[      1018]       msg_dumpEnts "0"
+[      1018]       msg_hudelemspew "0"
+[      1018]       msg_printEntityNums "0"
+[      1018]       name "[OG3]antiga"
+[      1018]       net_discoveryPortRangeMax "35000"
+[      1018]       net_discoveryPortRangeMin "25000"
+[      1018]       net_ip "localhost"
+[      1018]       net_lanauthorize "0"
+[      1018]       net_natFix "0"
+[      1018]       net_noipx "0"
+[      1018]       net_noudp "0"
+[      1018]       net_port "28960"
+[      1018]       net_profile "0"
+[      1018]       net_serverFrames "30"
+[      1018]       net_serverQueryLimit "1"
+[      1018]       net_showprofile "0"
+[      1018]       net_socksEnabled "0"
+[      1018]       net_socksPassword ""
+[      1018]       net_socksPort "1080"
+[      1018]       net_socksServer ""
+[      1018]       net_socksUsername ""
+[      1018]       nextdemo ""
+[      1018]       nextmap ""
+[      1018]       nightVisionDisableEffects "0"
+[      1018]       nightVisionFadeInOutTime "0.1"
+[      1018]       nightVisionPowerOnTime "0.3"
+[      1018]       objectiveFadeTimeGoingOff "0.5"
+[      1018]       objectiveFadeTimeGoingOn "1"
+[      1018]       objectiveFadeTimeWaitOff "2"
+[      1018]       objectiveFadeTimeWaitOn "2"
+[      1018]       objectiveFadeTooClose "0.1"
+[      1018]       objectiveFadeTooFar "25"
+[      1018]       objectiveFontSize "0.6"
+[      1018]       objectiveHide "0"
+[      1018]       objectiveTextOffsetY "-5.33"
+[      1018]       onlinegame "1"
+[      1018]       onlinegameandhost "0"
+[      1018]       onlineunrankedgameandhost "0"
+[      1018]       overrideNVGModelWithKnife "0"
+[      1018]       packetDebug "0"
+[      1018]       painReverbDryLevel "0.5"
+[      1018]       painReverbRoomType "underwater"
+[      1018]       painReverbWetLevel "0.4"
+[      1018]       painVisionLerpOutRate "0.3"
+[      1018]       painVisionTriggerHealth "0.55"
+[      1018]       party_autoteams "1"
+[      1018]       party_connectTimeout "1000"
+[      1018]       party_connectToOthers "1"
+[      1018]       party_currentSearchTier "2"
+[      1018]       party_debug "0"
+[      1018]       party_defaultSearchTier "2"
+[      1018]       party_editingsettings "0"
+[      1018]       party_enable "0"
+[      1018]       party_firstSubpartyIndex "0"
+[      1018]       party_gamesize ""
+[      1018]       party_gameStartTimerLength "10"
+[      1018]       party_gametype ""
+[      1018]       party_host "0"
+[      1018]       party_hostmigration "0"
+[      1018]       party_hostname ""
+[      1018]       party_IAmSelected "0"
+[      1018]       party_kickplayerquestion ""
+[      1018]       party_listFocus "0"
+[      1018]       party_lobbyPlayerCount ""
+[      1018]       party_mapname ""
+[      1018]       party_mappacks ""
+[      1018]       party_matchedPlayerCount "4"
+[      1018]       party_maxplayers "16"
+[      1018]       party_maxPrivatePartyPlayers "18"
+[      1018]       party_maxSearchTier "6"
+[      1018]       party_maxTeamDiff "1"
+[      1018]       party_membersMissingMapPack "0"
+[      1018]       party_minLobbyTime "60"
+[      1018]       party_minplayers "2"
+[      1018]       party_msPerTier "50"
+[      1018]       party_partyPlayerCount ""
+[      1018]       party_playervisible "0"
+[      1018]       party_pregameStartTimerLength "5"
+[      1018]       party_searchPauseTime "2000"
+[      1018]       party_searchRandomDelay "500"
+[      1018]       party_searchResultsLifetime "45000"
+[      1018]       party_searchResultsMin "2000"
+[      1018]       party_selectedIndex "0"
+[      1018]       party_selectedIndexChangedTime "0"
+[      1018]       party_statusString ""
+[      1018]       party_teambased "1"
+[      1018]       party_teamsVisible "0"
+[      1018]       party_timer "0"
+[      1018]       party_vetoButtonVisible "0"
+[      1018]       party_vetoDelayTime "4"
+[      1018]       party_vetoPassed "0"
+[      1018]       party_vetoPercentRequired "0.501"
+[      1018]       party_vetoStatus ""
+[      1018]       partymigrate_broadcast_interval "200"
+[      1018]       partymigrate_cpuBonusPing "25"
+[      1018]       partymigrate_cpuBonusThreshold "0.5"
+[      1018]       partymigrate_pingtest_retry "100"
+[      1018]       partymigrate_pingtest_timeout "600"
+[      1018]       partymigrate_selectiontime "1800"
+[      1018]       partymigrate_timeout "8000"
+[      1018]       partymigrate_timeoutmax "15000"
+[      1018]       password ""
+[      1018]       perk_armorPiercingDamage "40"
+[      1018]       perk_blastShield "65"
+[      1018]       perk_bulletPenetrationMultiplier "2"
+[      1018]       perk_diveDistanceCheck "64"
+[      1018]       perk_diveGravityScale "0.75"
+[      1018]       perk_diveVelocity "250"
+[      1018]       perk_diveViewRollResetSpeed "4"
+[      1018]       perk_diveViewRollSpeed "0.5"
+[      1018]       perk_diveViewRollTarget "45"
+[      1018]       perk_extendedMagsMGAmmo "10"
+[      1018]       perk_extendedMagsPistolAmmo "5"
+[      1018]       perk_extendedMagsRifleAmmo "10"
+[      1018]       perk_extendedMagsSMGAmmo "10"
+[      1018]       perk_extendedMagsSpreadAmmo "5"
+[      1018]       perk_extendedMeleeRange "176"
+[      1018]       perk_extraBreath "5"
+[      1018]       perk_fastSnipeScale "2"
+[      1018]       perk_footstepVolumeAlly "0.25"
+[      1018]       perk_footstepVolumeEnemy "4"
+[      1018]       perk_footstepVolumePlayer "0.25"
+[      1018]       perk_grenadeDeath "frag_grenade_short_mp"
+[      1018]       perk_improvedExtraBreath "5"
+[      1018]       perk_lightWeightViewBobScale "0.75"
+[      1018]       perk_parabolicAngle "180"
+[      1018]       perk_parabolicIcon "specialty_parabolic"
+[      1018]       perk_parabolicRadius "400"
+[      1018]       perk_quickDrawSpeedScale "1.5"
+[      1018]       perk_scavengerMode "0"
+[      1018]       perk_sprintMultiplier "2"
+[      1018]       perk_sprintRecoveryMultiplierActual "0.6"
+[      1018]       perk_sprintRecoveryMultiplierVisual "0.6"
+[      1018]       perk_weapRateMultiplier "0.75"
+[      1018]       perk_weapReloadMultiplier "0.5"
+[      1018]       perk_weapSpreadMultiplier "0.65"
+[      1018]       phys_autoDisableAngular "57"
+[      1018]       phys_autoDisableFastAngular "270"
+[      1018]       phys_autoDisableFastLinear "40"
+[      1018]       phys_autoDisableFastTime "0.5"
+[      1018]       phys_autoDisableLinear "20"
+[      1018]       phys_autoDisableTime "0.9"
+[      1018]       phys_bulletSpinScale "3"
+[      1018]       phys_bulletUpBias "0.5"
+[      1018]       phys_cfm "0.0001"
+[      1018]       phys_collUseEntities "0"
+[      1018]       phys_contact_cfm "1e-05"
+[      1018]       phys_contact_cfm_ragdoll "0.001"
+[      1018]       phys_contact_cfm_vehicle "0.001"
+[      1018]       phys_contact_cfm_vehicleSoft "0.05"
+[      1018]       phys_contact_erp "0.8"
+[      1018]       phys_contact_erp_ragdoll "0.3"
+[      1018]       phys_contact_erp_vehicle "0.5"
+[      1018]       phys_contact_erp_vehicleSoft "0.05"
+[      1018]       phys_csl "0.3"
+[      1018]       phys_dragAngular "0.5"
+[      1018]       phys_dragLinear "0.03"
+[      1018]       phys_drawAwake "0"
+[      1018]       phys_drawCollisionObj "0"
+[      1018]       phys_drawCollisionWorld "0"
+[      1018]       phys_drawcontacts "0"
+[      1018]       phys_drawDebugInfo "0"
+[      1018]       phys_dumpcontacts "0"
+[      1018]       phys_erp "0.8"
+[      1018]       phys_frictionScale "1"
+[      1018]       phys_gravity "-800"
+[      1018]       phys_gravity_ragdoll "-800"
+[      1018]       phys_gravityChangeWakeupRadius "120"
+[      1018]       phys_jitterMaxMass "200"
+[      1018]       phys_joint_cfm "0.0001"
+[      1018]       phys_joint_stop_cfm "0.0001"
+[      1018]       phys_joint_stop_erp "0.8"
+[      1018]       phys_jointPullThreshold "4"
+[      1018]       phys_mcv "20"
+[      1018]       phys_mcv_ragdoll "1000"
+[      1018]       phys_mcv_vehicle "300"
+[      1018]       phys_minImpactMomentum "250"
+[      1018]       phys_narrowObjMaxLength "4"
+[      1018]       phys_noIslands "0"
+[      1018]       phys_qsi "15"
+[      1018]       phys_reorderConst "1"
+[      1018]       physVeh_collideWithClipOnly "0"
+[      1018]       physVeh_explodeForce "800"
+[      1018]       physVeh_explodeSpinScale "3"
+[      1018]       physVeh_jump "0"
+[      1018]       physVeh_minImpactMomentum "17.6"
+[      1018]       physVeh_pathConstraintCfm "1e-06"
+[      1018]       physVeh_pathConstraintErp "0.8"
+[      1018]       physVeh_slideReductionForHighSpeed "0"
+[      1018]       physVeh_StepsPerFrame "3"
+[      1018]       player_adsExitDelay "0"
+[      1018]       player_backSpeedScale "0.7"
+[      1018]       player_breath_fire_delay "0"
+[      1018]       player_breath_gasp_lerp "6"
+[      1018]       player_breath_gasp_scale "4.5"
+[      1018]       player_breath_gasp_time "1"
+[      1018]       player_breath_hold_lerp "1"
+[      1018]       player_breath_hold_time "4.5"
+[      1018]       player_breath_snd_delay "1"
+[      1018]       player_breath_snd_lerp "2"
+[      1018]       player_burstFireCooldown "0.2"
+[      1018]       player_debugHealth "0"
+[      1018]       player_dmgtimer_flinchTime "500"
+[      1018]       player_dmgtimer_maxTime "750"
+[      1018]       player_dmgtimer_minScale "0"
+[      1018]       player_dmgtimer_stumbleTime "500"
+[      1018]       player_dmgtimer_timePerPoint "100"
+[      1018]       player_footstepsThreshhold "0"
+[      1018]       player_lastStandCrawlSpeedScale "0.2"
+[      1018]       player_lastStandDebug "0"
+[      1018]       player_lean_rotate_crouch_left "0.8"
+[      1018]       player_lean_rotate_crouch_right "0.3"
+[      1018]       player_lean_rotate_left "0.8"
+[      1018]       player_lean_rotate_right "0.4"
+[      1018]       player_lean_shift_crouch_left "4"
+[      1018]       player_lean_shift_crouch_right "15"
+[      1018]       player_lean_shift_left "5"
+[      1018]       player_lean_shift_right "9"
+[      1018]       player_meleeHeight "10"
+[      1018]       player_meleeRange "64"
+[      1018]       player_meleeWidth "10"
+[      1018]       player_move_factor_on_torso "0"
+[      1018]       player_moveThreshhold "10"
+[      1018]       player_runThreshhold "110"
+[      1018]       player_scopeExitOnDamage "0"
+[      1018]       player_spectateSpeedScale "1"
+[      1018]       player_sprintCameraBob "0.5"
+[      1018]       player_sprintForwardMinimum "105"
+[      1018]       player_sprintMinTime "1"
+[      1018]       player_sprintRechargePause "0"
+[      1018]       player_sprintSpeedScale "1.5"
+[      1018]       player_sprintStrafeSpeedScale "0.667"
+[      1018]       player_sprintTime "4"
+[      1018]       player_sprintUnlimited "0"
+[      1018]       player_strafeAnimCosAngle "0.5"
+[      1019]       player_strafeSpeedScale "0.8"
+[      1019]       player_sustainAmmo "0"
+[      1019]       player_turnAnims "0"
+[      1019]       player_view_pitch_down "85"
+[      1019]       player_view_pitch_up "85"
+[      1019]       playlist "0"
+[      1019]       playlistFilename "playlists_default.info"
+[      1019]       privateMatch_joinPassword ""
+[      1019]       privateMatch_serverPassword ""
+[      1019]       protocol "149"
+[      1019]       r_aaAlpha "dither (fast)"
+[      1019]       r_aaMaxQuality "0"
+[      1019]       r_aaSamples "4"
+[      1019]       r_altModelLightingUpdate "1"
+[      1019]       r_aspectRatio "auto"
+[      1019]       r_atlasAnimFPS "15"
+[      1019]       r_autopriority "0"
+[      1019]       r_blacklevel "0"
+[      1019]       r_blur "0"
+[      1019]       r_brightness "0"
+[      1019]       r_cacheModelLighting "1"
+[      1019]       r_cacheSModelLighting "1"
+[      1019]       r_clear "never"
+[      1019]       r_clearColor "0 0 0 0"
+[      1019]       r_clearColor2 "0 0 0 0"
+[      1019]       r_colorMap "Unchanged"
+[      1019]       r_contrast "1"
+[      1019]       r_customAspectRatio "1.77778"
+[      1019]       r_customMode ""
+[      1019]       r_debugLineWidth "1"
+[      1019]       r_debugShader "none"
+[      1019]       r_depthPrepass "None"
+[      1019]       r_desaturation "1"
+[      1019]       r_detail "1"
+[      1019]       r_detailMap "Unchanged"
+[      1019]       r_diffuseColorScale "1"
+[      1019]       r_displayRefresh "60 Hz"
+[      1019]       r_distortion "1"
+[      1019]       r_dlightLimit "4"
+[      1019]       r_dof_bias "0.5"
+[      1019]       r_dof_enable "1"
+[      1019]       r_dof_farBlur "1.8"
+[      1019]       r_dof_farEnd "7000"
+[      1019]       r_dof_farStart "1000"
+[      1019]       r_dof_nearBlur "6"
+[      1019]       r_dof_nearEnd "60"
+[      1019]       r_dof_nearStart "10"
+[      1019]       r_dof_tweak "0"
+[      1019]       r_dof_viewModelEnd "8"
+[      1019]       r_dof_viewModelStart "2"
+[      1019]       r_dpvsFilterDebug "0"
+[      1019]       r_drawAabbTrees "0"
+[      1019]       r_drawDecals "1"
+[      1019]       r_drawSun "0"
+[      1019]       r_drawWater "1"
+[      1019]       r_envMapExponent "5"
+[      1019]       r_envMapMaxIntensity "0.5"
+[      1019]       r_envMapMinIntensity "0.2"
+[      1019]       r_envMapOverride "0"
+[      1019]       r_envMapSunIntensity "2"
+[      1019]       r_fastSkin "0"
+[      1019]       r_filmAltShader "1"
+[      1019]       r_filmTweakBrightness "0"
+[      1019]       r_filmTweakContrast "1.4"
+[      1019]       r_filmTweakDarkTint "0.7 0.85 1"
+[      1019]       r_filmTweakDesaturation "0.2"
+[      1019]       r_filmTweakDesaturationDark "0.2"
+[      1019]       r_filmTweakEnable "0"
+[      1019]       r_filmTweakInvert "0"
+[      1019]       r_filmTweakLightTint "1.1 1.05 0.85"
+[      1019]       r_filmTweakMediumTint "0.9 1 0.9"
+[      1019]       r_filmUseTweaks "0"
+[      1019]       r_floatz "1"
+[      1019]       r_fog "1"
+[      1019]       r_forceLod "none"
+[      1019]       r_fullbright "0"
+[      1019]       r_fullscreen "0"
+[      1019]       r_gamma "0.8"
+[      1019]       r_glow "1"
+[      1019]       r_glow_allowed "1"
+[      1019]       r_glow_allowed_script_forced "0"
+[      1019]       r_glowTweakBloomCutoff "0.5"
+[      1019]       r_glowTweakBloomDesaturation "0"
+[      1019]       r_glowTweakBloomIntensity0 "1"
+[      1019]       r_glowTweakEnable "0"
+[      1019]       r_glowTweakRadius0 "5"
+[      1019]       r_glowUseTweaks "0"
+[      1019]       r_gpuSync "off"
+[      1019]       r_heroLighting "1"
+[      1019]       r_highLodDist "-1"
+[      1019]       r_ignore "0"
+[      1019]       r_ignorehwgamma "0"
+[      1019]       r_inGameVideo "1"
+[      1019]       r_lightCacheLessFrequentMaxDistance "64"
+[      1019]       r_lightCacheLessFrequentPeriod "10"
+[      1019]       r_lightGridContrast "0"
+[      1019]       r_lightGridEnableTweaks "0"
+[      1019]       r_lightGridIntensity "1"
+[      1019]       r_lightGridUseTweakedValues "1"
+[      1019]       r_lightMap "Unchanged"
+[      1019]       r_listSModels "0"
+[      1019]       r_loadForRenderer "1"
+[      1019]       r_lockPvs "0"
+[      1019]       r_lodBiasRigid "0"
+[      1019]       r_lodBiasSkinned "0"
+[      1019]       r_lodScaleRigid "1"
+[      1019]       r_lodScaleSkinned "1"
+[      1019]       r_lowestLodDist "-1"
+[      1019]       r_lowLodDist "-1"
+[      1019]       r_mediumLodDist "-1"
+[      1019]       r_mode "1280x720"
+[      1019]       r_modelVertColor "1"
+[      1019]       r_monitor "0"
+[      1019]       r_multiGpu "0"
+[      1019]       r_noborder "0"
+[      1019]       r_normal "1"
+[      1019]       r_normalMap "Unchanged"
+[      1019]       r_noVoid "0"
+[      1019]       r_outdoor "1"
+[      1019]       r_outdoorFeather "8"
+[      1019]       r_picmip "0"
+[      1019]       r_picmip_bump "0"
+[      1019]       r_picmip_manual "1"
+[      1019]       r_picmip_spec "0"
+[      1019]       r_picmip_water "0"
+[      1019]       r_polygonOffsetBias "-1"
+[      1019]       r_polygonOffsetScale "-1"
+[      1019]       r_portalBevels "0.7"
+[      1019]       r_portalBevelsOnly "0"
+[      1019]       r_portalMinClipArea "0.02"
+[      1019]       r_portalMinRecurseDepth "2"
+[      1019]       r_portalWalkLimit "0"
+[      1019]       r_preloadShaders "0"
+[      1019]       r_pretess "1"
+[      1019]       r_primaryLightTweakDiffuseStrength "1"
+[      1019]       r_primaryLightTweakSpecularStrength "1"
+[      1019]       r_primaryLightUseTweaks "0"
+[      1019]       r_reflectionProbeGenerate "0"
+[      1019]       r_reflectionProbeGenerateExit "0"
+[      1019]       r_reflectionProbeRegenerateAll "0"
+[      1019]       r_rendererInUse "Shader model 3.0"
+[      1019]       r_rendererPreference "Default"
+[      1019]       r_resampleScene "1"
+[      1019]       r_scaleViewport "1"
+[      1019]       r_showFbColorDebug "None"
+[      1019]       r_showFloatZDebug "0"
+[      1019]       r_showLightGrid "0"
+[      1019]       r_showMissingLightGrid "0"
+[      1019]       r_showPortals "0"
+[      1019]       r_showPortalsOverview "0"
+[      1019]       r_singleCell "0"
+[      1019]       r_skipPvs "0"
+[      1019]       r_smc_enable "1"
+[      1019]       r_smc_optimize "1"
+[      1019]       r_smp_backend "1"
+[      1019]       r_smp_worker "1"
+[      1019]       r_smp_worker_thread0 "1"
+[      1019]       r_smp_worker_thread1 "1"
+[      1019]       r_specular "1"
+[      1019]       r_specularColorScale "2.5"
+[      1019]       r_specularCustomMaps "0"
+[      1019]       r_specularMap "Unchanged"
+[      1019]       r_spotLightBrightness "14"
+[      1019]       r_spotLightEndRadius "196"
+[      1019]       r_spotLightEntityShadows "1"
+[      1019]       r_spotLightExponent "2"
+[      1019]       r_spotLightFovInnerFraction "0.5"
+[      1019]       r_spotLightMaxLength "5000"
+[      1019]       r_spotLightShadows "1"
+[      1019]       r_spotLightSModelShadows "1"
+[      1019]       r_spotLightStartRadius "36"
+[      1019]       r_sse_skinning "1"
+[      1019]       r_subwindow "0 1 0 1"
+[      1019]       r_sun_from_dvars "0"
+[      1019]       r_sun_fx_position "0 0 0"
+[      1019]       r_sunblind_fadein "0.5"
+[      1019]       r_sunblind_fadeout "3"
+[      1019]       r_sunblind_max_angle "5"
+[      1019]       r_sunblind_max_darken "0.75"
+[      1019]       r_sunblind_min_angle "30"
+[      1019]       r_sunflare_fadein "1"
+[      1019]       r_sunflare_fadeout "1"
+[      1019]       r_sunflare_max_alpha "1"
+[      1019]       r_sunflare_max_angle "2"
+[      1019]       r_sunflare_max_size "2500"
+[      1019]       r_sunflare_min_angle "45"
+[      1019]       r_sunflare_min_size "0"
+[      1019]       r_sunflare_shader "sun_flare"
+[      1019]       r_sunglare_fadein "0.5"
+[      1019]       r_sunglare_fadeout "3"
+[      1019]       r_sunglare_max_angle "5"
+[      1019]       r_sunglare_max_lighten "0.75"
+[      1019]       r_sunglare_min_angle "30"
+[      1019]       r_sunsprite_shader "sun"
+[      1019]       r_sunsprite_size "16"
+[      1019]       r_texFilterAnisoMax "4"
+[      1019]       r_texFilterAnisoMin "1"
+[      1019]       r_texFilterDisable "0"
+[      1019]       r_texFilterMipBias "0"
+[      1019]       r_texFilterMipMode "Unchanged"
+[      1019]       r_useD3D9Ex "0"
+[      1019]       r_useLayeredMaterials "0"
+[      1019]       r_vc_makelog "0"
+[      1019]       r_vc_showlog "0"
+[      1019]       r_vsync "1"
+[      1019]       r_warningRepeatDelay "5"
+[      1019]       r_zfar "0"
+[      1019]       r_zFeather "1"
+[      1019]       r_znear "4"
+[      1019]       r_znear_depthhack "0.1"
+[      1019]       radarjamDistMax "800"
+[      1019]       radarjamDistMin "350"
+[      1019]       radarjamSinCurve "0"
+[      1019]       ragdoll_baselerp_time "1000"
+[      1019]       ragdoll_bullet_force "500"
+[      1019]       ragdoll_bullet_upbias "0.5"
+[      1019]       ragdoll_debug "0"
+[      1019]       ragdoll_dump_anims "0"
+[      1019]       ragdoll_enable "1"
+[      1019]       ragdoll_explode_force "18000"
+[      1019]       ragdoll_explode_upbias "0.8"
+[      1019]       ragdoll_exploding_bullet_force "5000"
+[      1019]       ragdoll_exploding_bullet_upbias "0.8"
+[      1019]       ragdoll_fps "20"
+[      1019]       ragdoll_idle_min_velsq "2"
+[      1019]       ragdoll_jitter_scale "1"
+[      1019]       ragdoll_jointlerp_time "3000"
+[      1019]       ragdoll_max_life "4500"
+[      1019]       ragdoll_max_simulating "16"
+[      1019]       ragdoll_max_stretch_pct "10"
+[      1019]       ragdoll_rotvel_scale "1"
+[      1019]       ragdoll_self_collision_scale "1.2"
+[      1019]       ragdoll_stretch_iters "10"
+[      1019]       rate "45000"
+[      1019]       reliableResendTime "300"
+[      1019]       reliableTimeoutTime "20000"
+[      1019]       RemoteCameraSounds_DryLevel "0.1"
+[      1019]       RemoteCameraSounds_RoomType "underwater"
+[      1019]       RemoteCameraSounds_WetLevel "0.5"
+[      1019]       requireOpenNat "1"
+[      1019]       safeArea_adjusted_horizontal "0.85"
+[      1019]       safeArea_adjusted_vertical "0.85"
+[      1019]       safeArea_horizontal "0.85"
+[      1019]       safeArea_vertical "0.85"
+[      1019]       scr_airdrop_ac130 "3"
+[      1019]       scr_airdrop_ammo "17"
+[      1019]       scr_airdrop_counter_uav "15"
+[      1019]       scr_airdrop_emp "1"
+[      1019]       scr_airdrop_harrier_airstrike "7"
+[      1019]       scr_airdrop_helicopter "7"
+[      1019]       scr_airdrop_helicopter_flares "5"
+[      1019]       scr_airdrop_helicopter_minigun "3"
+[      1019]       scr_airdrop_mega_ac130 "2"
+[      1019]       scr_airdrop_mega_ammo "12"
+[      1019]       scr_airdrop_mega_counter_uav "16"
+[      1019]       scr_airdrop_mega_emp "0"
+[      1019]       scr_airdrop_mega_harrier_airstrike "5"
+[      1019]       scr_airdrop_mega_helicopter "5"
+[      1019]       scr_airdrop_mega_helicopter_flares "3"
+[      1019]       scr_airdrop_mega_helicopter_minigun "2"
+[      1019]       scr_airdrop_mega_nuke "0"
+[      1019]       scr_airdrop_mega_precision_airstrike "10"
+[      1019]       scr_airdrop_mega_predator_missile "14"
+[      1019]       scr_airdrop_mega_sentry "16"
+[      1019]       scr_airdrop_mega_stealth_airstrike "3"
+[      1019]       scr_airdrop_mega_uav "12"
+[      1019]       scr_airdrop_nuke "0"
+[      1019]       scr_airdrop_precision_airstrike "11"
+[      1019]       scr_airdrop_predator_missile "12"
+[      1019]       scr_airdrop_sentry "12"
+[      1019]       scr_airdrop_stealth_airstrike "5"
+[      1019]       scr_airdrop_uav "17"
+[      1019]       scr_arena_numlives "1"
+[      1019]       scr_arena_promode "0"
+[      1019]       scr_arena_roundlimit "0"
+[      1019]       scr_arena_roundswitch "3"
+[      1019]       scr_arena_scorelimit "1"
+[      1019]       scr_arena_timelimit "2.5"
+[      1019]       scr_arena_winlimit "4"
+[      1019]       scr_ctf_halftime "1"
+[      1019]       scr_ctf_numlives "0"
+[      1019]       scr_ctf_playerrespawndelay "0"
+[      1019]       scr_ctf_promode "0"
+[      1019]       scr_ctf_returntime "30"
+[      1019]       scr_ctf_roundlimit "1"
+[      1019]       scr_ctf_scorelimit "0"
+[      1019]       scr_ctf_timelimit "10"
+[      1019]       scr_ctf_waverespawndelay "10"
+[      1019]       scr_ctf_winlimit "1"
+[      1019]       scr_dd_addtime "2.5"
+[      1019]       scr_dd_bombtimer "45"
+[      1019]       scr_dd_defusetime "5"
+[      1019]       scr_dd_numlives "0"
+[      1019]       scr_dd_planttime "5"
+[      1019]       scr_dd_playerrespawndelay "0"
+[      1019]       scr_dd_promode "0"
+[      1019]       scr_dd_roundlimit "3"
+[      1019]       scr_dd_roundswitch "1"
+[      1019]       scr_dd_scorelimit "1"
+[      1019]       scr_dd_timelimit "2.5"
+[      1019]       scr_dd_waverespawndelay "0"
+[      1019]       scr_dd_winlimit "2"
+[      1019]       scr_diehard "0"
+[      1019]       scr_dm_numlives "0"
+[      1019]       scr_dm_playerrespawndelay "0"
+[      1019]       scr_dm_promode "0"
+[      1019]       scr_dm_roundlimit "1"
+[      1019]       scr_dm_scorelimit "1500"
+[      1019]       scr_dm_timelimit "10"
+[      1019]       scr_dm_waverespawndelay "0"
+[      1019]       scr_dm_winlimit "1"
+[      1019]       scr_dom_numlives "0"
+[      1019]       scr_dom_playerrespawndelay "0"
+[      1019]       scr_dom_promode "0"
+[      1019]       scr_dom_roundlimit "1"
+[      1019]       scr_dom_scorelimit "200"
+[      1019]       scr_dom_timelimit "0"
+[      1019]       scr_dom_waverespawndelay "0"
+[      1019]       scr_dom_winlimit "1"
+[      1019]       scr_explBulletMod "1"
+[      1019]       scr_game_allowkillcam "1"
+[      1019]       scr_game_deathpointloss "0"
+[      1019]       scr_game_forceuav "0"
+[      1019]       scr_game_graceperiod "0"
+[      1019]       scr_game_hardpoints "1"
+[      1019]       scr_game_killstreakdelay "0"
+[      1019]       scr_game_onlyheadshots "0"
+[      1019]       scr_game_perks "1"
+[      1019]       scr_game_spectatetype "1"
+[      1019]       scr_game_suicidepointloss "0"
+[      1019]       scr_gtnw_numlives "0"
+[      1019]       scr_gtnw_playerrespawndelay "0"
+[      1019]       scr_gtnw_promode "0"
+[      1019]       scr_gtnw_roundlimit "1"
+[      1019]       scr_gtnw_roundswitch "0"
+[      1019]       scr_gtnw_scorelimit "101"
+[      1019]       scr_gtnw_timelimit "10"
+[      1019]       scr_gtnw_waverespawndelay "0"
+[      1019]       scr_gtnw_winlimit "1"
+[      1019]       scr_hardcore "0"
+[      1019]       scr_hardpoint_allowartillery "1"
+[      1019]       scr_hardpoint_allowhelicopter "1"
+[      1019]       scr_hardpoint_allowuav "1"
+[      1019]       scr_infected_allow_allies_attachments "1"
+[      1019]       scr_infected_allow_allies_equipment "1"
+[      1019]       scr_infected_allow_allies_specialist "1"
+[      1019]       scr_infected_allow_allies_starting_perks "1"
+[      1019]       scr_infected_allow_inf_ti "1"
+[      1019]       scr_infected_allow_inf_tk "1"
+[      1019]       scr_infected_pick_time "15"
+[      1019]       scr_intermissionTime "10"
+[      1019]       scr_koth_numlives "0"
+[      1019]       scr_koth_playerrespawndelay "0"
+[      1019]       scr_koth_promode "0"
+[      1019]       scr_koth_roundlimit "1"
+[      1019]       scr_koth_roundswitch "1"
+[      1019]       scr_koth_scorelimit "250"
+[      1019]       scr_koth_timelimit "15"
+[      1019]       scr_koth_waverespawndelay "0"
+[      1019]       scr_koth_winlimit "1"
+[      1019]       scr_maxPerPlayerExplosives "2"
+[      1019]       scr_nuke_is_moab "0"
+[      1019]       scr_nukeCancelMode "0"
+[      1019]       scr_nukeTimer "10"
+[      1019]       scr_oldschool "0"
+[      1019]       scr_oneflag_numlives "0"
+[      1019]       scr_oneflag_playerrespawndelay "0"
+[      1019]       scr_oneflag_promode "0"
+[      1019]       scr_oneflag_roundlimit "0"
+[      1019]       scr_oneflag_roundswitch "3"
+[      1019]       scr_oneflag_scorelimit "1"
+[      1019]       scr_oneflag_timelimit "3"
+[      1019]       scr_oneflag_waverespawndelay "0"
+[      1019]       scr_oneflag_winlimit "4"
+[      1019]       scr_patientZero ""
+[      1019]       scr_player_forcerespawn "1"
+[      1019]       scr_player_healthregentime "5"
+[      1019]       scr_player_maxhealth "100"
+[      1019]       scr_player_numlives "0"
+[      1019]       scr_player_respawndelay "0"
+[      1019]       scr_player_sprinttime "4"
+[      1019]       scr_player_suicidespawndelay "0"
+[      1019]       scr_RequiredMapAspectratio "1"
+[      1019]       scr_restxp_cap "0.5"
+[      1019]       scr_restxp_enable "0"
+[      1019]       scr_restxp_levelsPerDay "0.5"
+[      1019]       scr_restxp_minRestTime "4"
+[      1019]       scr_restxp_restedAwardScale "0.5"
+[      1019]       scr_restxp_timescale "1"
+[      1019]       scr_riotShieldXPBullets "15"
+[      1019]       scr_sab_bombtimer "30"
+[      1019]       scr_sab_defusetime "5"
+[      1019]       scr_sab_hotpotato "0"
+[      1019]       scr_sab_numlives "0"
+[      1019]       scr_sab_planttime "2.5"
+[      1019]       scr_sab_playerrespawndelay "7.5"
+[      1019]       scr_sab_promode "0"
+[      1019]       scr_sab_roundlimit "1"
+[      1019]       scr_sab_roundswitch "1"
+[      1019]       scr_sab_scorelimit "0"
+[      1019]       scr_sab_timelimit "20"
+[      1019]       scr_sab_waverespawndelay "0"
+[      1019]       scr_sab_winlimit "1"
+[      1019]       scr_sd_bombtimer "45"
+[      1019]       scr_sd_defusetime "5"
+[      1019]       scr_sd_multibomb "0"
+[      1019]       scr_sd_numlives "1"
+[      1019]       scr_sd_planttime "5"
+[      1019]       scr_sd_playerrespawndelay "0"
+[      1019]       scr_sd_promode "0"
+[      1019]       scr_sd_roundlimit "0"
+[      1019]       scr_sd_roundswitch "3"
+[      1019]       scr_sd_scorelimit "1"
+[      1019]       scr_sd_timelimit "2.5"
+[      1019]       scr_sd_waverespawndelay "0"
+[      1019]       scr_sd_winlimit "4"
+[      1019]       scr_tdef_numlives "0"
+[      1019]       scr_tdef_playerrespawndelay "0"
+[      1019]       scr_tdef_promode "0"
+[      1019]       scr_tdef_roundlimit "1"
+[      1019]       scr_tdef_scorelimit "7500"
+[      1019]       scr_tdef_timelimit "10"
+[      1019]       scr_tdef_waverespawndelay "0"
+[      1019]       scr_tdef_winlimit "1"
+[      1019]       scr_team_fftype "0"
+[      1019]       scr_team_kickteamkillers "0"
+[      1019]       scr_team_respawntime "0"
+[      1019]       scr_team_teamkillpointloss "1"
+[      1019]       scr_team_teamkillspawndelay "20"
+[      1019]       scr_thirdPerson "0"
+[      1019]       scr_tispawndelay "0"
+[      1019]       scr_vip_numlives "0"
+[      1019]       scr_vip_promode "0"
+[      1019]       scr_vip_roundlimit "3"
+[      1019]       scr_vip_roundswitch "1"
+[      1019]       scr_vip_scorelimit "1"
+[      1019]       scr_vip_timelimit "2.5"
+[      1019]       scr_vip_winlimit "2"
+[      1019]       scr_war_numlives "0"
+[      1019]       scr_war_playerrespawndelay "0"
+[      1019]       scr_war_promode "0"
+[      1019]       scr_war_roundlimit "1"
+[      1019]       scr_war_scorelimit "7500"
+[      1019]       scr_war_timelimit "10"
+[      1019]       scr_war_waverespawndelay "0"
+[      1019]       scr_war_winlimit "1"
+[      1019]       scr_xpscale "1"
+[      1019]       sensitivity "5"
+[      1019]       sentry_placement_debug "0"
+[      1019]       sentry_placement_feet_offset "17 20 10"
+[      1019]       sentry_placement_feet_trace_dist_z "20"
+[      1019]       sentry_placement_trace_dist "42"
+[      1019]       sentry_placement_trace_min_normal "0.7"
+[      1019]       sentry_placement_trace_pitch "20"
+[      1019]       sentry_placement_trace_radius "30"
+[      1019]       sentry_placement_trace_radius_canon_safety "5"
+[      1019]       server1 ""
+[      1019]       server10 ""
+[      1019]       server11 ""
+[      1019]       server12 ""
+[      1019]       server13 ""
+[      1019]       server14 ""
+[      1019]       server15 ""
+[      1019]       server16 ""
+[      1019]       server2 ""
+[      1019]       server3 ""
+[      1019]       server4 ""
+[      1019]       server5 ""
+[      1019]       server6 ""
+[      1019]       server7 ""
+[      1019]       server8 ""
+[      1019]       server9 ""
+[      1019]       session_immediateDeleteTinySessions "0"
+[      1019]       session_nonblocking "1"
+[      1019]       shieldImpactBulletShakeDuration "500"
+[      1019]       shieldImpactBulletShakeScale "0.35"
+[      1019]       shieldImpactExplosionHighShakeDuration "1250"
+[      1019]       shieldImpactExplosionHighShakeScale "0.5"
+[      1019]       shieldImpactExplosionLowShakeDuration "800"
+[      1019]       shieldImpactExplosionLowShakeScale "0.4"
+[      1019]       shieldImpactExplosionThreshold "85"
+[      1019]       shieldImpactMissileShakeDuration "1500"
+[      1019]       shieldImpactMissileShakeScale "0.5"
+[      1019]       shortversion "0.6.0"
+[      1019]       showdrop "0"
+[      1019]       showpackets "0"
+[      1019]       sm_enable "1"
+[      1019]       sm_fastSunShadow "1"
+[      1019]       sm_lightScore_eyeProjectDist "64"
+[      1019]       sm_lightScore_spotProjectFrac "0.125"
+[      1019]       sm_maxLights "4"
+[      1019]       sm_minSpotLightScore "0.5"
+[      1019]       sm_polygonOffsetBias "0.125"
+[      1019]       sm_polygonOffsetScale "2"
+[      1019]       sm_qualitySpotShadow "1"
+[      1019]       sm_spotDistCull "1"
+[      1019]       sm_spotEnable "1"
+[      1019]       sm_spotLimit "4"
+[      1019]       sm_spotShadowFadeTime "1"
+[      1019]       sm_strictCull "1"
+[      1019]       sm_sunEnable "1"
+[      1019]       sm_sunSampleSizeNear "0.25"
+[      1019]       sm_sunShadowCenter "0 0 0"
+[      1019]       sm_sunShadowScale "1"
+[      1019]       sm_sunShadowScaleLocked "1"
+[      1019]       snaps "30"
+[      1019]       snd_cinematicVolumeScale "0.5"
+[      1019]       snd_draw3D "Off"
+[      1019]       snd_drawInfo "None"
+[      1019]       snd_enable2D "1"
+[      1019]       snd_enable3D "1"
+[      1019]       snd_enableEq "1"
+[      1019]       snd_enableReverb "1"
+[      1019]       snd_enableStream "1"
+[      1019]       snd_errorOnMissing "0"
+[      1019]       snd_khz "44"
+[      1019]       snd_levelFadeTime "250"
+[      1019]       snd_outputConfiguration "Windows default"
+[      1019]       snd_slaveFadeTime "500"
+[      1019]       snd_touchStreamFilesOnLoad "0"
+[      1019]       snd_volume "0.8"
+[      1019]       splitscreen "0"
+[      1019]       stat_version "10"
+[      1019]       stopspeed "100"
+[      1019]       sv_allowAnonymous "0"
+[      1019]       sv_allowClientConsole "1"
+[      1019]       sv_allowColoredNames "1"
+[      1019]       sv_allowDownload "1"
+[      1019]       sv_allowedClan1 ""
+[      1019]       sv_allowedClan2 ""
+[      1019]       sv_cheats "0"
+[      1019]       sv_clientArchive "1"
+[      1019]       sv_clientSideBullets "1"
+[      1019]       sv_connectTimeout "120"
+[      1019]       sv_customTextColor "1 0.701961 0 1"
+[      1019]       sv_debugRate "0"
+[      1019]       sv_debugReliableCmds "0"
+[      1019]       sv_dontrotate "0"
+[      1019]       sv_enableBounces "1"
+[      1019]       sv_extraPenetration "1"
+[      1019]       sv_extraPenetrationMultiplier "100"
+[      1019]       sv_floodProtect "1"
+[      1019]       sv_hostname " "
+[      1019]       sv_hugeSnapshotDelay "200"
+[      1019]       sv_hugeSnapshotSize "4000"
+[      1019]       sv_iwdNames ""
+[      1019]       sv_iwds ""
+[      1019]       sv_kickBanTime "300"
+[      1019]       sv_mapRotation ""
+[      1019]       sv_mapRotationCurrent ""
+[      1019]       sv_maxclients "18"
+[      1019]       sv_maxPing "0"
+[      1019]       sv_maxRate "25000"
+[      1019]       sv_minPing "0"
+[      1019]       sv_network_fps "50"
+[      1019]       sv_packet_info "0"
+[      1019]       sv_padPackets "0"
+[      1019]       sv_paused "0"
+[      1019]       sv_privateClients "0"
+[      1019]       sv_privateClientsForClients "0"
+[      1019]       sv_privatePassword ""
+[      1019]       sv_pure "0"
+[      1019]       sv_reconnectlimit "3"
+[      1019]       sv_referencedFFCheckSums ""
+[      1019]       sv_referencedFFNames ""
+[      1019]       sv_referencedIwdNames ""
+[      1019]       sv_referencedIwds ""
+[      1019]       sv_rejoinTimeout "5"
+[      1019]       sv_running "0"
+[      1019]       sv_securityLevel "23"
+[      1019]       sv_showAverageBPS "0"
+[      1019]       sv_timeout "20"
+[      1019]       sv_voiceQuality "3"
+[      1019]       sv_wwwBaseUrl ""
+[      1019]       sv_wwwDownload "0"
+[      1019]       sv_zombietime "2"
+[      1019]       sys_configSum "209012943"
+[      1019]       sys_configureGHz "30.9221"
+[      1019]       sys_cpuGHz "2.904"
+[      1019]       sys_cpuName "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz"
+[      1019]       sys_gpu "NVIDIA GeForce RTX 2060 SUPER"
+[      1019]       sys_lockThreads "none"
+[      1019]       sys_quitMigrateTime "15000"
+[      1019]       sys_smp_allowed "1"
+[      1019]       sys_SSE "1"
+[      1019]       sys_sysMB "2048"
+[      1019]       systemlink "0"
+[      1019]       testClients_doAttack "1"
+[      1019]       testClients_doCrouch "0"
+[      1019]       testClients_doMove "1"
+[      1019]       testClients_doReload "1"
+[      1019]       testClients_watchKillcam "1"
+[      1019]       thermal_playerModel ""
+[      1019]       thermalBlurFactorNoScope "250"
+[      1019]       thermalBlurFactorScope "250"
+[      1019]       timescale "1"
+[      1019]       tracer_debugDraw "0"
+[      1019]       tracer_explosiveColor1 "1 0.75 0.75 0"
+[      1019]       tracer_explosiveColor2 "1 0.75 0.75 1"
+[      1019]       tracer_explosiveColor3 "1 0.75 0.75 1"
+[      1019]       tracer_explosiveColor4 "1 0.75 0.75 1"
+[      1019]       tracer_explosiveColor5 "1 0.75 0.75 1"
+[      1019]       tracer_explosiveColor6 "1 0.75 0.75 0"
+[      1019]       tracer_explosiveOverride "1"
+[      1019]       tracer_explosiveWidth "15"
+[      1019]       tracer_firstPersonMaxWidth "4"
+[      1019]       tracer_stoppingPowerColor1 "0 0 0 0"
+[      1019]       tracer_stoppingPowerColor2 "1 1 1 1"
+[      1019]       tracer_stoppingPowerColor3 "1 0 0 1"
+[      1019]       tracer_stoppingPowerColor4 "1 0 0 1"
+[      1019]       tracer_stoppingPowerColor5 "1 1 0 1"
+[      1019]       tracer_stoppingPowerColor6 "1 1 1 1"
+[      1019]       tracer_stoppingPowerOverride "0"
+[      1019]       tracer_stoppingPowerWidth "6"
+[      1019]       tracer_thermalWidthMult "2"
+[      1019]       turret_adsEnabled "1"
+[      1019]       turret_adsFov "35"
+[      1019]       turret_adsTime "250"
+[      1019]       turret_fov "55"
+[      1019]       ui_allow_controlschange "1"
+[      1019]       ui_bigFont "0.688"
+[      1019]       ui_borderLowLightScale "0.35"
+[      1019]       ui_browserFriendlyfire "-1"
+[      1019]       ui_browserKillcam "-1"
+[      1019]       ui_browserMod "-1"
+[      1019]       ui_browserShowDedicated "0"
+[      1019]       ui_browserShowEmpty "1"
+[      1019]       ui_browserShowFull "1"
+[      1019]       ui_browserShowPassword "-1"
+[      1019]       ui_browserShowPunkBuster "-1"
+[      1019]       ui_browserShowPure "1"
+[      1019]       ui_buildLocation "-60 474"
+[      1019]       ui_controllericons "0"
+[      1019]       ui_currentFeederMapIndex "0"
+[      1019]       ui_currentMap "0"
+[      1019]       ui_dl_progress ""
+[      1019]       ui_dl_timeLeft ""
+[      1019]       ui_dl_transRate ""
+[      1019]       ui_drawCrosshair "1"
+[      1019]       ui_extraBigFont "1"
+[      1019]       ui_gametype "war"
+[      1019]       ui_hud_hardcore "0"
+[      1019]       ui_hud_obituaries "1"
+[      1019]       ui_hud_showobjicons "1"
+[      1019]       ui_joinGametype "0"
+[      1019]       ui_localize "1"
+[      1019]       ui_map_desc ""
+[      1019]       ui_map_long "Afghan"
+[      1019]       ui_map_name "mp_afghan"
+[      1019]       ui_mapname "mp_afghan"
+[      1019]       ui_mousePitch "0"
+[      1019]       ui_nativeCursor "0"
+[      1019]       ui_netGametype "1"
+[      1019]       ui_netGametypeName "war"
+[      1019]       ui_netSource "1"
+[      1019]       ui_serverSelected "0"
+[      1019]       ui_serverSelectedMap "mp_afghan"
+[      1019]       ui_serverStatusTimeOut "7000"
+[      1019]       ui_showmap "1"
+[      1019]       ui_smallFont "0.563"
+[      1019]       ui_startupMessage ""
+[      1019]       ui_startupMessageTitle ""
+[      1019]       ui_startupNextButtonText ""
+[      1019]       ui_streamFriendly "1"
+[      1019]       ui_zoneDebug "0"
+[      1019]       upnp_maxAttempts "4"
+[      1019]       useFastFile "1"
+[      1019]       useMapPreloading "1"
+[      1019]       useonlinestats "0"
+[      1019]       useRelativeTeamColors "0"
+[      1019]       useSvMapPreloading "1"
+[      1019]       useTagFlashSilenced "1"
+[      1019]       veh_boneControllerLodDist "2000"
+[      1019]       vehAudio_inAirPitchDownLerp "1.2"
+[      1019]       vehAudio_inAirPitchUpLerp "0.75"
+[      1019]       vehAudio_spawnVolumeTime "2"
+[      1019]       vehCam_angles "0 0 0"
+[      1019]       vehCam_editMode "0"
+[      1019]       vehCam_freeLook "0"
+[      1019]       vehCam_offset "0 0 0"
+[      1019]       vehCam_pitchClamp "45"
+[      1019]       vehCam_pitchTurnRate "90"
+[      1019]       vehCam_radius "0"
+[      1019]       vehCam_speedInfluence "0"
+[      1019]       vehCam_yawClamp "45"
+[      1019]       vehCam_yawTurnRate "260"
+[      1019]       vehCam_zOffsetMode "World"
+[      1019]       version "IW4x (v0.6.1 XInput)"
+[      1019]       vid_xpos "54"
+[      1019]       vid_ypos "167"
+[      1019]       viewModelDebugNotetracks "0"
+[      1019]       viewModelHacks "1"
+[      1019]       viewposNow "0 0 0"
+[      1019]       voiceDebug "0"
+[      1019]       voiceDegrade "0"
+[      1019]       waypointDebugDraw "0"
+[      1019]       waypointDistScaleRangeMax "3000"
+[      1019]       waypointDistScaleRangeMin "1000"
+[      1019]       waypointDistScaleSmallest "0.8"
+[      1019]       waypointIconHeight "36"
+[      1019]       waypointIconWidth "36"
+[      1019]       waypointOffscreenCornerRadius "105"
+[      1019]       waypointOffscreenDistanceThresholdAlpha "30"
+[      1019]       waypointOffscreenPadBottom "30"
+[      1019]       waypointOffscreenPadLeft "103"
+[      1019]       waypointOffscreenPadRight "0"
+[      1019]       waypointOffscreenPadTop "0"
+[      1019]       waypointOffscreenPointerDistance "20"
+[      1019]       waypointOffscreenPointerHeight "12"
+[      1019]       waypointOffscreenPointerWidth "25"
+[      1019]       waypointOffscreenRoundedCorners "1"
+[      1019]       waypointOffscreenScaleLength "500"
+[      1019]       waypointOffscreenScaleSmallest "1"
+[      1019]       waypointPlayerOffsetCrouch "56"
+[      1019]       waypointPlayerOffsetProne "30"
+[      1019]       waypointPlayerOffsetStand "66"
+[      1019]       waypointSplitscreenScale "1.8"
+[      1019]       waypointTweakY "-17"
+[      1019]       wideScreen "1"
+[      1019]       winvoice_loopback "0"
+[      1019]       winvoice_mic_mute "1"
+[      1019]       winvoice_mic_reclevel "65535"
+[      1019]       winvoice_mic_scaler "1"
+[      1019]       winvoice_save_voice "0"
+[      1019]       xblive_hostingprivateparty "0"
+[      1019]       xblive_loggedin "0"
+[      1019]       xblive_playEvenIfDown "0"
+[      1019]       xblive_privatematch "1"
+[      1019]       xblive_privatepartyclient "0"
+[      1019]       xblive_privateserver "0"
+[      1019]       xblive_rankedmatch "0"
+[      1019] 
+1813 total dvars
+1813 dvar indexes
+[      1019] =============================== END DVAR DUMP =====================================
+[      1431] execing thumbstick_default.cfg from fastfile
+[      1432] execing gamepad_tactical.cfg from fastfile
+[      1436] Huffman Took 1 Milliseconds
+[      1436] Working directory: C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy
+[      1438] Using profile source local (l:0 c:1)
+[      1506] Calling Party_StopParty() for partyId 0
+[      1506] Not uploading stats: stats not fetched (cont 0)
+[      1506] Clearing migration data
+[      1506] Clearing migration data
+[      1506] Calling Party_StopParty() for partyId 1
+[      1506] Clearing migration data
+[      1506] Clearing migration data
+[      1545] Waited 37 msec for asset 'mc_l_hsm_b0c0' of type 'techset'.
+[      1959] UPNP: Got a response from a device!
+[      1959] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:21 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::upnp:rootdevice
+
+00/rootDesc.xml
+Content-Length: 0
+
+'
+[      1959] UPNP: Got a response from a device!
+[      1959] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:21 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::upnp:rootdevice
+
+00/rootDesc.xml
+Content-Length: 0
+
+'
+[      1959] UPNP: Got a response from a device!
+[      1959] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:21 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f
+
+sc.xml
+Content-Length: 0
+
+'
+[      1959] UPNP: Got a response from a device!
+[      1959] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:21 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f
+
+sc.xml
+Content-Length: 0
+
+'
+[      1959] UPNP: Got a response from a device!
+[      1959] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:21 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:device:WFADevice:1
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:device:WFADevice:1
+
+‘Å
+'
+[      1959] UPNP: Got a response from a device!
+[      1959] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:21 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:device:WFADevice:1
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:device:WFADevice:1
+
+‘Å
+'
+[      1959] UPNP: Got a response from a device!
+[      1959] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:21 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+'
+[      1959] UPNP: Got a response from a device!
+[      1959] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:21 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+'
+[      2230] Waited 685 msec for asset 'wc_l_hsm_b0c0' of type 'techset'.
+[      2250] Successfully read stats data
+[      2961] UPNP: Got a response from a device!
+[      2961] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:22 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::upnp:rootdevice
+
+9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+'
+[      2961] UPNP: Got a response from a device!
+[      2961] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:22 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: upnp:rootdevice
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::upnp:rootdevice
+
+9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+'
+[      2961] UPNP: Got a response from a device!
+[      2961] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:22 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f
+
+2fe3c4f::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+'
+[      2961] UPNP: Got a response from a device!
+[      2961] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:22 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f
+
+2fe3c4f::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+'
+[      2961] UPNP: Got a response from a device!
+[      2961] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:22 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:device:WFADevice:1
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:device:WFADevice:1
+
+nfig:1
+
+'
+[      2961] UPNP: Got a response from a device!
+[      2961] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:22 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:device:WFADevice:1
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:device:WFADevice:1
+
+nfig:1
+
+'
+[      2961] UPNP: Got a response from a device!
+[      2961] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:22 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+'
+[      2961] UPNP: Got a response from a device!
+[      2961] UPNP: Got response 'HTTP/1.1 200 OK
+CACHE-CONTROL: max-age=1801
+DATE: Sat, 30 Apr 2022 23:01:22 GMT
+EXT:
+LOCATION: http://192.168.1.1:49152/wps_device.xml
+SERVER: Unspecified, UPnP/1.0, Unspecified
+ST: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+USN: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+'
+[      2961] UPNP: Got a response from a device!
+[      2961] UPNP: Got response 'HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+ST: upnp:rootdevice
+USN: uuid:29780001-1c03-1051-8052-1c1ee3708aca::upnp:rootdevice
+Ext: 
+Server: Roku/11.0.0 UPnP/1.0 Roku/11.0.0
+LOCATION: http://192.168.1.3:8060/
+WAKEUP: MAC=1c:1e:e3:70:8a:ca;Timeout=10
+
+a91a-ea5b-c9c5-0f3ce2fe3c4f::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+'
+[      4963] UPnP device :
+ desc: http://192.168.1.3:8060/
+ st: upnp:rootdevice
+[      6968] http request timed out - response was 'HTTP/1.1 200 OK
+Server: Roku/11.0.0 UPnP/1.0 Roku/11.0.0
+Content-Length: 1306
+Cache-Control: no-cache
+Content-Type: text/xml; charset="utf-8"
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+<specVersion>
+<major>1</major>
+<minor>0</minor>
+</specVersion>
+<device>
+<deviceType>urn:roku-com:device:player:1-0</deviceType>
+<friendlyName>49&quot; TCL Roku TV</friendlyName>
+<manufacturer>TCL</manufacturer>
+<manufacturerURL>support.tcl.com/us</manufacturerURL>
+<modelDescription>Roku Streaming Player Network Media</modelDescription>
+<modelName>7104X</modelName>
+<modelNumber>7104X</modelNumber>
+<modelURL>http://www.roku.com/</modelURL>
+<serialNumber>YN0017217426</serialNumber>
+<UDN>uuid:29780001-1c03-1051-8052-1c1ee3708aca</UDN>
+<iconList>
+<icon>
+<mimetype>image/png</mimetype>
+<width>360</width>
+<height>219</height>
+<depth>8</depth>
+<url>device-image.png</url>
+</icon>
+</iconList>
+<serviceList>
+<service>
+<serviceType>urn:roku-com:service:ecp:1</serviceType>
+<serviceId>urn:roku-com:serviceId:ecp1-0</serviceId>
+<controlURL></controlURL>
+<eventSubURL></eventSubURL>
+<SCPDURL>ecp_SCPD.xml</SCPDURL>
+</service>
+<service>
+<serviceType>urn:dial-multiscreen-org:service:dial:1</serviceType>
+<serviceId>urn:dial-multiscreen-org:serviceId:dial1-0</serviceId>
+<controlURL></controlURL>
+<eventSubURL></eventSubURL>
+<SCPDURL>dial_SCPD.xml</SCPDURL>
+</service>
+</serviceList>
+</device>
+</root>
+'
+[      6968] UPnP device :
+ desc: http://192.168.1.1:49152/wps_device.xml
+ st: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+[      8971] http request timed out - response was 'HTTP/1.1 200 OK
+Content-Type: text/xml; charset="utf-8"
+Server: Unspecified, UPnP/1.0, Unspecified
+Connection: close
+Content-Length: 771     
+Date: Sat, 30 Apr 2022 23:01:26 GMT
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+<specVersion>
+<major>1</major>
+<minor>0</minor>
+</specVersion>
+<device>
+<deviceType>urn:schemas-wifialliance-org:device:WFADevice:1</deviceType>
+<friendlyName>WPS Access Point</friendlyName>
+<manufacturer>Broadcom</manufacturer>
+<modelName>RAX45</modelName>
+<modelNumber>123456</modelNumber>
+<serialNumber>1234</serialNumber>
+<UDN>uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f</UDN>
+<serviceList>
+<service>
+<serviceType>urn:schemas-wifialliance-org:service:WFAWLANConfig:1</serviceType>
+<serviceId>urn:wifialliance-org:serviceId:WFAWLANConfig1</serviceId>
+<SCPDURL>wps_scpd.xml</SCPDURL>
+<controlURL>wps_control</controlURL>
+<eventSubURL>wps_event</eventSubURL>
+</service>
+</serviceList>
+</device>
+</root>
+'
+[      8971] UPnP device :
+ desc: http://192.168.1.1:49152/wps_device.xml
+ st: urn:schemas-wifialliance-org:device:WFADevice:1
+[      9628] Com_TouchMemory: 0 msec. Using sum: 0
+[     10141] "xblive_rankedmatch" is: "0^7" default: "0^7"
+[     10141]   Domain is 0 or 1
+[     10141] "xblive_privatematch" is: "1^7" default: "1^7"
+[     10141]   Domain is 0 or 1
+[     10141] execing default_xboxlive.cfg from disk
+[     10180] CL_Live_StartPrivateParty() was called, calling Party_StopParty
+[     10180] Calling Party_StopParty() for partyId 0
+[     10180] Not uploading stats: no statWriteNeeded (cont 0)
+[     10180] Clearing migration data
+[     10180] Clearing migration data
+[     10180] Calling Party_StopParty() for partyId 1
+[     10180] Clearing migration data
+[     10180] Clearing migration data
+[     10180] Calling PartyHost_StartParty()
+[     10180] PartyHost_StartParty was called, calling Party_StopParty
+[     10180] Calling Party_StopParty() for partyId 1
+[     10180] Clearing migration data
+[     10180] Clearing migration data
+[     10180] Got our host key for our new party - xnkid (126.5.178.67...)
+[     10185] Registering xuid d9fe19a3b0a2475a at slot 0 in a private slot - they have nat type 1.  That will give us 1 private slots used and 0 public slots used
+[     10185] Changing clientNum 0's address from type 0, ip 0.0.0.0, port 0, to type 2, ip 127.0.0.1, port 0
+[     10186] execing default_xboxlive.cfg from disk
+[     10186] Unknown command "ui_enumeratesaved"
+[     10222] CL_Live_StartPrivateMatchHost() was called, calling Party_StopParty
+[     10222] Calling Party_StopParty() for partyId 0
+[     10222] Not uploading stats: no statWriteNeeded (cont 0)
+[     10222] Clearing migration data
+[     10222] Clearing migration data
+[     10222] Calling PartyHost_StartParty()
+[     10222] PartyHost_StartParty was called, calling Party_StopParty
+[     10222] Calling Party_StopParty() for partyId 0
+[     10222] Not uploading stats: no statWriteNeeded (cont 0)
+[     10222] Clearing migration data
+[     10222] Clearing migration data
+[     10222] We're going to be updating trueskill #1
+[     10222] Not uploading stats: no statWriteNeeded (cont 0)
+[     10222] Got our host key for our new party - xnkid (67.105.184.67...)
+[     10222] Registering xuid d9fe19a3b0a2475a at slot 7 in a public slot - they have nat type 1.  That will give us 0 private slots used and 1 public slots used
+[     10222] Changing clientNum 7's address from type 0, ip 0.0.0.0, port 0, to type 2, ip 127.0.0.1, port 0
+[     10222] execing dvar_defaults.cfg from fastfile
+[     10973] http request timed out - response was 'HTTP/1.1 200 OK
+Content-Type: text/xml; charset="utf-8"
+Server: Unspecified, UPnP/1.0, Unspecified
+Connection: close
+Content-Length: 771     
+Date: Sat, 30 Apr 2022 23:01:28 GMT
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+<specVersion>
+<major>1</major>
+<minor>0</minor>
+</specVersion>
+<device>
+<deviceType>urn:schemas-wifialliance-org:device:WFADevice:1</deviceType>
+<friendlyName>WPS Access Point</friendlyName>
+<manufacturer>Broadcom</manufacturer>
+<modelName>RAX45</modelName>
+<modelNumber>123456</modelNumber>
+<serialNumber>1234</serialNumber>
+<UDN>uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f</UDN>
+<serviceList>
+<service>
+<serviceType>urn:schemas-wifialliance-org:service:WFAWLANConfig:1</serviceType>
+<serviceId>urn:wifialliance-org:serviceId:WFAWLANConfig1</serviceId>
+<SCPDURL>wps_scpd.xml</SCPDURL>
+<controlURL>wps_control</controlURL>
+<eventSubURL>wps_event</eventSubURL>
+</service>
+</serviceList>
+</device>
+</root>
+'
+[     10973] UPnP device :
+ desc: http://192.168.1.1:49152/wps_device.xml
+ st: uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f
+[     11515] g_gametype will be changed upon restarting.
+[     11515] Updating partystate due to console command
+[     11515] execing default_xboxlive.cfg from disk
+[     12976] http request timed out - response was 'HTTP/1.1 200 OK
+Content-Type: text/xml; charset="utf-8"
+Server: Unspecified, UPnP/1.0, Unspecified
+Connection: close
+Content-Length: 771     
+Date: Sat, 30 Apr 2022 23:01:30 GMT
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+<specVersion>
+<major>1</major>
+<minor>0</minor>
+</specVersion>
+<device>
+<deviceType>urn:schemas-wifialliance-org:device:WFADevice:1</deviceType>
+<friendlyName>WPS Access Point</friendlyName>
+<manufacturer>Broadcom</manufacturer>
+<modelName>RAX45</modelName>
+<modelNumber>123456</modelNumber>
+<serialNumber>1234</serialNumber>
+<UDN>uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f</UDN>
+<serviceList>
+<service>
+<serviceType>urn:schemas-wifialliance-org:service:WFAWLANConfig:1</serviceType>
+<serviceId>urn:wifialliance-org:serviceId:WFAWLANConfig1</serviceId>
+<SCPDURL>wps_scpd.xml</SCPDURL>
+<controlURL>wps_control</controlURL>
+<eventSubURL>wps_event</eventSubURL>
+</service>
+</serviceList>
+</device>
+</root>
+'
+[     12976] UPnP device :
+ desc: http://192.168.1.1:49152/wps_device.xml
+ st: upnp:rootdevice
+[     14979] http request timed out - response was 'HTTP/1.1 200 OK
+Content-Type: text/xml; charset="utf-8"
+Server: Unspecified, UPnP/1.0, Unspecified
+Connection: close
+Content-Length: 771     
+Date: Sat, 30 Apr 2022 23:01:32 GMT
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+<specVersion>
+<major>1</major>
+<minor>0</minor>
+</specVersion>
+<device>
+<deviceType>urn:schemas-wifialliance-org:device:WFADevice:1</deviceType>
+<friendlyName>WPS Access Point</friendlyName>
+<manufacturer>Broadcom</manufacturer>
+<modelName>RAX45</modelName>
+<modelNumber>123456</modelNumber>
+<serialNumber>1234</serialNumber>
+<UDN>uuid:5de83310-a91a-ea5b-c9c5-0f3ce2fe3c4f</UDN>
+<serviceList>
+<service>
+<serviceType>urn:schemas-wifialliance-org:service:WFAWLANConfig:1</serviceType>
+<serviceId>urn:wifialliance-org:serviceId:WFAWLANConfig1</serviceId>
+<SCPDURL>wps_scpd.xml</SCPDURL>
+<controlURL>wps_control</controlURL>
+<eventSubURL>wps_event</eventSubURL>
+</service>
+</serviceList>
+</device>
+</root>
+'
+[     14979] UPnP device :
+ desc: http://192.168.1.1:8200/rootDesc.xml
+ st: upnp:rootdevice
+[     16074] Updating partystate due to console command
+[     16981] http request timed out - response was 'HTTP/1.1 200 OK
+Content-Type: text/xml; charset="utf-8"
+Connection: close
+Content-Length: 2207
+Server: 3.13.0-113-generic DLNADOC/1.50 UPnP/1.0 ReadyDLNA/1.3.0
+Date: Sat, 30 Apr 2022 23:01:34 GMT
+EXT:
+
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0"><specVersion><major>1</major><minor>0</minor></specVersion><device><deviceType>urn:schemas-upnp-org:device:MediaServer:1</deviceType><friendlyName>RAX45</friendlyName><manufacturer>NETGEAR</manufacturer><manufacturerURL>http://www.netgear.com/</manufacturerURL><modelDescription>ReadyDLNA</modelDescription><modelName>Windows Media Connect compatible (ReadyDLNA)</modelName><modelNumber>1</modelNumber><modelURL>http://www.netgear.com/</modelURL><serialNumber>6823057LA13B3</serialNumber><UDN>uuid:4d696e69-444c-164e-9d41-100c6b155ad3</UDN><dlna:X_DLNADOC xmlns:dlna="urn:schemas-dlna-org:device-1-0">DMS-1.50</dlna:X_DLNADOC><presentationURL>http://www.routerlogin.net</presentationURL><iconList><icon><mimetype>image/png</mimetype><width>48</width><height>48</height><depth>24</depth><url>/icons/sm.png</url></icon><icon><mimetype>image/png</mimetype><width>120</width><height>120</height><depth>24</depth><url>/icons/lrg.png</url></icon><icon><mimetype>image/jpeg</mimetype><width>48</width><height>48</height><depth>24</depth><url>/icons/sm.jpg</url></icon><icon><mimetype>image/jpeg</mimetype><width>120</width><height>120</height><depth>24</depth><url>/icons/lrg.jpg</url></icon></iconList><serviceList><service><serviceType>urn:schemas-upnp-org:service:ContentDirectory:1</serviceType><serviceId>urn:upnp-org:serviceId:ContentDirectory</serviceId><controlURL>/ctl/ContentDir</controlURL><eventSubURL>/evt/ContentDir</eventSubURL><SCPDURL>/ContentDir.xml</SCPDURL></service><service><serviceType>urn:schemas-upnp-org:service:ConnectionManager:1</serviceType><serviceId>urn:upnp-org:serviceId:ConnectionManager</serviceId><controlURL>/ctl/ConnectionMgr</controlURL><eventSubURL>/evt/ConnectionMgr</eventSubURL><SCPDURL>/ConnectionMgr.xml</SCPDURL></service><service><serviceType>urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1</serviceType><serviceId>urn:microsoft.com:serviceId:X_MS_MediaReceiverRegistrar</serviceId><controlURL>/ctl/X_MS_MediaReceiverRegistrar</controlURL><eventSubURL>/evt/X_MS_MediaReceiverRegistrar</eventSubURL><SCPDURL>/X_MS_MediaReceiverRegistrar.xml</SCPDURL></service></serviceList></device></root>'
+[     16981] Ran out of UPNP devices to query
+[     17096] Setting sv_maxclients to 18 in StartMatch()
+[     17099] Loading fastfile mp_rust_load
+[     17121] CL_Disconnect called for local client 0
+[     17121] Not uploading stats: no statWriteNeeded (cont 0)
+[     17121] Using profile source local (l:0 c:1)
+[     17121] Successfully read stats data
+[     17138] ----- R_Init -----
+[     17171] Video memory for device: 3072 MB.
+[     17171] Rounded video memory size: 2048 MB.
+[     17171] Available DirectX texture memory: 3981 MB.
+[     17171] DirectX reports 2048 MB of video memory and 3981 MB of available texture memory.
+[     17171] Using video memory size to cap used texture memory at 2032 MB.
+[     17171] Using previously reported texture memory size of 2032 MB.
+[     17171] Using reported available texture memory: 2032 MB.
+[     17171] Picmip is set manually.
+[     17171] Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+[     17282] Unloaded fastfile iw4x_localized_english
+[     17282] Unloaded fastfile iw4x_ui_mp
+[     17282] Unloaded fastfile ui_mp
+[     17282] Unloaded fastfile localized_ui_mp
+[     17284] Loading fastfile mp_rust
+[     17284] Loading fastfile iw4x_team_opforce_composite
+[     17284] Loading fastfile iw4x_team_socom_141_desert
+[     17284] Loading fastfile iw4x_localized_english
+[     20161] ------ Server Initialization ------
+[     20161] Server: mp_rust
+[     20592] Current language: english
+[     20592] Current search path:
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/mods/brax_pkg
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/userraw
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_02.iwd (10 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_01.iwd (102 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_00.iwd (578 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/iw4x
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc8_00.iwd (2070 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc7_00.iwd (829 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc6_00.iwd (711 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_01.iwd (196 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_00.iwd (1986 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_01.iwd (274 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_00.iwd (1186 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc3_00.iwd (1350 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_23.iwd (425 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_22.iwd (430 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_21.iwd (46 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_20.iwd (86 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_19.iwd (57 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_18.iwd (61 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_17.iwd (125 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_16.iwd (171 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_15.iwd (198 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_14.iwd (406 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_13.iwd (63 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_12.iwd (31 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_11.iwd (297 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_10.iwd (556 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_09.iwd (716 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_08.iwd (886 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_07.iwd (782 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_06.iwd (481 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_05.iwd (952 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_04.iwd (1005 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_03.iwd (1437 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_02.iwd (1391 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_01.iwd (1272 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_00.iwd (1428 files)
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main_shared
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/players
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw_shared
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw_shared
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw07.iwd (860 files)
+[     20592]     localized assets iwd file for english
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw06.iwd (1474 files)
+[     20592]     localized assets iwd file for english
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw05.iwd (1635 files)
+[     20592]     localized assets iwd file for english
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw04.iwd (2164 files)
+[     20592]     localized assets iwd file for english
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw03.iwd (2741 files)
+[     20592]     localized assets iwd file for english
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw02.iwd (2732 files)
+[     20592]     localized assets iwd file for english
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw01.iwd (2524 files)
+[     20592]     localized assets iwd file for english
+[     20592] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw00.iwd (3013 files)
+[     20592]     localized assets iwd file for english
+[     20592] 
+File Handles:
+[     20592] handle 1: logs/console_mp.log
+[     20592] ----------------------
+[     20592] 79474 files in iwd files
+[     20604] ------- Game Initialization -------
+[     20604] gamename: IW4
+[     20604] gamedate: Jan 14 2010
+[     20605] Waiting for database...
+[     20673] Not logging to disk.
+[     20713] Loading script scripts/brax_pkg_logic.gsc...
+[     20883] Script scripts/brax_pkg_logic.gsc loaded successfully.
+[     20883] Finding script handle scripts/brax_pkg_logic::init...
+[     20883] Script handle scripts/brax_pkg_logic::init couldn't be loaded. (file with no entry point?)
+[     20883] Loading script scripts/brax_pkg_logic.gsc...
+[     20883] Script scripts/brax_pkg_logic.gsc loaded successfully.
+[     20883] Finding script handle scripts/brax_pkg_logic::main...
+[     20883] Script handle scripts/brax_pkg_logic::main couldn't be loaded. (file with no entry point?)
+[     20900] -----------------------------------
+[     22334] -----------------------------------
+[     25344] Going from CS_FREE to CS_CONNECTED for  (num 7 guid "d9fe19a3b0a2475a")
+[     25344] Setting client 7 NATTYPE to 1
+[     25344] Setting client 7 XNADDR to 0d7a3f1a0000000000007120000000000000000000000000000000000000000000000000
+[     25344] Setting client 7 XUID to d9fe19a3b0a2475a
+[     25381] Received packet 0 of stats data from clientNum 7
+[     25419] Received packet 1 of stats data from clientNum 7
+[     25457] Received packet 2 of stats data from clientNum 7
+[     25495] Received packet 3 of stats data from clientNum 7
+[     25533] Received packet 4 of stats data from clientNum 7
+[     25569] Received packet 5 of stats data from clientNum 7
+[     25607] Received packet 6 of stats data from clientNum 7
+[     29012] 0% config string match, 0% config string coverage.
+[     29015] Setting state to CA_LOADING in CL_DownloadsComplete
+[     29015] Setting state to CA_LOADING in CL_InitCGame
+[     29074] Starting to back up world specular maps.
+[     29074] Finished backing up world specular maps.
+[     29086] About to sort world surfaces.
+[     29086] Finished sorting world surfaces.
+[     29086] Starting to back up world specular maps.
+[     29086] Finished backing up world specular maps.
+[     29100] Menu load error: ui_mp\dpad_hd.menu, line 216: ERROR: Unknown token '}'
+
+[     29100] Menu load error: ui_mp\dpad_hd.menu, line 217: unknown itemdef keyword itemDef
+[     29100] Menu load error: ui_mp\dpad_hd.menu, line 218: unknown itemdef keyword {
+[     29119] Error: Could not load menufile "ui_mp/scriptmenus/callvote.menu".
+[     29227] CL_InitCGame:  0.21 seconds
+[     29227] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[     29227] Hiding channel: gamenotify
+[     29227] Hiding channel: obituary
+[     29227] Adding channel: gamenotify
+[     29227] Adding channel: obituary
+[     29227] Hiding channel: boldgame
+[     29227] Adding channel: boldgame
+[     29227] Hiding channel: subtitle
+[     29227] Adding channel: subtitle
+[     29227] No channels added or hidden
+[     29390] Unloaded fastfile mp_rust_load
+[     29394] About to sort world surfaces.
+[     29394] Finished sorting world surfaces.
+[     29394] Starting to back up world specular maps.
+[     29394] Finished backing up world specular maps.
+[     29394] Playing smoke grenades at time 6850
+[     45143] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[     51117] Replacing perk "specialty_holdbreath" in perk slot 6 with perk "specialty_falldamage"
+[     51117] Replacing perk "specialty_bulletaccuracy" in perk slot 2 with perk "specialty_extendedmelee"
+[     51117] Replacing perk "specialty_extendedmelee" in perk slot 2 with perk "specialty_bulletaccuracy"
+[     51117] Replacing perk "specialty_lightweight" in perk slot 1 with perk "specialty_lightweight"
+[     51118] Replacing perk "specialty_fastreload" in perk slot 0 with perk "specialty_marathon"
+[     51118] Replacing perk "specialty_fastsprintrecovery" in perk slot 5 with perk "specialty_fastsprintrecovery"
+[     51118] Replacing perk "specialty_quickdraw" in perk slot 4 with perk "specialty_fastmantle"
+[     51118] Replacing perk "specialty_marathon" in perk slot 0 with perk "specialty_fastreload"
+[     59473] ]/+is
+[     59473] Unknown command "+is"
+[     82991] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[     89320] ]/map_restart
+[     89321] Loading fastfile mp_rust_load
+[     89338] About to sort world surfaces.
+[     89338] Finished sorting world surfaces.
+[     89338] Starting to back up world specular maps.
+[     89338] Finished backing up world specular maps.
+[     89651] ==== ShutdownGame (1) ====
+[     89652] ------ Server Initialization ------
+[     89652] Server: mp_rust
+[     90087] Current language: english
+[     90087] Current search path:
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/mods/brax_pkg
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/userraw
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_02.iwd (10 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_01.iwd (102 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_00.iwd (578 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/iw4x
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc8_00.iwd (2070 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc7_00.iwd (829 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc6_00.iwd (711 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_01.iwd (196 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_00.iwd (1986 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_01.iwd (274 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_00.iwd (1186 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc3_00.iwd (1350 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_23.iwd (425 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_22.iwd (430 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_21.iwd (46 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_20.iwd (86 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_19.iwd (57 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_18.iwd (61 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_17.iwd (125 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_16.iwd (171 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_15.iwd (198 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_14.iwd (406 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_13.iwd (63 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_12.iwd (31 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_11.iwd (297 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_10.iwd (556 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_09.iwd (716 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_08.iwd (886 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_07.iwd (782 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_06.iwd (481 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_05.iwd (952 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_04.iwd (1005 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_03.iwd (1437 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_02.iwd (1391 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_01.iwd (1272 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_00.iwd (1428 files)
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main_shared
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/players
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw_shared
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw_shared
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw07.iwd (860 files)
+[     90087]     localized assets iwd file for english
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw06.iwd (1474 files)
+[     90087]     localized assets iwd file for english
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw05.iwd (1635 files)
+[     90087]     localized assets iwd file for english
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw04.iwd (2164 files)
+[     90087]     localized assets iwd file for english
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw03.iwd (2741 files)
+[     90087]     localized assets iwd file for english
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw02.iwd (2732 files)
+[     90087]     localized assets iwd file for english
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw01.iwd (2524 files)
+[     90087]     localized assets iwd file for english
+[     90087] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw00.iwd (3013 files)
+[     90087]     localized assets iwd file for english
+[     90087] 
+File Handles:
+[     90087] handle 1: logs/console_mp.log
+[     90087] ----------------------
+[     90087] 119211 files in iwd files
+[     90100] ----- R_Init -----
+[     90134] Video memory for device: 3072 MB.
+[     90134] Rounded video memory size: 2048 MB.
+[     90134] Available DirectX texture memory: 3785 MB.
+[     90134] DirectX reports 2048 MB of video memory and 3785 MB of available texture memory.
+[     90134] Using video memory size to cap used texture memory at 2032 MB.
+[     90134] Using previously reported texture memory size of 2032 MB.
+[     90134] Using reported available texture memory: 2032 MB.
+[     90134] Picmip is set manually.
+[     90134] Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+[     90182] ------- Game Initialization -------
+[     90182] gamename: IW4
+[     90182] gamedate: Jan 14 2010
+[     90183] Waiting for database...
+[     90186] Not logging to disk.
+[     90220] Loading script scripts/brax_pkg_logic.gsc...
+[     90366] Script scripts/brax_pkg_logic.gsc loaded successfully.
+[     90366] Finding script handle scripts/brax_pkg_logic::init...
+[     90366] Script handle scripts/brax_pkg_logic::init couldn't be loaded. (file with no entry point?)
+[     90366] Loading script scripts/brax_pkg_logic.gsc...
+[     90366] Script scripts/brax_pkg_logic.gsc loaded successfully.
+[     90366] Finding script handle scripts/brax_pkg_logic::main...
+[     90366] Script handle scripts/brax_pkg_logic::main couldn't be loaded. (file with no entry point?)
+[     90378] -----------------------------------
+[     91823] -----------------------------------
+[     91848] Server changing map mp_rust, gametype sd
+[     91849] Beginning stats upload for controller 0
+[     91886] Received packet 0 of stats data from clientNum 7
+[     91886] Successfully wrote stats data
+[     91922] Received packet 1 of stats data from clientNum 7
+[     91960] Received packet 2 of stats data from clientNum 7
+[     91998] Received packet 3 of stats data from clientNum 7
+[     92034] Received packet 4 of stats data from clientNum 7
+[     92070] Received packet 5 of stats data from clientNum 7
+[     92106] Received packet 6 of stats data from clientNum 7
+[     92123] Ignoring client command 'nt map_restart' because of flood protection
+[     95510] 0% config string match, 0% config string coverage.
+[     95511] Setting state to CA_LOADING in CL_DownloadsComplete
+[     95511] Setting state to CA_LOADING in CL_InitCGame
+[     95563] Cmd_AddCommand: hidehud already defined
+[     95563] Cmd_AddCommand: showhud already defined
+[     95570] Starting to back up world specular maps.
+[     95570] Finished backing up world specular maps.
+[     95582] About to sort world surfaces.
+[     95582] Finished sorting world surfaces.
+[     95582] Starting to back up world specular maps.
+[     95582] Finished backing up world specular maps.
+[     95594] Menu load error: ui_mp\dpad_hd.menu, line 216: ERROR: Unknown token '}'
+
+[     95594] Menu load error: ui_mp\dpad_hd.menu, line 217: unknown itemdef keyword itemDef
+[     95594] Menu load error: ui_mp\dpad_hd.menu, line 218: unknown itemdef keyword {
+[     95721] CL_InitCGame:  0.21 seconds
+[     95721] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[     95721] Hiding channel: gamenotify
+[     95721] Hiding channel: obituary
+[     95721] Adding channel: gamenotify
+[     95721] Adding channel: obituary
+[     95721] Hiding channel: boldgame
+[     95721] Adding channel: boldgame
+[     95721] Hiding channel: subtitle
+[     95721] Adding channel: subtitle
+[     95721] No channels added or hidden
+[     95876] oldMessageNum is 1179, newSnap.messageNum is 1211 - not clearing it because they overlap
+[     95901] Unloaded fastfile mp_rust_load
+[     95907] About to sort world surfaces.
+[     95907] Finished sorting world surfaces.
+[     95907] Starting to back up world specular maps.
+[     95907] Finished backing up world specular maps.
+[     95907] Playing smoke grenades at time 70650
+[     98327] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    100576] Replacing perk "specialty_holdbreath" in perk slot 6 with perk "specialty_falldamage"
+[    100576] Replacing perk "specialty_bulletaccuracy" in perk slot 2 with perk "specialty_extendedmelee"
+[    100576] Replacing perk "specialty_extendedmelee" in perk slot 2 with perk "specialty_bulletaccuracy"
+[    100576] Replacing perk "specialty_lightweight" in perk slot 1 with perk "specialty_lightweight"
+[    100576] Replacing perk "specialty_fastreload" in perk slot 0 with perk "specialty_marathon"
+[    100576] Replacing perk "specialty_fastsprintrecovery" in perk slot 5 with perk "specialty_fastsprintrecovery"
+[    100577] Replacing perk "specialty_quickdraw" in perk slot 4 with perk "specialty_fastmantle"
+[    100577] Replacing perk "specialty_marathon" in perk slot 0 with perk "specialty_fastreload"
+[    102716] ]/+is
+[    102716] Unknown command "+is"
+[    113446] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    243104] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    246780] ]/+is
+[    246780] Unknown command "+is"
+[    248514] ]/+is
+[    248514] Unknown command "+is"
+[    266899] ==== ShutdownGame (0) ====
+[    266900] ------- Game Initialization -------
+[    266900] gamename: IW4
+[    266900] gamedate: Jan 14 2010
+[    266900] Waiting for database...
+[    266902] Not logging to disk.
+[    266905] -----------------------------------
+[    266997] Replacing perk "specialty_holdbreath" in perk slot 6 with perk "specialty_falldamage"
+[    266997] Replacing perk "specialty_bulletaccuracy" in perk slot 2 with perk "specialty_extendedmelee"
+[    266997] Replacing perk "specialty_extendedmelee" in perk slot 2 with perk "specialty_bulletaccuracy"
+[    266997] Replacing perk "specialty_lightweight" in perk slot 1 with perk "specialty_lightweight"
+[    266997] Replacing perk "specialty_fastreload" in perk slot 0 with perk "specialty_marathon"
+[    266998] Replacing perk "specialty_fastsprintrecovery" in perk slot 5 with perk "specialty_fastsprintrecovery"
+[    266998] Replacing perk "specialty_quickdraw" in perk slot 4 with perk "specialty_fastmantle"
+[    266998] Replacing perk "specialty_marathon" in perk slot 0 with perk "specialty_fastreload"
+[    267026] Playing smoke grenades at time 241900
+[    273062] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    276465] ]/+is
+[    276465] Unknown command "+is"
+[    278063] ]/+is
+[    278063] Unknown command "+is"
+[    285785] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    288676] ]/map_restart
+[    288677] Loading fastfile mp_rust_load
+[    288695] About to sort world surfaces.
+[    288695] Finished sorting world surfaces.
+[    288695] Starting to back up world specular maps.
+[    288695] Finished backing up world specular maps.
+[    289009] ==== ShutdownGame (1) ====
+[    289010] ------ Server Initialization ------
+[    289010] Server: mp_rust
+[    289439] Current language: english
+[    289439] Current search path:
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/mods/brax_pkg
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/userraw
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_02.iwd (10 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_01.iwd (102 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_00.iwd (578 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/iw4x
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc8_00.iwd (2070 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc7_00.iwd (829 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc6_00.iwd (711 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_01.iwd (196 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_00.iwd (1986 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_01.iwd (274 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_00.iwd (1186 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc3_00.iwd (1350 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_23.iwd (425 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_22.iwd (430 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_21.iwd (46 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_20.iwd (86 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_19.iwd (57 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_18.iwd (61 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_17.iwd (125 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_16.iwd (171 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_15.iwd (198 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_14.iwd (406 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_13.iwd (63 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_12.iwd (31 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_11.iwd (297 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_10.iwd (556 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_09.iwd (716 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_08.iwd (886 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_07.iwd (782 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_06.iwd (481 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_05.iwd (952 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_04.iwd (1005 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_03.iwd (1437 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_02.iwd (1391 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_01.iwd (1272 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_00.iwd (1428 files)
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main_shared
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/players
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw_shared
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw_shared
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw07.iwd (860 files)
+[    289439]     localized assets iwd file for english
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw06.iwd (1474 files)
+[    289439]     localized assets iwd file for english
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw05.iwd (1635 files)
+[    289439]     localized assets iwd file for english
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw04.iwd (2164 files)
+[    289439]     localized assets iwd file for english
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw03.iwd (2741 files)
+[    289439]     localized assets iwd file for english
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw02.iwd (2732 files)
+[    289439]     localized assets iwd file for english
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw01.iwd (2524 files)
+[    289439]     localized assets iwd file for english
+[    289439] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw00.iwd (3013 files)
+[    289439]     localized assets iwd file for english
+[    289439] 
+File Handles:
+[    289439] handle 1: logs/console_mp.log
+[    289439] ----------------------
+[    289439] 158948 files in iwd files
+[    289452] ----- R_Init -----
+[    289486] Video memory for device: 3072 MB.
+[    289486] Rounded video memory size: 2048 MB.
+[    289486] Available DirectX texture memory: 3785 MB.
+[    289486] DirectX reports 2048 MB of video memory and 3785 MB of available texture memory.
+[    289486] Using video memory size to cap used texture memory at 2032 MB.
+[    289486] Using previously reported texture memory size of 2032 MB.
+[    289486] Using reported available texture memory: 2032 MB.
+[    289486] Picmip is set manually.
+[    289486] Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+[    289535] ------- Game Initialization -------
+[    289535] gamename: IW4
+[    289535] gamedate: Jan 14 2010
+[    289536] Waiting for database...
+[    289539] Not logging to disk.
+[    289575] Loading script scripts/brax_pkg_logic.gsc...
+[    289720] Script scripts/brax_pkg_logic.gsc loaded successfully.
+[    289720] Finding script handle scripts/brax_pkg_logic::init...
+[    289720] Script handle scripts/brax_pkg_logic::init couldn't be loaded. (file with no entry point?)
+[    289720] Loading script scripts/brax_pkg_logic.gsc...
+[    289720] Script scripts/brax_pkg_logic.gsc loaded successfully.
+[    289720] Finding script handle scripts/brax_pkg_logic::main...
+[    289720] Script handle scripts/brax_pkg_logic::main couldn't be loaded. (file with no entry point?)
+[    289731] -----------------------------------
+[    291155] -----------------------------------
+[    291169] Server changing map mp_rust, gametype sd
+[    291170] Beginning stats upload for controller 0
+[    291206] Received packet 0 of stats data from clientNum 7
+[    291206] Successfully wrote stats data
+[    291243] Received packet 1 of stats data from clientNum 7
+[    291279] Received packet 2 of stats data from clientNum 7
+[    291316] Received packet 3 of stats data from clientNum 7
+[    291352] Received packet 4 of stats data from clientNum 7
+[    291388] Received packet 5 of stats data from clientNum 7
+[    291424] Received packet 6 of stats data from clientNum 7
+[    291441] Ignoring client command 'nt map_restart' because of flood protection
+[    294845] 0% config string match, 0% config string coverage.
+[    294849] Setting state to CA_LOADING in CL_DownloadsComplete
+[    294849] Setting state to CA_LOADING in CL_InitCGame
+[    294902] Cmd_AddCommand: hidehud already defined
+[    294902] Cmd_AddCommand: showhud already defined
+[    294909] Starting to back up world specular maps.
+[    294909] Finished backing up world specular maps.
+[    294920] About to sort world surfaces.
+[    294920] Finished sorting world surfaces.
+[    294920] Starting to back up world specular maps.
+[    294920] Finished backing up world specular maps.
+[    294935] Menu load error: ui_mp\dpad_hd.menu, line 216: ERROR: Unknown token '}'
+
+[    294935] Menu load error: ui_mp\dpad_hd.menu, line 217: unknown itemdef keyword itemDef
+[    294935] Menu load error: ui_mp\dpad_hd.menu, line 218: unknown itemdef keyword {
+[    295059] CL_InitCGame:  0.21 seconds
+[    295059] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    295059] Hiding channel: gamenotify
+[    295059] Hiding channel: obituary
+[    295059] Adding channel: gamenotify
+[    295059] Adding channel: obituary
+[    295059] Hiding channel: boldgame
+[    295059] Adding channel: boldgame
+[    295059] Hiding channel: subtitle
+[    295059] Adding channel: subtitle
+[    295059] No channels added or hidden
+[    295195] oldMessageNum is 5038, newSnap.messageNum is 5070 - not clearing it because they overlap
+[    295220] Unloaded fastfile mp_rust_load
+[    295226] About to sort world surfaces.
+[    295226] Finished sorting world surfaces.
+[    295226] Starting to back up world specular maps.
+[    295226] Finished backing up world specular maps.
+[    295226] Playing smoke grenades at time 267400
+[    298057] Replacing perk "specialty_holdbreath" in perk slot 6 with perk "specialty_falldamage"
+[    298057] Replacing perk "specialty_bulletaccuracy" in perk slot 2 with perk "specialty_extendedmelee"
+[    298057] Replacing perk "specialty_extendedmelee" in perk slot 2 with perk "specialty_bulletaccuracy"
+[    298057] Replacing perk "specialty_lightweight" in perk slot 1 with perk "specialty_lightweight"
+[    298057] Replacing perk "specialty_fastreload" in perk slot 0 with perk "specialty_marathon"
+[    298057] Replacing perk "specialty_fastsprintrecovery" in perk slot 5 with perk "specialty_fastsprintrecovery"
+[    298058] Replacing perk "specialty_quickdraw" in perk slot 4 with perk "specialty_fastmantle"
+[    298058] Replacing perk "specialty_marathon" in perk slot 0 with perk "specialty_fastreload"
+[    300112] ]/+is
+[    300112] Unknown command "+is"
+[    303956] instashootzs doesn't exist
+[    308853] instashootzs doesn't exist
+[    312697] instashootzs doesn't exist
+[    316712] Replacing perk "specialty_holdbreath" in perk slot 6 with perk "specialty_falldamage"
+[    316712] Replacing perk "specialty_bulletaccuracy" in perk slot 2 with perk "specialty_extendedmelee"
+[    316712] Replacing perk "specialty_extendedmelee" in perk slot 2 with perk "specialty_bulletaccuracy"
+[    316712] Replacing perk "specialty_lightweight" in perk slot 1 with perk "specialty_lightweight"
+[    316712] Replacing perk "specialty_fastreload" in perk slot 0 with perk "specialty_marathon"
+[    316712] Replacing perk "specialty_fastsprintrecovery" in perk slot 5 with perk "specialty_fastsprintrecovery"
+[    316712] Replacing perk "specialty_quickdraw" in perk slot 4 with perk "specialty_fastmantle"
+[    316712] Replacing perk "specialty_marathon" in perk slot 0 with perk "specialty_fastreload"
+[    316713] instashootzs doesn't exist
+[    318053] instashootzs doesn't exist
+[    320876] ]/+is
+[    320876] Unknown command "+is"
+[    323003] ]/+is
+[    323003] Unknown command "+is"
+[    325196] instashootzs doesn't exist
+[    361894] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    366180] ]/map_restart
+[    366181] Loading fastfile mp_rust_load
+[    366201] About to sort world surfaces.
+[    366201] Finished sorting world surfaces.
+[    366201] Starting to back up world specular maps.
+[    366201] Finished backing up world specular maps.
+[    366513] ==== ShutdownGame (1) ====
+[    366514] ------ Server Initialization ------
+[    366514] Server: mp_rust
+[    366945] Current language: english
+[    366945] Current search path:
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/mods/brax_pkg
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/userraw
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_02.iwd (10 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_01.iwd (102 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_00.iwd (578 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/iw4x
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc8_00.iwd (2070 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc7_00.iwd (829 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc6_00.iwd (711 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_01.iwd (196 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_00.iwd (1986 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_01.iwd (274 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_00.iwd (1186 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc3_00.iwd (1350 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_23.iwd (425 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_22.iwd (430 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_21.iwd (46 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_20.iwd (86 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_19.iwd (57 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_18.iwd (61 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_17.iwd (125 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_16.iwd (171 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_15.iwd (198 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_14.iwd (406 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_13.iwd (63 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_12.iwd (31 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_11.iwd (297 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_10.iwd (556 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_09.iwd (716 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_08.iwd (886 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_07.iwd (782 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_06.iwd (481 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_05.iwd (952 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_04.iwd (1005 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_03.iwd (1437 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_02.iwd (1391 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_01.iwd (1272 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_00.iwd (1428 files)
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main_shared
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/players
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw_shared
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw_shared
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw07.iwd (860 files)
+[    366945]     localized assets iwd file for english
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw06.iwd (1474 files)
+[    366945]     localized assets iwd file for english
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw05.iwd (1635 files)
+[    366945]     localized assets iwd file for english
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw04.iwd (2164 files)
+[    366945]     localized assets iwd file for english
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw03.iwd (2741 files)
+[    366945]     localized assets iwd file for english
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw02.iwd (2732 files)
+[    366945]     localized assets iwd file for english
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw01.iwd (2524 files)
+[    366945]     localized assets iwd file for english
+[    366945] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw00.iwd (3013 files)
+[    366945]     localized assets iwd file for english
+[    366945] 
+File Handles:
+[    366945] handle 1: logs/console_mp.log
+[    366945] ----------------------
+[    366945] 198685 files in iwd files
+[    366958] ----- R_Init -----
+[    366993] Video memory for device: 3072 MB.
+[    366993] Rounded video memory size: 2048 MB.
+[    366993] Available DirectX texture memory: 3780 MB.
+[    366993] DirectX reports 2048 MB of video memory and 3780 MB of available texture memory.
+[    366993] Using video memory size to cap used texture memory at 2032 MB.
+[    366993] Using previously reported texture memory size of 2032 MB.
+[    366993] Using reported available texture memory: 2032 MB.
+[    366993] Picmip is set manually.
+[    366993] Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+[    367042] ------- Game Initialization -------
+[    367042] gamename: IW4
+[    367042] gamedate: Jan 14 2010
+[    367043] Waiting for database...
+[    367046] Not logging to disk.
+[    367092] Loading script scripts/brax_pkg_logic.gsc...
+[    367243] Script scripts/brax_pkg_logic.gsc loaded successfully.
+[    367243] Finding script handle scripts/brax_pkg_logic::init...
+[    367243] Script handle scripts/brax_pkg_logic::init couldn't be loaded. (file with no entry point?)
+[    367243] Loading script scripts/brax_pkg_logic.gsc...
+[    367243] Script scripts/brax_pkg_logic.gsc loaded successfully.
+[    367243] Finding script handle scripts/brax_pkg_logic::main...
+[    367243] Script handle scripts/brax_pkg_logic::main couldn't be loaded. (file with no entry point?)
+[    367255] -----------------------------------
+[    368676] -----------------------------------
+[    368708] Server changing map mp_rust, gametype sd
+[    368716] Beginning stats upload for controller 0
+[    368753] Received packet 0 of stats data from clientNum 7
+[    368753] Successfully wrote stats data
+[    368790] Received packet 1 of stats data from clientNum 7
+[    368827] Received packet 2 of stats data from clientNum 7
+[    368865] Received packet 3 of stats data from clientNum 7
+[    368903] Received packet 4 of stats data from clientNum 7
+[    368941] Received packet 5 of stats data from clientNum 7
+[    368979] Received packet 6 of stats data from clientNum 7
+[    368996] Ignoring client command 'nt map_restart' because of flood protection
+[    372418] 0% config string match, 0% config string coverage.
+[    372419] Setting state to CA_LOADING in CL_DownloadsComplete
+[    372419] Setting state to CA_LOADING in CL_InitCGame
+[    372472] Cmd_AddCommand: hidehud already defined
+[    372472] Cmd_AddCommand: showhud already defined
+[    372479] Starting to back up world specular maps.
+[    372479] Finished backing up world specular maps.
+[    372492] About to sort world surfaces.
+[    372492] Finished sorting world surfaces.
+[    372492] Starting to back up world specular maps.
+[    372492] Finished backing up world specular maps.
+[    372504] Menu load error: ui_mp\dpad_hd.menu, line 216: ERROR: Unknown token '}'
+
+[    372504] Menu load error: ui_mp\dpad_hd.menu, line 217: unknown itemdef keyword itemDef
+[    372504] Menu load error: ui_mp\dpad_hd.menu, line 218: unknown itemdef keyword {
+[    372637] CL_InitCGame:  0.22 seconds
+[    372637] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    372638] Hiding channel: gamenotify
+[    372638] Hiding channel: obituary
+[    372638] Adding channel: gamenotify
+[    372638] Adding channel: obituary
+[    372638] Hiding channel: boldgame
+[    372638] Adding channel: boldgame
+[    372638] Hiding channel: subtitle
+[    372638] Adding channel: subtitle
+[    372638] No channels added or hidden
+[    372776] oldMessageNum is 6464, newSnap.messageNum is 6496 - not clearing it because they overlap
+[    372801] Unloaded fastfile mp_rust_load
+[    372806] About to sort world surfaces.
+[    372806] Finished sorting world surfaces.
+[    372806] Starting to back up world specular maps.
+[    372806] Finished backing up world specular maps.
+[    372806] Playing smoke grenades at time 342300
+[    378038] Replacing perk "specialty_holdbreath" in perk slot 6 with perk "specialty_falldamage"
+[    378038] Replacing perk "specialty_bulletaccuracy" in perk slot 2 with perk "specialty_extendedmelee"
+[    378038] Replacing perk "specialty_extendedmelee" in perk slot 2 with perk "specialty_bulletaccuracy"
+[    378038] Replacing perk "specialty_lightweight" in perk slot 1 with perk "specialty_lightweight"
+[    378038] Replacing perk "specialty_fastreload" in perk slot 0 with perk "specialty_marathon"
+[    378039] Replacing perk "specialty_fastsprintrecovery" in perk slot 5 with perk "specialty_fastsprintrecovery"
+[    378039] Replacing perk "specialty_quickdraw" in perk slot 4 with perk "specialty_fastmantle"
+[    378039] Replacing perk "specialty_marathon" in perk slot 0 with perk "specialty_fastreload"
+[    380809] ]/+is
+[    380809] Unknown command "+is"
+[    382441] instashootzs doesn't exist
+[    385146] instashootzs doesn't exist
+[    469987] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    476330] ]/exec instashoots
+[    476330] execing instashoots.cfg from disk
+[    509911] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    512122] ]/map_restart
+[    512123] Loading fastfile mp_rust_load
+[    512141] About to sort world surfaces.
+[    512141] Finished sorting world surfaces.
+[    512141] Starting to back up world specular maps.
+[    512141] Finished backing up world specular maps.
+[    512456] ==== ShutdownGame (1) ====
+[    512457] ------ Server Initialization ------
+[    512457] Server: mp_rust
+[    512890] Current language: english
+[    512890] Current search path:
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/mods/brax_pkg
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/userraw
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_02.iwd (10 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_01.iwd (102 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\iw4x\iw4x_00.iwd (578 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/iw4x
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc8_00.iwd (2070 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc7_00.iwd (829 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc6_00.iwd (711 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_01.iwd (196 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc5_00.iwd (1986 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_01.iwd (274 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc4_00.iwd (1186 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_dlc3_00.iwd (1350 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_23.iwd (425 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_22.iwd (430 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_21.iwd (46 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_20.iwd (86 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_19.iwd (57 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_18.iwd (61 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_17.iwd (125 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_16.iwd (171 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_15.iwd (198 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_14.iwd (406 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_13.iwd (63 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_12.iwd (31 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_11.iwd (297 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_10.iwd (556 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_09.iwd (716 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_08.iwd (886 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_07.iwd (782 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_06.iwd (481 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_05.iwd (952 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_04.iwd (1005 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_03.iwd (1437 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_02.iwd (1391 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_01.iwd (1272 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\iw_00.iwd (1428 files)
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/main_shared
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/players
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/raw_shared
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy/devraw_shared
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw07.iwd (860 files)
+[    512890]     localized assets iwd file for english
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw06.iwd (1474 files)
+[    512890]     localized assets iwd file for english
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw05.iwd (1635 files)
+[    512890]     localized assets iwd file for english
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw04.iwd (2164 files)
+[    512890]     localized assets iwd file for english
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw03.iwd (2741 files)
+[    512890]     localized assets iwd file for english
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw02.iwd (2732 files)
+[    512890]     localized assets iwd file for english
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw01.iwd (2524 files)
+[    512890]     localized assets iwd file for english
+[    512890] C:\Users\Imagi\Desktop\Games\iw4x_full_game - Copy\main\localized_english_iw00.iwd (3013 files)
+[    512890]     localized assets iwd file for english
+[    512890] 
+File Handles:
+[    512890] handle 1: logs/console_mp.log
+[    512890] ----------------------
+[    512890] 238422 files in iwd files
+[    512902] ----- R_Init -----
+[    512938] Video memory for device: 3072 MB.
+[    512938] Rounded video memory size: 2048 MB.
+[    512938] Available DirectX texture memory: 3770 MB.
+[    512938] DirectX reports 2048 MB of video memory and 3770 MB of available texture memory.
+[    512938] Using video memory size to cap used texture memory at 2032 MB.
+[    512938] Using previously reported texture memory size of 2032 MB.
+[    512938] Using reported available texture memory: 2032 MB.
+[    512938] Picmip is set manually.
+[    512938] Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+[    512986] ------- Game Initialization -------
+[    512986] gamename: IW4
+[    512986] gamedate: Jan 14 2010
+[    512987] Waiting for database...
+[    512990] Not logging to disk.
+[    513025] Loading script scripts/brax_pkg_logic.gsc...
+[    513169] Script scripts/brax_pkg_logic.gsc loaded successfully.
+[    513169] Finding script handle scripts/brax_pkg_logic::init...
+[    513169] Script handle scripts/brax_pkg_logic::init couldn't be loaded. (file with no entry point?)
+[    513169] Loading script scripts/brax_pkg_logic.gsc...
+[    513169] Script scripts/brax_pkg_logic.gsc loaded successfully.
+[    513169] Finding script handle scripts/brax_pkg_logic::main...
+[    513169] Script handle scripts/brax_pkg_logic::main couldn't be loaded. (file with no entry point?)
+[    513182] -----------------------------------
+[    514601] -----------------------------------
+[    514623] Server changing map mp_rust, gametype sd
+[    514624] Beginning stats upload for controller 0
+[    514659] Received packet 0 of stats data from clientNum 7
+[    514659] Successfully wrote stats data
+[    514695] Received packet 1 of stats data from clientNum 7
+[    514731] Received packet 2 of stats data from clientNum 7
+[    514767] Received packet 3 of stats data from clientNum 7
+[    514803] Received packet 4 of stats data from clientNum 7
+[    514839] Received packet 5 of stats data from clientNum 7
+[    514876] Received packet 6 of stats data from clientNum 7
+[    514893] Ignoring client command 'nt map_restart' because of flood protection
+[    518298] 0% config string match, 0% config string coverage.
+[    518302] Setting state to CA_LOADING in CL_DownloadsComplete
+[    518302] Setting state to CA_LOADING in CL_InitCGame
+[    518356] Cmd_AddCommand: hidehud already defined
+[    518356] Cmd_AddCommand: showhud already defined
+[    518363] Starting to back up world specular maps.
+[    518363] Finished backing up world specular maps.
+[    518376] About to sort world surfaces.
+[    518376] Finished sorting world surfaces.
+[    518376] Starting to back up world specular maps.
+[    518376] Finished backing up world specular maps.
+[    518393] Menu load error: ui_mp\dpad_hd.menu, line 216: ERROR: Unknown token '}'
+
+[    518393] Menu load error: ui_mp\dpad_hd.menu, line 217: unknown itemdef keyword itemDef
+[    518393] Menu load error: ui_mp\dpad_hd.menu, line 218: unknown itemdef keyword {
+[    518515] CL_InitCGame:  0.21 seconds
+[    518515] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    518515] Hiding channel: gamenotify
+[    518515] Hiding channel: obituary
+[    518515] Adding channel: gamenotify
+[    518515] Adding channel: obituary
+[    518515] Hiding channel: boldgame
+[    518515] Adding channel: boldgame
+[    518515] Hiding channel: subtitle
+[    518515] Adding channel: subtitle
+[    518515] No channels added or hidden
+[    518669] oldMessageNum is 9256, newSnap.messageNum is 9288 - not clearing it because they overlap
+[    518694] Unloaded fastfile mp_rust_load
+[    518699] About to sort world surfaces.
+[    518699] Finished sorting world surfaces.
+[    518699] Starting to back up world specular maps.
+[    518699] Finished backing up world specular maps.
+[    518699] Playing smoke grenades at time 485500
+[    521666] Replacing perk "specialty_holdbreath" in perk slot 6 with perk "specialty_falldamage"
+[    521666] Replacing perk "specialty_bulletaccuracy" in perk slot 2 with perk "specialty_extendedmelee"
+[    521666] Replacing perk "specialty_extendedmelee" in perk slot 2 with perk "specialty_bulletaccuracy"
+[    521666] Replacing perk "specialty_lightweight" in perk slot 1 with perk "specialty_lightweight"
+[    521666] Replacing perk "specialty_fastreload" in perk slot 0 with perk "specialty_marathon"
+[    521666] Replacing perk "specialty_fastsprintrecovery" in perk slot 5 with perk "specialty_fastsprintrecovery"
+[    521667] Replacing perk "specialty_quickdraw" in perk slot 4 with perk "specialty_fastmantle"
+[    521667] Replacing perk "specialty_marathon" in perk slot 0 with perk "specialty_fastreload"
+[    524605] ]/+is
+[    524605] Unknown command "+is"
+[    546354] Replacing perk "specialty_holdbreath" in perk slot 6 with perk "specialty_falldamage"
+[    546354] Replacing perk "specialty_bulletaccuracy" in perk slot 2 with perk "specialty_extendedmelee"
+[    546354] Replacing perk "specialty_extendedmelee" in perk slot 2 with perk "specialty_bulletaccuracy"
+[    546354] Replacing perk "specialty_lightweight" in perk slot 1 with perk "specialty_lightweight"
+[    546354] Replacing perk "specialty_fastreload" in perk slot 0 with perk "specialty_marathon"
+[    546354] Replacing perk "specialty_fastsprintrecovery" in perk slot 5 with perk "specialty_fastsprintrecovery"
+[    546354] Replacing perk "specialty_quickdraw" in perk slot 4 with perk "specialty_fastmantle"
+[    546354] Replacing perk "specialty_marathon" in perk slot 0 with perk "specialty_fastreload"
+[    580223] Com_TouchMemory: 0 msec. Using sum: -2131607157
+[    580318] quitting...
+[    580319] ----- CL_Shutdown -----
+[    580319] CL_Disconnect called for local client 0
+[    580321] Saving lastPlayedTime of 1651360421.
+[    580321] Setting MP Completion to 200 percent for controller #0.
+[    580325] Beginning stats upload for controller 0
+[    580328] Using profile source local (l:0 c:1)
+[    580328] Successfully read stats data
+[    580328] Could not find menu 'playerdataread'
+[    580328] -----------------------
+[    580328] ----- CL_ShutdownOnceForAllClients -----
+[    580400] -----------------------
+[    580400] ----- Server Shutdown -----
+[    580400] ==== ShutdownGame (1) ====
+[    580402] 7:[OG3]antiga EXE_DISCONNECTED
+[    580415] ---------------------------
+[    580486] Unloaded fastfile iw4x_localized_english
+[    580486] Unloaded fastfile iw4x_team_socom_141_desert
+[    580486] Unloaded fastfile iw4x_team_opforce_composite
+[    580486] Unloaded fastfile mp_rust
+[    580489] Unloaded fastfile iw4x_patch_mp
+[    580489] Unloaded fastfile localized_common_mp
+[    580490] Unloaded fastfile common_mp
+[    580494] Unloaded fastfile gpad_common_mp
+[    580494] Unloaded fastfile iw4x_code_post_gfx_mp
+[    580494] Unloaded fastfile patch_mp
+[    580494] Unloaded fastfile localized_code_post_gfx_mp
+[    580494] Unloaded fastfile code_post_gfx_mp
+[    580494] Unloaded fastfile patch_code_pre_gfx_mp
+[    580494] Unloaded fastfile localized_code_pre_gfx_mp
+[    580494] Unloaded fastfile code_pre_gfx_mp
