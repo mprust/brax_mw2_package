@@ -10,6 +10,34 @@ _init()
     level.pers["almost_hit_sens"] = 2; //Almost hit sensitivity.
     setDvarIfUninitialized("class_change", 1); //Enables/Disabled Mid-Game CC
     setDvarIfUninitialized("first_blood", 0); //Enables/Disabled First Blood
+    setDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
+    setDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
+    setDvar("safeArea_adjusted_horizontal", 0.85);
+    setDvar("safeArea_adjusted_vertical", 0.85);
+    setDvar("safeArea_horizontal", 0.85);
+    setDvar("safeArea_vertical", 0.85);
+    setDvar("scr_sd_multibomb", "1");
+    setDvar("ui_streamFriendly", true);
+    setDvar("jump_slowdownEnable", 1); //Removes Jump Fatigue
+    setDvar("bg_surfacePenetration", 9999); //Wallbang Everything
+    setDvar("bg_bulletRange", 99999); //No Bullet Trail Limit
+
+    setDvar("testClients_doMove", 0); //Bots do NOT Move
+
+    setDvar("sv_allowAimAssist", 1); //Aim Assist Enable/Disable
+    setDvar("bg_bounces", 1); //Allow Bouncing
+    setDvar("bg_elevators", 1); //Allow Elevators
+    setDvar("bg_rocketJump", 1); //Allow Rocket Jumps
+    setDvar("bg_bouncesAllAngles", 1); //Allow Multi Bouncing
+    setDvar( "g_playerCollision", 0); //Removes Collision
+    setDvar( "g_playerEjection", 0); //Removes Ejection
+    
+    setDvar("cg_newcolors", 0);
+    setDvar("intro", 0);
+    setDvar("cl_autorecord", 0);
+    setDvar("snd_enable3D" , 1);
+    setDvar("bg_fallDamageMaxHeight", 300);
+    setDvar("bg_fallDamageMinHeight", 128);
     level thread on_player_connect();
 }
 
@@ -52,38 +80,7 @@ on_player_connect()
                     player.pers["bot_angles"] = 0;
                 
                 player thread tele_bots_cmd();
-
                 player thread begin_auto_plant();
-
-                setDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
-                setDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
-                setDvar("safeArea_adjusted_horizontal", 0.85);
-                setDvar("safeArea_adjusted_vertical", 0.85);
-                setDvar("safeArea_horizontal", 0.85);
-                setDvar("safeArea_vertical", 0.85);
-                setDvar("scr_sd_multibomb", "1");
-                setDvar("ui_streamFriendly", true);
-                setDvar("jump_slowdownEnable", 1); //Removes Jump Fatigue
-                setDvar("bg_surfacePenetration", 9999); //Wallbang Everything
-                setDvar("bg_bulletRange", 99999); //No Bullet Trail Limit
-
-                setDvar("testClients_doMove", 0); //Bots do NOT Move
-
-                setDvar("sv_allowAimAssist", 1); //Aim Assist Enable/Disable
-                setDvar("bg_bounces", 1); //Allow Bouncing
-                setDvar("bg_elevators", 1); //Allow Elevators
-                setDvar("bg_rocketJump", 1); //Allow Rocket Jumps
-                setDvar("bg_bouncesAllAngles", 1); //Allow Multi Bouncing
-                setDvar( "g_playerCollision", 0); //Removes Collision
-                setDvar( "g_playerEjection", 0); //Removes Ejection
-                
-                setDvar("cg_newcolors", 0);
-                setDvar("intro", 0);
-                setDvar("cl_autorecord", 0);
-                setDvar("snd_enable3D" , 1);
-                setDvar("bg_fallDamageMaxHeight", 300);
-                setDvar("bg_fallDamageMinHeight", 128);
-
             }
         }
         player thread on_player_spawn();
@@ -555,7 +552,7 @@ almost_hit_message()
 		self waittill("weapon_fired");
 		foreach(player in level.players)
 		{
-			if((player == self) || (level.teamBased && self.pers["team"] == player.pers["team"]) || !isAlive(player) || !player.pers["almost_hits"] || !brax_weapons(self getcurrentweapon()))
+			if((player == self) || (level.teamBased && self.pers["team"] == player.pers["team"]) || !isAlive(player) || !self.pers["almost_hits"] || !brax_weapons(self getcurrentweapon()))
 				continue;
 
             if(isDefined( player ) && is_within_radius(self, player))
