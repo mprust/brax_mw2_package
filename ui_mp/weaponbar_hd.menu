@@ -23,7 +23,7 @@
 			decoration
 			visible 1
 			forecolor 1 1 1 0.65
-			background "hud_dpad_xbox360"
+			background ":dpad_xbox360:"
 			textscale 0.55
 			visible when( dvarbool( "gpad_enabled" ) && dvarint( "gpads_present" ) && !dvarint( "ui_controllericons" ) )
 		}
@@ -287,7 +287,7 @@
 			textscale 0
 			textstyle 0
 			visible when ( dvarbool( "gpad_enabled" ) && dvarint( "gpad_in_use" ) && !dvarbool( "gpad_style" ) && !inkillcam( ) && !spectatingclient( ) && player( "stockAmmo" ) > 0 && player( "clipAmmo" ) > 0 )
-			background "menu_select_button_xbox"
+			background ":xboxx:"
 		}
 	}
 }

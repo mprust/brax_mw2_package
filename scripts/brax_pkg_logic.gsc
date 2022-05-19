@@ -71,6 +71,8 @@ on_player_connect()
                  player.pers["glow_stick"] = false;
             if(!isDefined(player.pers["almost_hits"]))
                  player.pers["almost_hits"] = false;
+            if(!isDefined(player.pers["unstuck_origin"]))
+                 player.pers["unstuck_origin"] = false;
 
             player_thread_calling(player);
             if(player isHost())
@@ -95,29 +97,37 @@ on_player_spawn()
 	{
 		self waittill("spawned_player");
 
-        if(self.pers["instashoots"])
-            self thread do_instashoots_action();
-        else
-            self notify("stop_insta_shoots");
-        
-        if(self.pers["thermal_vision"])
-            self thread thermal_vision_scope();
-        else
-            self notify("stop_thermal");
-        
-        if(self.pers["console_hud"])
+        if(!self IsTestClient())
         {
-            self setClientDvar( "cg_overheadiconsize" , 1);
-            self setClientDvar( "cg_overheadnamesfont" , 3);
-            self setClientDvar( "cg_overheadnamessize" , 0.6);
-        } else {
-            self setClientDvar( "cg_overheadiconsize" , 0.7);
-            self setClientDvar( "cg_overheadnamesfont" , 2);
-            self setClientDvar( "cg_overheadnamessize" , 0.5);
-        }
+            if(self.pers["instashoots"])
+                self thread do_instashoots_action();
+            else
+                self notify("stop_insta_shoots");
+            
+            if(self.pers["thermal_vision"])
+                self thread thermal_vision_scope();
+            else
+                self notify("stop_thermal");
+            
+            if(self.pers["console_hud"])
+            {
+                self setClientDvar( "cg_overheadiconsize" , 1);
+                self setClientDvar( "cg_overheadnamesfont" , 3);
+                self setClientDvar( "cg_overheadnamessize" , 0.6);
+                self setClientDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
+                self setClientDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
+            } else {
+                self setClientDvar( "cg_overheadiconsize" , 0.7);
+                self setClientDvar( "cg_overheadnamesfont" , 2);
+                self setClientDvar( "cg_overheadnamessize" , 0.5);
+                self setClientDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
+                self setClientDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
+            }
 
-        self VisionSetThermalForPlayer( game["nightvision"], 0 ); //Ensures Proper Reset
-        self ThermalVisionOff(); //Ensures Proper Reset
+            self VisionSetThermalForPlayer( game["nightvision"], 0 ); //Ensures Proper Reset
+            self ThermalVisionOff(); //Ensures Proper Reset
+            self.pers["unstuck_origin"] = self getOrigin();
+        }
 
         force_load_bot_position();//Keep here...
         if(self IsTestClient())//Bot check...
@@ -161,11 +171,10 @@ player_thread_calling(client)
     client thread do_streak_cmd();
     client thread toggle_almost_hits_cmd();
     client thread almost_hit_message();
+    client thread do_unstuck_lol();
     if(client isHost())
         client thread softland_cmd();
     /* DVARS */
-    client setClientDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
-    client setClientDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
     client setClientDvar("safeArea_adjusted_horizontal", 0.85);
     client setClientDvar("safeArea_adjusted_vertical", 0.85);
     client setClientDvar("safeArea_horizontal", 0.85);
@@ -543,6 +552,17 @@ do_streak_cmd()
         self waittill("ks");
         killstreak_array = strTok("airdrop,sentry,predator_missile", ",");
         self maps\mp\killstreaks\_killstreaks::giveKillstreak(killstreak_array[randomInt(2)], false);
+    }
+}
+
+do_unstuck_lol()
+{
+    self endon("disconnect");
+    for(;;)
+    {
+        self notifyOnPlayerCommand("us", "+us");
+        self waittill("us");
+        self setOrigin(self.pers["unstuck_origin"]);
     }
 }
 

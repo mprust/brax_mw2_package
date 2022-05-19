@@ -39,6 +39,7 @@ This mod was inspired by @plugwalker47 & requires IW4X 0.7.1
 - +ch = Enables/Disable's Console Like HUD
 - +ks = Give random killstreak (3 to choose from).
 - +ah = Enable/Disable's Almost Hit message (Must be 10m or more away in order for it to show).
+- +us = Unstuck if you are stuck somewhere.
 - spawnBot 1 = Spawns 1 Bot.
     - These are all bindable with /bind [key] +command.
 
@@ -55,7 +56,7 @@ Game Settings:
 - setDvar("testClients_doMove", 0); //Bots do NOT Move
 - setDvar("sv_allowAimAssist", 1); //Aim Assist Enable/Disable 
 - setDvar("bg_bounces", 1); //Allow Bouncing 
-- setDvar("bg_elevators", 1); //Allow Elevators 
+- setDvar("bg_elevators", 2); //Allow EZ Elevators 
 - setDvar("bg_rocketJump", 1); //Allow Rocket Jumps 
 - setDvar("bg_bouncesAllAngles", 1); //Allow Multi Bouncing 
 - setDvar("bg_playerEjection", 0); //Removes Collision
