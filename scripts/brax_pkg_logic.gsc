@@ -25,12 +25,12 @@ _init()
     setDvar("testClients_doMove", 0); //Bots do NOT Move
 
     setDvar("sv_allowAimAssist", 1); //Aim Assist Enable/Disable
-    setDvar("bg_bounces", 1); //Allow Bouncing
-    setDvar("bg_elevators", 1); //Allow Elevators
+    setDvar("bg_bounces", 2); //Allow Double Bouncing
+    setDvar("bg_elevators", 2); //Allow EZ Elevators
     setDvar("bg_rocketJump", 1); //Allow Rocket Jumps
     setDvar("bg_bouncesAllAngles", 1); //Allow Multi Bouncing
-    setDvar( "g_playerCollision", 0); //Removes Collision
-    setDvar( "g_playerEjection", 0); //Removes Ejection
+    setDvar("bg_playerEjection", 0); //Removes Collision
+    setDvar("bg_playerCollision", 0); //Removes Ejection
     
     setDvar("cg_newcolors", 0);
     setDvar("intro", 0);
@@ -38,6 +38,7 @@ _init()
     setDvar("snd_enable3D" , 1);
     setDvar("bg_fallDamageMaxHeight", 300);
     setDvar("bg_fallDamageMinHeight", 128);
+    setDvar("scr_sd_timelimit", 2.5); //Stops unlimited time..
     level thread on_player_connect();
 }
 
@@ -138,6 +139,8 @@ on_player_spawn()
                 thread killcam_softland();
             else
                 level notify("stop_softland");
+            setDvar("snd_enable3D" , 1);
+            setDvar("scr_sd_timelimit", 2.5);
         }
     }
 }
@@ -555,7 +558,7 @@ almost_hit_message()
 			if((player == self) || (level.teamBased && self.pers["team"] == player.pers["team"]) || !isAlive(player) || !self.pers["almost_hits"] || !brax_weapons(self getcurrentweapon()))
 				continue;
 
-            if(isDefined( player ) && is_within_radius(self, player))
+            if(isDefined(player) && is_within_radius(self, player))
             {
                 the_updated_distance = int(distance(player.origin, self.origin)*0.0254);
                 self iPrintLnBold("You almost hit from: [^1" + the_updated_distance + "m's^7]!");
@@ -571,7 +574,7 @@ begin_auto_plant()
 	level waittill("spawned_player");
 	for(;;)
     {	
-		if (maps\mp\gametypes\_gamelogic::getTimeRemaining() < 5010)
+		if(maps\mp\gametypes\_gamelogic::getTimeRemaining() < 5010)
         {
 			thread force_bomb_plant();
 			return;
@@ -686,7 +689,7 @@ brax_weapons( weapons )
     
 	brax_classes = getweaponclass( weapons );
 
-	if ( brax_classes == "weapon_sniper" || isSubStr(weapons, "fal_" ) || weapons == "throwingknife_mp" )
+	if ( brax_classes == "weapon_sniper" || isSubStr(weapons, "fal_" ) || weapons == "throwingknife_mp" || weapons == "MOD_IMPACT" )
 		return true;
     else
         return false;

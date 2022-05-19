@@ -43,12 +43,12 @@ This mod was inspired by @plugwalker47 & requires IW4X 0.7.1
     - These are all bindable with /bind [key] +command.
 
 # DVAR Modifiers
-/* Custom DVARS */
+Custom DVARS:
 - level.pers["meters"] = 10; //Meters required to kill.
 - setDvarIfUninitialized("first_blood", 0); //Enables/Disables First Blood
 - setDvarIfUninitialized("class_change", 1); //Enables/Disables Always Class Change
 
-/* Normal Client Dvars */
+Game Settings:
 - setDvar("jump_slowdownEnable", 1); //Removes Jump Fatigue 
 - setDvar("bg_surfacePenetration", 9999); //Wallbang Everything 
 - setDvar("bg_bulletRange", 99999); //No Bullet Trail Limit
@@ -58,10 +58,10 @@ This mod was inspired by @plugwalker47 & requires IW4X 0.7.1
 - setDvar("bg_elevators", 1); //Allow Elevators 
 - setDvar("bg_rocketJump", 1); //Allow Rocket Jumps 
 - setDvar("bg_bouncesAllAngles", 1); //Allow Multi Bouncing 
-- setDvar( "g_playerCollision", 0); //Removes Collision 
-- setDvar( "g_playerEjection", 0); //Removes Ejection
+- setDvar("bg_playerEjection", 0); //Removes Collision
+- setDvar("bg_playerCollision", 0); //Removes Ejection
 
-/* Leave These Here */
+Leave These Here:
 - setDvar("cg_newcolors", 0); 
 - setDvar("intro", 0); 
 - setDvar("cl_autorecord", 0); 
