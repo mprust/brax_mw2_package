@@ -10,8 +10,8 @@ _init()
     level.pers["almost_hit_sens"] = 2; //Almost hit sensitivity.
     setDvarIfUninitialized("class_change", 1); //Enables/Disabled Mid-Game CC
     setDvarIfUninitialized("first_blood", 0); //Enables/Disabled First Blood
-    setDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
-    setDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
+    level setClientDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
+    level setClientDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
     setDvar("safeArea_adjusted_horizontal", 0.85);
     setDvar("safeArea_adjusted_vertical", 0.85);
     setDvar("safeArea_horizontal", 0.85);
@@ -73,6 +73,10 @@ on_player_connect()
                  player.pers["almost_hits"] = false;
             if(!isDefined(player.pers["unstuck_origin"]))
                  player.pers["unstuck_origin"] = false;
+            if(!isDefined(player.pers["ez_mala"]))
+                 player.pers["ez_mala"] = false;
+            if(!isDefined(player.pers["ez_prone"]))
+                 player.pers["ez_prone"] = false;
 
             player_thread_calling(player);
             if(player isHost())
@@ -81,6 +85,11 @@ on_player_connect()
                     player.pers["bot_origin"] = 0;
                 if(!isDefined(player.pers["bot_angles"]))
                     player.pers["bot_angles"] = 0;
+
+                player.bot_speed = 1.5;
+                player.pers["botcount"] = 0;
+                player.pers["botorigin"] = undefined;
+                player.bolt_bolting = false;
                 
                 player thread tele_bots_cmd();
                 player thread begin_auto_plant();
@@ -108,6 +117,16 @@ on_player_spawn()
                 self thread thermal_vision_scope();
             else
                 self notify("stop_thermal");
+        
+            if(self.pers["ez_mala"])
+                self thread test_new_ez_mala();
+            else
+                self notify("stop_ez_mala");
+
+            if(self.pers["ez_prone"])
+                self thread ez_prone_cmd();
+            else
+                self notify("stop_prone");
             
             if(self.pers["console_hud"])
             {
@@ -172,6 +191,8 @@ player_thread_calling(client)
     client thread toggle_almost_hits_cmd();
     client thread almost_hit_message();
     client thread do_unstuck_lol();
+    client thread ez_mala_cmd();
+    client thread ez_prone_cmd();
     if(client isHost())
         client thread softland_cmd();
     /* DVARS */
@@ -400,7 +421,6 @@ instashoot_cmd()
 do_instashoots_action()
 {
     self endon("disconnect");
-    self endon("death");
     self endon("stop_insta_shoots");
     for(;;)
     {
@@ -424,7 +444,7 @@ give_rhand_cmd()
         self waittill("rh");
         if(self.pers["glow_stick"])
         {
-            self iPrintLnBold("^1Warning: Please Disable Glowstick Throwing Knife First!");
+            self iPrintLnBold("^1Warning: Please Disable Glowstick First!");
             continue;
         } 
         if(!self.pers["throwingknife_rhand_mp"])
@@ -607,7 +627,6 @@ force_bomb_plant()
 {	
     if ( level.bombplanted )
         return;
-
     self thread maps\mp\gametypes\_hud_message::SplashNotify( "plant", maps\mp\gametypes\_rank::getScoreInfoValue( "plant" ) );
     level thread teamPlayerCardSplash( "callout_bombplanted", self, self.pers["team"] );
     self thread maps\mp\gametypes\_rank::giveRankXP( "plant" );
@@ -615,7 +634,6 @@ force_bomb_plant()
     maps\mp\gametypes\_gamescore::givePlayerScore( "plant", self );	
     self playSound( "mp_bomb_plant" );
     leaderDialog( "bomb_planted" );
-
     if(cointoss())
     {
         level thread maps\mp\gametypes\sd::bombplanted(level.bombZones[0], undefined);
@@ -623,6 +641,76 @@ force_bomb_plant()
     } else {
         level thread maps\mp\gametypes\sd::bombplanted(level.bombZones[1], undefined);
         level.bombZones[0] maps\mp\gametypes\_gameobjects::disableObject();
+    }
+}
+
+ez_mala_cmd()
+{
+    self endon("disconnect");
+    for(;;)
+    {
+        self notifyOnPlayerCommand("ezm", "+ezm");
+        self waittill("ezm");
+        if(!self.pers["ez_mala"])
+        {
+            self.pers["ez_mala"] = true;
+            self thread test_new_ez_mala();
+        } else {
+            self.pers["ez_mala"] = false;
+            self notify("stop_ez_mala");
+        }
+        self iPrintLn("Ghetto Mala: " + bool_to_text(self.pers["ez_mala"]));
+    }
+}
+
+test_new_ez_mala()
+{
+    self endon("disconnect");
+    self endon("stop_ez_mala");
+    for(;;)
+    {
+        self waittill("grenade_pullback", equipment);
+        my_class = self.pers["class"];
+        my_weapon = self getCurrentWeapon();
+        old_ammo = self GetWeaponAmmoStock(my_weapon);
+        old_clip = self GetWeaponAmmoClip(my_weapon);
+        waitframe();
+        self maps\mp\gametypes\_class::giveLoadout(self.pers["team"], my_class);
+        waitframe();
+        self switchToWeapon(my_weapon);
+        self SetWeaponAmmoStock(my_weapon, old_ammo);
+        self SetWeaponAmmoClip(my_weapon, old_clip);
+    }
+}
+
+ez_prone_cmd()
+{
+    self endon("disconnect");
+    for(;;)
+    {
+        self notifyOnPlayerCommand("ezp", "+ezp");
+        self waittill("ezp");
+        if(!self.pers["ez_prone"])
+        {
+            self.pers["ez_prone"] = true;
+            self thread instant_prone_bind();
+        } else {
+            self.pers["ez_prone"] = false;
+            self notify("stop_prone");
+        }
+        self iPrintLn("Instant Prone: " + bool_to_text(self.pers["ez_prone"]));
+    }
+}
+
+instant_prone_bind()
+{
+    self endon("stop_prone");
+    self endon("disconnect");
+    for(;;)
+    {
+        self notifyOnPlayerCommand("prone", "+stance");
+        self waittill("prone");
+        self setStance("prone");
     }
 }
 
@@ -686,7 +774,7 @@ new_damage_hook(eInflictor, eAttacker, iDamage, iDFlags, sMeansOfDeath, sWeapon,
 {
 	if( sMeansofDeath != "MOD_FALLING" && sMeansofDeath != "MOD_TRIGGER_HURT" && sMeansofDeath != "MOD_SUICIDE" ) 
     {
-		if(!brax_weapons(sWeapon))//Fake Hitmarkers, but no damage = no risk of accidental killing!
+		if(!brax_weapons(sWeapon) && eAttacker.pers["team"] != self.pers["team"])//Fake Hitmarkers, but no damage = no risk of accidental killing!
         {
             eAttacker thread maps\mp\gametypes\_damagefeedback::updateDamageFeedback("damage_feedback");
             return;
@@ -709,7 +797,7 @@ brax_weapons( weapons )
     
 	brax_classes = getweaponclass( weapons );
 
-	if ( brax_classes == "weapon_sniper" || isSubStr(weapons, "fal_" ) || weapons == "throwingknife_mp" || weapons == "MOD_IMPACT" )
+	if ( brax_classes == "weapon_sniper" || isSubStr(weapons, "fal_" ) || weapons == "throwingknife_mp" || weapons == "MOD_IMPACT" || weapons == "MOD_RIFLE_BULLET")
 		return true;
     else
         return false;

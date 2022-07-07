@@ -34,12 +34,14 @@ This mod was inspired by @plugwalker47 & requires IW4X 0.7.1
 - +sl = Enables/Disable's Softland (HOST Only).
 - +rh = Righthand TK (Can be weapon cancelled now).
 - +glow = Glowstick (Can be weapon cancelled now).
-- +tv = Enables/Disable's Thermal Vision Scope
-- +is = Enables/Disable's Instashoots
-- +ch = Enables/Disable's Console Like HUD
+- +tv = Enables/Disable's Thermal Vision Scope.
+- +is = Enables/Disable's Instashoots.
+- +ch = Enables/Disable's Console Like HUD.
 - +ks = Give random killstreak (3 to choose from).
-- +ah = Enable/Disable's Almost Hit message (Must be 10m or more away in order for it to show).
+- +ah = Enables/Disable's Almost Hit message (Must be 10m or more away in order for it to show).
 - +us = Unstuck if you are stuck somewhere.
+- +ezm = Enables/Disable's Easy Mala's (Press Equipment to Mala).
+- +ezp = Enables/Disable's Instant Pront when +stance is pressed.
 - spawnBot 1 = Spawns 1 Bot.
     - These are all bindable with /bind [key] +command.
 
