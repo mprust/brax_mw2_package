@@ -86,11 +86,6 @@ on_player_connect()
                 if(!isDefined(player.pers["bot_angles"]))
                     player.pers["bot_angles"] = 0;
 
-                player.bot_speed = 1.5;
-                player.pers["botcount"] = 0;
-                player.pers["botorigin"] = undefined;
-                player.bolt_bolting = false;
-                
                 player thread tele_bots_cmd();
                 player thread begin_auto_plant();
             }
