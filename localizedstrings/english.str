@@ -1,0 +1,154 @@
+REFERENCE			PLATFORM_SWAPWEAPONS
+LANG_ENGLISH		"Press and hold &&1 for"
+
+REFERENCE			PLATFORM_MANTLE
+LANG_ENGLISH		"Press &&1 to  "
+
+REFERENCE			PLATFORM_HOLD_BREATH
+LANG_ENGLISH		"Press and hold &&1 to steady"
+
+REFERENCE			PLATFORM_PICKUPNEWWEAPON
+LANG_ENGLISH		"Press and hold &&1 to pick up"
+
+REFERENCE			PLATFORM_HOLD_TO_DROP
+LANG_ENGLISH		"Press &&1 to drop"
+
+REFERENCE			PLATFORM_HOLD_TO_PLANT_EXPLOSIVES
+LANG_ENGLISH		"Press and hold &&1 to plant explosives  "
+
+REFERENCE			PLATFORM_HOLD_TO_DEFUSE_EXPLOSIVES
+LANG_ENGLISH		"Press and hold &&1 to defuse explosives  "
+
+REFERENCE			MP_DESTROY_TI
+LANG_ENGLISH		"Hold ^3&&1^7 to smash Tactical Insertion"
+
+REFERENCE			MP_PICKUP_TI
+LANG_ENGLISH		"Hold ^3&&1^7 to pick up Tactical Insertion"
+
+REFERENCE			PLATFORM_PREDATOR_MISSILE_AIM
+LANG_ENGLISH		" Steer"
+
+REFERENCE			PLATFORM_PRESS_TO_SKIP
+LANG_ENGLISH		" Skip"
+
+REFERENCE			MPUI_END_GAME
+LANG_ENGLISH		"Leave Game"
+
+REFERENCE			MPUI_END_GAME1
+LANG_ENGLISH		"Leave Game?"
+
+REFERENCE			PLATFORM_END_GAME
+LANG_ENGLISH		"Leave Game"
+
+REFERENCE			MENU_END_GAME
+LANG_ENGLISH		"Leave Game"
+
+REFERENCE           ui_menuAButton
+LANG_ENGLISH        "[{+gostand}]"
+
+REFERENCE			PLATFORM_UI_SELECTBUTTON
+LANG_ENGLISH		""
+
+REFERENCE			PLATFORM_UI_SELECTBUTTON_SELECT
+LANG_ENGLISH		"Press  to select."
+
+REFERENCE			PLATFORM_LOCSEL_DIR_CONTROLS
+LANG_ENGLISH		"Set direction with "
+
+REFERENCE			PLATFORM_LOCSEL_POSITION_CONTROLS
+LANG_ENGLISH		"Set location with "
+
+REFERENCE			PLATFORM_USE_BUTTONMOVE_TO_POSITION
+LANG_ENGLISH		"Use  to position"
+
+REFERENCE			PLATFORM_USE_BUTTONLOOK_TO_AIM
+LANG_ENGLISH		"Use  to aim"
+
+REFERENCE			PLATFORM_PRESS_BUTTON_TO_CONFIRM_TARGET
+LANG_ENGLISH		"Press  to confirm target"
+
+REFERENCE			PLATFORM_PRESS_TO_USE_AIRSTRIKE
+LANG_ENGLISH		"Press and hold &&1 to call in air strike"
+
+REFERENCE			PLATFORM_PRESS_TO_SET_AIRSTRIKE
+LANG_ENGLISH		"Press  to call in air strike"
+
+REFERENCE           SENTRY_PLACE
+LANG_ENGLISH        "Press [{+attack}] to place the turret."
+
+REFERENCE			PLATFORM_RESUPPLY
+LANG_ENGLISH		"Press and hold ^3&&1^7 to resupply"
+
+REFERENCE			PLATFORM_REVIVE
+LANG_ENGLISH		"Press and hold ^3&&1^7 to revive player."
+
+REFERENCE			PLATFORM_PRESS_TO_COPYCAT
+LANG_ENGLISH		"[{weapnext}] Steal their class!"
+
+REFERENCE			MP_AMMO_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for ammo resupply"
+
+REFERENCE			MP_UAV_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for a UAV"
+
+REFERENCE			MP_COUNTER_UAV_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for a Counter-UAV"
+
+REFERENCE			MP_SENTRY_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for a Sentry Gun"
+
+REFERENCE           SENTRY_PICKUP
+LANG_ENGLISH        "Press and hold [{+activate}] to pick up the turret."
+
+REFERENCE			MP_PREDATOR_MISSILE_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for a Predator Missile"
+
+REFERENCE			MP_PRECISION_AIRSTRIKE_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for a Precision Airstrike"
+
+REFERENCE			MP_AIRSTRIKE_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for an Airstrike"
+
+REFERENCE			MP_STEALTH_AIRSTRIKE_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for a Stealth Bomber"
+
+REFERENCE			MP_HARRIER_AIRSTRIKE_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for a Harrier Airstrike"
+
+REFERENCE			MP_HELICOPTER_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for an Attack Helicopter"
+
+REFERENCE			MP_HELICOPTER_FLARES_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for a Pavelow"
+
+REFERENCE			MP_HELICOPTER_MINIGUN_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for a Chopper Gunner"
+
+REFERENCE			MP_AC130_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for an AC130"
+
+REFERENCE			MP_EMP_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for an EMP"
+
+REFERENCE			MP_NUKE_PICKUP
+LANG_ENGLISH		"Press and hold [{+activate}] for a Nuclear Strike"
+
+REFERENCE			PLATFORM_FOLLOWNEXTPLAYER
+LANG_ENGLISH		" Next"
+
+REFERENCE			PLATFORM_FOLLOWPREVPLAYER
+LANG_ENGLISH		" Previous"
+
+REFERENCE			PLATFORM_FOLLOWSTART
+LANG_ENGLISH		" Chase"
+
+REFERENCE			PLATFORM_FOLLOWSTOP
+LANG_ENGLISH		" Free"
+
+REFERENCE			PLATFORM_MP_OPEN_MENU
+LANG_ENGLISH		"&&1 Menu"
+
+REFERENCE			PLATFORM_SCOREBOARD
+LANG_ENGLISH		"&&1 Score"
+
+ENDMARKER
