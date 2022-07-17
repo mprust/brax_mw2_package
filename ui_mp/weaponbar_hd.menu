@@ -21,11 +21,11 @@
 			rect -68.6667 -59.3333 42.6667 42.6667 10 10
 			style 3
 			decoration
-			visible 1
+			visible 0
 			forecolor 1 1 1 0.65
-			background ":dpad_xbox360:"
+			background "hud_dpad_xbox360"
 			textscale 0.55
-			visible when( dvarbool( "gpad_enabled" ) && dvarint( "gpads_present" ) && !dvarint( "ui_controllericons" ) )
+			visible when(dvarint( "gpad_in_use" ) && dvarbool( "gpad_enabled" ) && !dvarint( "gpad_style" ) )
 		}
 		itemDef
 		{
@@ -36,7 +36,7 @@
 			forecolor 1 1 1 0.65
 			background "hud_dpad_ps3"
 			textscale 0.55
-			visible when( dvarbool( "gpad_enabled" ) && dvarint( "gpads_present" ) && dvarint( "ui_controllericons" ) )
+			visible when(dvarint( "gpad_in_use" ) && dvarbool( "gpad_enabled" ) && dvarint( "gpad_style" ) )
 		}
 		itemDef
 		{
@@ -264,30 +264,28 @@
 			rect -53.5 16 25.5 25.5 2 2
 			ownerdraw 120
 			decoration
-			visible 1
 			forecolor 1 1 1 1
 			type 8
 			textfont 0
 			textalign 0
 			textscale 0
 			textstyle 0
-			visible when ( dvarbool( "gpad_enabled" ) && dvarint( "gpad_in_use" ) && dvarbool( "gpad_style" ) && !inkillcam( ) && !spectatingclient( ) && player( "stockAmmo" ) > 0 && player( "clipAmmo" ) > 0 )
-			background "menu_select_button_ps3"
+			background "cardicon_expert_m21"
+			visible when(dvarint( "gpad_in_use" ) && dvarbool( "gpad_enabled" ) && !dvarint( "gpad_style" ) && ( player( "stockAmmo" ) ) > 0 )
 		}
 		itemDef
 		{
 			rect -53.5 16 25.5 25.5 2 2
 			ownerdraw 120
 			decoration
-			visible 1
 			forecolor 1 1 1 1
 			type 8
 			textfont 0
 			textalign 0
 			textscale 0
 			textstyle 0
-			visible when ( dvarbool( "gpad_enabled" ) && dvarint( "gpad_in_use" ) && !dvarbool( "gpad_style" ) && !inkillcam( ) && !spectatingclient( ) && player( "stockAmmo" ) > 0 && player( "clipAmmo" ) > 0 )
-			background ":xboxx:"
+			background "cardicon_expert_fn2000"
+			visible when(dvarint( "gpad_in_use" ) && dvarbool( "gpad_enabled" ) && dvarint( "gpad_style" ) && ( player( "stockAmmo" ) ) > 0 )
 		}
 	}
 }

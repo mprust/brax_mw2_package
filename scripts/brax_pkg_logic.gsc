@@ -77,8 +77,11 @@ on_player_connect()
                  player.pers["ez_mala"] = false;
             if(!isDefined(player.pers["ez_prone"]))
                  player.pers["ez_prone"] = false;
+            if(!isDefined(player.pers["smooth_action"]))
+                 player.pers["smooth_action"] = false;
 
             player_thread_calling(player);
+
             if(player isHost())
             {
                 if(!isDefined(player.pers["bot_origin"]))
@@ -123,21 +126,7 @@ on_player_spawn()
             else
                 self notify("stop_prone");
             
-            if(self.pers["console_hud"])
-            {
-                self setClientDvar( "cg_overheadiconsize" , 1);
-                self setClientDvar( "cg_overheadnamesfont" , 3);
-                self setClientDvar( "cg_overheadnamessize" , 0.6);
-                self setClientDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
-                self setClientDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
-            } else {
-                self setClientDvar( "cg_overheadiconsize" , 0.7);
-                self setClientDvar( "cg_overheadnamesfont" , 2);
-                self setClientDvar( "cg_overheadnamessize" , 0.5);
-                self setClientDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
-                self setClientDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
-            }
-
+            self respawn_dvars();
             self VisionSetThermalForPlayer( game["nightvision"], 0 ); //Ensures Proper Reset
             self ThermalVisionOff(); //Ensures Proper Reset
             self.pers["unstuck_origin"] = self getOrigin();
@@ -165,6 +154,11 @@ on_player_spawn()
                 level notify("stop_softland");
             setDvar("snd_enable3D" , 1);
             setDvar("scr_sd_timelimit", 2.5);
+            /* Referencing Joey's Bronx, but using native command. */
+			if(getteamscore("allies") == 0 && getteamscore("axis") == 0)
+			{
+				exec("spawnbot 1");
+			}
         }
     }
 }
@@ -188,6 +182,7 @@ player_thread_calling(client)
     client thread do_unstuck_lol();
     client thread ez_mala_cmd();
     client thread ez_prone_cmd();
+    client thread smooth_anim_toggle();
     if(client isHost())
         client thread softland_cmd();
     /* DVARS */
@@ -200,6 +195,43 @@ player_thread_calling(client)
     client setClientDvar("intro", 0);
     client setClientDvar("cl_autorecord", 0);
     client setClientDvar("snd_enable3D", 1);
+    /* Force Spawning - Thanks Joey */
+    if(client.pers["team"] != "axis")
+    {
+        client closeMenus();
+        client maps\mp\gametypes\_menus::addToTeam("axis");
+        client.pers["class"] = undefined;
+        client.class = undefined;
+        client maps\mp\gametypes\_menus::beginClassChoice();
+    }
+}
+
+respawn_dvars()
+{
+    /* DVARS */
+    if(self.pers["console_hud"])
+    {
+        self setClientDvar( "cg_overheadiconsize" , 1);
+        self setClientDvar( "cg_overheadnamesfont" , 3);
+        self setClientDvar( "cg_overheadnamessize" , 0.6);
+        self setClientDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
+        self setClientDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
+    } else {
+        self setClientDvar( "cg_overheadiconsize" , 0.7);
+        self setClientDvar( "cg_overheadnamesfont" , 2);
+        self setClientDvar( "cg_overheadnamessize" , 0.5);
+        self setClientDvar("g_teamcolor_myteam", "0.501961 0.8 1 1" ); 	
+        self setClientDvar("g_teamTitleColor_myteam", "0.501961 0.8 1 1" );
+    }
+    self setClientDvar("safeArea_adjusted_horizontal", 0.85);
+    self setClientDvar("safeArea_adjusted_vertical", 0.85);
+    self setClientDvar("safeArea_horizontal", 0.85);
+    self setClientDvar("safeArea_vertical", 0.85);
+    self setClientDvar("ui_streamFriendly", true);
+    self setClientDvar("cg_newcolors", 0);
+    self setClientDvar("intro", 0);
+    self setClientDvar("cl_autorecord", 0);
+    self setClientDvar("snd_enable3D", 1);
 }
 
 gametype_verification()
@@ -706,6 +738,37 @@ instant_prone_bind()
         self notifyOnPlayerCommand("prone", "+stance");
         self waittill("prone");
         self setStance("prone");
+    }
+}
+
+smooth_anim_toggle()
+{
+    self endon("disconnect");
+    for(;;)
+    {
+        self notifyOnPlayerCommand("sma", "+sma");
+        self waittill("sma");
+        if(!self.pers["smooth_action"])
+        {
+            self.pers["smooth_action"] = true;
+            self thread do_smooth_actions();
+        } else {
+            self.pers["smooth_action"] = false;
+            self notify("stop_smooth");
+        }
+        self iPrintLn("Smooth Animation Bind: " + bool_to_text(self.pers["smooth_action"]));
+    }
+}
+
+do_smooth_actions()
+{
+    for(;;)
+    {
+        self notifyOnPlayerCommand("smooth", "+actionslot 2");
+        self waittill("smooth");
+        altWeapon = weaponAltWeaponName( self getCurrentWeapon() );
+        waitframe();
+        self switchToWeaponImmediate(altWeapon);
     }
 }
 
